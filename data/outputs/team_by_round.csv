@@ -1,0 +1,217 @@
+team,round,plus_minus,total_picks,avg_plus_minus_per_pick,team_color
+Anaheim,1,-232,15,-15.47,#F47A38
+Anaheim,2,-270,16,-16.88,#F47A38
+Anaheim,3,-47,12,-3.92,#F47A38
+Anaheim,4,270,10,27.0,#F47A38
+Anaheim,5,624,12,52.0,#F47A38
+Anaheim,6,595,7,85.0,#F47A38
+Anaheim,7,710,6,118.33,#F47A38
+Arizona,1,-402,18,-22.33,#8C2633
+Arizona,2,-294,13,-22.62,#8C2633
+Arizona,3,-108,14,-7.71,#8C2633
+Arizona,4,231,9,25.67,#8C2633
+Arizona,5,606,11,55.09,#8C2633
+Arizona,6,353,6,58.83,#8C2633
+Arizona,7,1127,11,102.45,#8C2633
+Boston,1,-302,14,-21.57,#FFB81C
+Boston,2,-262,15,-17.47,#FFB81C
+Boston,3,63,6,10.5,#FFB81C
+Boston,4,285,9,31.67,#FFB81C
+Boston,5,613,11,55.73,#FFB81C
+Boston,6,942,11,85.64,#FFB81C
+Boston,7,1301,12,108.42,#FFB81C
+Buffalo,1,-296,15,-19.73,#003087
+Buffalo,2,-362,15,-24.13,#003087
+Buffalo,3,-65,14,-4.64,#003087
+Buffalo,4,304,10,30.4,#003087
+Buffalo,5,640,14,45.71,#003087
+Buffalo,6,708,8,88.5,#003087
+Buffalo,7,1660,16,103.75,#003087
+Calgary,1,-348,12,-29.0,#D2001C
+Calgary,2,-112,8,-14.0,#D2001C
+Calgary,3,-92,12,-7.67,#D2001C
+Calgary,4,470,12,39.17,#D2001C
+Calgary,5,413,9,45.89,#D2001C
+Calgary,6,849,10,84.9,#D2001C
+Calgary,7,1426,14,101.86,#D2001C
+Carolina,1,-271,12,-22.58,#CC0000
+Carolina,2,11,13,0.85,#CC0000
+Carolina,3,-39,13,-3.0,#CC0000
+Carolina,4,390,14,27.86,#CC0000
+Carolina,5,477,10,47.7,#CC0000
+Carolina,6,781,10,78.1,#CC0000
+Carolina,7,949,9,105.44,#CC0000
+Chicago,1,-187,12,-15.58,#CF0A2C
+Chicago,2,-433,19,-22.79,#CF0A2C
+Chicago,3,-85,15,-5.67,#CF0A2C
+Chicago,4,485,15,32.33,#CF0A2C
+Chicago,5,775,14,55.36,#CF0A2C
+Chicago,6,1390,17,81.76,#CF0A2C
+Chicago,7,1241,12,103.42,#CF0A2C
+Colorado,1,-222,11,-20.18,#6F263D
+Colorado,2,-421,17,-24.76,#6F263D
+Colorado,3,6,8,0.75,#6F263D
+Colorado,4,164,11,14.91,#6F263D
+Colorado,5,465,9,51.67,#6F263D
+Colorado,6,746,11,67.82,#6F263D
+Colorado,7,1183,12,98.58,#6F263D
+Columbus,1,-320,14,-22.86,#002654
+Columbus,2,-322,14,-23.0,#002654
+Columbus,3,100,8,12.5,#002654
+Columbus,4,451,12,37.58,#002654
+Columbus,5,611,13,47.0,#002654
+Columbus,6,1099,12,91.58,#002654
+Columbus,7,1308,12,109.0,#002654
+Dallas,1,-310,11,-28.18,#006847
+Dallas,2,-92,12,-7.67,#006847
+Dallas,3,17,11,1.55,#006847
+Dallas,4,248,9,27.56,#006847
+Dallas,5,1197,19,63.0,#006847
+Dallas,6,612,8,76.5,#006847
+Dallas,7,514,5,102.8,#006847
+Detroit,1,-96,8,-12.0,#CE1126
+Detroit,2,-11,16,-0.69,#CE1126
+Detroit,3,-26,13,-2.0,#CE1126
+Detroit,4,333,9,37.0,#CE1126
+Detroit,5,676,13,52.0,#CE1126
+Detroit,6,1016,13,78.15,#CE1126
+Detroit,7,1644,15,109.6,#CE1126
+Edmonton,1,-170,15,-11.33,#041E42
+Edmonton,2,-278,10,-27.8,#041E42
+Edmonton,3,-149,15,-9.93,#041E42
+Edmonton,4,344,16,21.5,#041E42
+Edmonton,5,459,11,41.73,#041E42
+Edmonton,6,859,11,78.09,#041E42
+Edmonton,7,858,8,107.25,#041E42
+Florida,1,-221,14,-15.79,#C9082A
+Florida,2,-399,12,-33.25,#C9082A
+Florida,3,-53,15,-3.53,#C9082A
+Florida,4,286,16,17.88,#C9082A
+Florida,5,404,9,44.89,#C9082A
+Florida,6,843,11,76.64,#C9082A
+Florida,7,1019,9,113.22,#C9082A
+Los Angeles,1,-69,10,-6.9,#111111
+Los Angeles,2,-163,14,-11.64,#111111
+Los Angeles,3,103,11,9.36,#111111
+Los Angeles,4,579,13,44.54,#111111
+Los Angeles,5,847,14,60.5,#111111
+Los Angeles,6,863,11,78.45,#111111
+Los Angeles,7,1780,15,118.67,#111111
+Minnesota,1,-253,12,-21.08,#154734
+Minnesota,2,-107,10,-10.7,#154734
+Minnesota,3,29,5,5.8,#154734
+Minnesota,4,302,12,25.17,#154734
+Minnesota,5,578,9,64.22,#154734
+Minnesota,6,734,10,73.4,#154734
+Minnesota,7,1588,15,105.87,#154734
+Montreal,1,-279,12,-23.25,#AF1E2D
+Montreal,2,-185,11,-16.82,#AF1E2D
+Montreal,3,-92,14,-6.57,#AF1E2D
+Montreal,4,113,10,11.3,#AF1E2D
+Montreal,5,712,14,50.86,#AF1E2D
+Montreal,6,666,8,83.25,#AF1E2D
+Montreal,7,1267,11,115.18,#AF1E2D
+NY Islanders,1,-271,15,-18.07,#F47D30
+NY Islanders,2,-199,9,-22.11,#F47D30
+NY Islanders,3,-255,14,-18.21,#F47D30
+NY Islanders,4,422,13,32.46,#F47D30
+NY Islanders,5,579,12,48.25,#F47D30
+NY Islanders,6,1191,13,91.62,#F47D30
+NY Islanders,7,1217,12,101.42,#F47D30
+NY Rangers,1,-186,10,-18.6,#0038A8
+NY Rangers,2,-107,8,-13.38,#0038A8
+NY Rangers,3,-75,15,-5.0,#0038A8
+NY Rangers,4,339,12,28.25,#0038A8
+NY Rangers,5,601,14,42.93,#0038A8
+NY Rangers,6,910,10,91.0,#0038A8
+NY Rangers,7,861,8,107.62,#0038A8
+Nashville,1,-115,9,-12.78,#FFB81C
+Nashville,2,-139,13,-10.69,#FFB81C
+Nashville,3,119,14,8.5,#FFB81C
+Nashville,4,444,15,29.6,#FFB81C
+Nashville,5,528,10,52.8,#FFB81C
+Nashville,6,999,13,76.85,#FFB81C
+Nashville,7,1243,11,113.0,#FFB81C
+New Jersey,1,-236,10,-23.6,#CE1126
+New Jersey,2,-86,11,-7.82,#CE1126
+New Jersey,3,152,16,9.5,#CE1126
+New Jersey,4,360,12,30.0,#CE1126
+New Jersey,5,635,10,63.5,#CE1126
+New Jersey,6,1015,13,78.08,#CE1126
+New Jersey,7,1287,12,107.25,#CE1126
+Ottawa,1,-287,14,-20.5,#C8102E
+Ottawa,2,-164,9,-18.22,#C8102E
+Ottawa,3,35,8,4.38,#C8102E
+Ottawa,4,652,18,36.22,#C8102E
+Ottawa,5,565,9,62.78,#C8102E
+Ottawa,6,733,9,81.44,#C8102E
+Ottawa,7,1241,11,112.82,#C8102E
+Philadelphia,1,-164,13,-12.62,#F74902
+Philadelphia,2,-231,9,-25.67,#F74902
+Philadelphia,3,144,11,13.09,#F74902
+Philadelphia,4,215,11,19.55,#F74902
+Philadelphia,5,603,10,60.3,#F74902
+Philadelphia,6,1120,13,86.15,#F74902
+Philadelphia,7,1184,11,107.64,#F74902
+Pittsburgh,1,-226,9,-25.11,#FCB514
+Pittsburgh,2,-212,9,-23.56,#FCB514
+Pittsburgh,3,233,10,23.3,#FCB514
+Pittsburgh,4,304,10,30.4,#FCB514
+Pittsburgh,5,667,12,55.58,#FCB514
+Pittsburgh,6,1082,13,83.23,#FCB514
+Pittsburgh,7,967,8,120.88,#FCB514
+San Jose,1,-154,10,-15.4,#006D75
+San Jose,2,-184,12,-15.33,#006D75
+San Jose,3,-101,5,-20.2,#006D75
+San Jose,4,156,7,22.29,#006D75
+San Jose,5,960,16,60.0,#006D75
+San Jose,6,1336,14,95.43,#006D75
+San Jose,7,2064,17,121.41,#006D75
+St. Louis,1,-44,15,-2.93,#002F87
+St. Louis,2,-392,17,-23.06,#002F87
+St. Louis,3,46,10,4.6,#002F87
+St. Louis,4,271,14,19.36,#002F87
+St. Louis,5,449,9,49.89,#002F87
+St. Louis,6,1112,14,79.43,#002F87
+St. Louis,7,1025,10,102.5,#002F87
+Tampa Bay,1,-208,11,-18.91,#002868
+Tampa Bay,2,-236,14,-16.86,#002868
+Tampa Bay,3,71,13,5.46,#002868
+Tampa Bay,4,404,12,33.67,#002868
+Tampa Bay,5,316,6,52.67,#002868
+Tampa Bay,6,1150,13,88.46,#002868
+Tampa Bay,7,1885,17,110.88,#002868
+Toronto,1,-234,11,-21.27,#003E7E
+Toronto,2,-308,11,-28.0,#003E7E
+Toronto,3,-83,11,-7.55,#003E7E
+Toronto,4,244,11,22.18,#003E7E
+Toronto,5,727,15,48.47,#003E7E
+Toronto,6,1227,15,81.8,#003E7E
+Toronto,7,1571,13,120.85,#003E7E
+Vancouver,1,-419,14,-29.93,#00205B
+Vancouver,2,-192,7,-27.43,#00205B
+Vancouver,3,-17,7,-2.43,#00205B
+Vancouver,4,84,7,12.0,#00205B
+Vancouver,5,806,14,57.57,#00205B
+Vancouver,6,1000,13,76.92,#00205B
+Vancouver,7,1348,13,103.69,#00205B
+Vegas,1,-32,3,-10.67,#B4975A
+Vegas,2,11,2,5.5,#B4975A
+Vegas,3,4,1,4.0,#B4975A
+Vegas,5,83,2,41.5,#B4975A
+Vegas,6,65,1,65.0,#B4975A
+Vegas,7,121,1,121.0,#B4975A
+Washington,1,-231,13,-17.77,#CF0A2C
+Washington,2,-195,10,-19.5,#CF0A2C
+Washington,3,147,6,24.5,#CF0A2C
+Washington,4,184,10,18.4,#CF0A2C
+Washington,5,716,13,55.08,#CF0A2C
+Washington,6,1289,14,92.07,#CF0A2C
+Washington,7,1286,12,107.17,#CF0A2C
+Winnipeg,1,-246,15,-16.4,#004C97
+Winnipeg,2,-295,9,-32.78,#004C97
+Winnipeg,3,-82,13,-6.31,#004C97
+Winnipeg,4,292,13,22.46,#004C97
+Winnipeg,5,335,9,37.22,#004C97
+Winnipeg,6,784,10,78.4,#004C97
+Winnipeg,7,1872,17,110.12,#004C97
