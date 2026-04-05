@@ -1,0 +1,2485 @@
+draft_year,round,pick_number,team,player_name,position,games_played,points,performance_score,expected_performance,draft_value
+2005,1,1,Pittsburgh,Sidney Crosby,C,1417.0,1756.0,1366.28,1064.72,301.56
+2005,1,2,Anaheim,Bobby Ryan,R,866.0,569.0,891.65,891.85,-0.2
+2005,1,3,Carolina,Jack Johnson,D,1228.0,342.0,583.05,886.09,-303.04
+2005,1,4,Minnesota,Benoit Pouliot,L,625.0,263.0,699.05,797.2,-98.15
+2005,1,6,Columbus,Gilbert Brule,C,299.0,95.0,516.55,733.33,-216.78
+2005,1,7,Chicago,Jack Skille,R,368.0,84.0,542.09,762.06,-219.97
+2005,1,8,San Jose,Devin Setoguchi,R,516.0,261.0,768.36,580.9,187.46
+2005,1,9,Ottawa,Brian Lee,D,209.0,36.0,291.44,783.1,-491.66
+2005,1,10,Vancouver,Luc Bourdon,D,36.0,2.0,40.58,613.02,-572.44
+2005,1,11,Los Angeles,Anze Kopitar,C,1515.0,1314.0,1063.08,522.52,540.56
+2005,1,12,NY Rangers,Marc Staal,D,1136.0,234.0,523.93,626.88,-102.95
+2005,1,13,Buffalo,Marek Zagrapan,C,0.0,0.0,0.0,541.74,-541.74
+2005,1,14,Washington,Sasha Pokulok,D,0.0,0.0,0.0,578.56,-578.56
+2005,1,15,NY Islanders,Ryan O'Marra,C,33.0,7.0,49.03,576.66,-527.63
+2005,1,16,Winnipeg,Alex Bourret,R,0.0,0.0,0.0,615.55,-615.55
+2005,1,17,Arizona,Martin Hanzal,C,673.0,338.0,765.44,525.27,240.17
+2005,1,18,Nashville,Ryan Parent,D,106.0,7.0,122.03,507.88,-385.85
+2005,1,19,Detroit,Jakub Kindl,D,331.0,74.0,500.46,440.82,59.64
+2005,1,20,Florida,Kenndal McArdle,L,42.0,3.0,48.87,551.61,-502.74
+2005,1,22,Boston,Matt Lashoff,D,74.0,16.0,110.64,495.46,-384.82
+2005,1,23,New Jersey,Nicklas Bergfors,R,173.0,83.0,363.07,366.86,-3.79
+2005,1,24,St. Louis,T.J. Oshie,R,1010.0,695.0,916.98,462.24,454.74
+2005,1,25,Edmonton,Andrew Cogliano,C,1294.0,464.0,648.33,367.93,280.4
+2005,1,26,Calgary,Matt Pelech,R,13.0,4.0,22.16,673.33,-651.17
+2005,1,27,Washington,Joe Finley,D,21.0,1.0,23.29,383.0,-359.71
+2005,1,28,Dallas,Matt Niskanen,D,949.0,356.0,661.82,281.51,380.31
+2005,1,29,Philadelphia,Steve Downie,R,434.0,196.0,724.17,288.86,435.31
+2005,1,30,Tampa Bay,Vladimir Mihalik,D,15.0,3.0,21.87,460.5,-438.63
+2005,2,31,Anaheim,Brendan Mikkelson,L,131.0,10.0,153.9,169.48,-15.58
+2005,2,33,Dallas,James Neal,L,869.0,559.0,880.42,265.03,615.39
+2005,2,34,Colorado,Ryan Stoa,C,40.0,7.0,56.03,270.64,-214.61
+2005,2,35,San Jose,Marc-Edouard Vlasic,D,1323.0,379.0,589.54,310.28,279.26
+2005,2,36,Edmonton,Taylor Chorney,D,166.0,22.0,216.38,206.34,10.04
+2005,2,37,St. Louis,Scott Jackson,D,1.0,0.0,1.0,246.11,-245.11
+2005,2,39,Boston,Petr Kalus,R,11.0,5.0,22.45,398.69,-376.24
+2005,2,40,NY Rangers,Mike Sauer,D,98.0,18.0,139.22,88.42,50.8
+2005,2,42,Detroit,Justin Abdelkader,L,739.0,252.0,634.0,268.36,365.64
+2005,2,43,Chicago,Mike Blunden,R,127.0,13.0,156.77,316.36,-159.59
+2005,2,44,Colorado,Paul Stastny,C,1145.0,822.0,941.26,224.88,716.38
+2005,2,45,Montreal,Guillaume Latendresse,R,341.0,147.0,677.63,263.77,413.86
+2005,2,46,NY Islanders,Dustin Kohn,D,22.0,4.0,31.16,197.53,-166.37
+2005,2,47,Colorado,Tom Fritsche,L,0.0,0.0,0.0,347.17,-347.17
+2005,2,48,Buffalo,Philipp Gogulla,L,0.0,0.0,0.0,89.69,-89.69
+2005,2,49,Winnipeg,Chad Denny,D,0.0,0.0,0.0,281.71,-281.71
+2005,2,50,Los Angeles,Dany Roussin,L,0.0,0.0,0.0,222.67,-222.67
+2005,2,51,Vancouver,Mason Raymond,L,546.0,251.0,730.77,200.85,529.92
+2005,2,52,Colorado,Chris Durand,C,0.0,0.0,0.0,208.52,-208.52
+2005,2,53,Winnipeg,Andrew Kozek,W,0.0,0.0,0.0,281.25,-281.25
+2005,2,54,Chicago,Dan Bertram,R,0.0,0.0,0.0,256.36,-256.36
+2005,2,55,Columbus,Adam McQuaid,D,512.0,73.0,472.24,438.76,33.48
+2005,2,56,NY Rangers,Marc-Andre Cliche,C,151.0,14.0,183.06,238.67,-55.61
+2005,2,57,Minnesota,Matt Kassian,L,76.0,5.0,87.45,225.42,-137.97
+2005,2,58,Carolina,Nate Hagemo,D,0.0,0.0,0.0,495.57,-495.57
+2005,2,60,Los Angeles,T.J. Fast,D,0.0,0.0,0.0,264.35,-264.35
+2005,2,61,Pittsburgh,Michael Gergen,D,0.0,0.0,0.0,216.97,-216.97
+2005,3,62,Pittsburgh,Kristopher Letang,D,1232.0,805.0,888.69,62.4,826.29
+2005,3,63,Anaheim,Jason Bailey,R,0.0,0.0,0.0,185.8,-185.8
+2005,3,64,Carolina,Joe Barnes,C,0.0,0.0,0.0,173.7,-173.7
+2005,3,66,NY Rangers,Brodie Dupont,L,1.0,0.0,1.0,331.89,-330.89
+2005,3,67,Columbus,Kris Russell,D,912.0,254.0,583.05,202.2,380.85
+2005,3,68,Chicago,Evan Brophey,C,4.0,0.0,4.0,88.27,-84.27
+2005,3,69,Calgary,Gord Baldwin,D,0.0,0.0,0.0,258.45,-258.45
+2005,3,70,Ottawa,Vitali Anikeyenko,D,0.0,0.0,0.0,55.14,-55.14
+2005,3,71,Dallas,Richard Clune,L,139.0,22.0,189.38,190.5,-1.12
+2005,3,73,Tampa Bay,Radek Smolenak,L,7.0,1.0,9.29,70.05,-60.76
+2005,3,74,Calgary,Dan Ryder,C,0.0,0.0,0.0,127.04,-127.04
+2005,3,75,Dallas,Perttu Lindgren,C,1.0,0.0,1.0,243.15,-242.15
+2005,3,76,NY Islanders,Shea Guthrie,C,0.0,0.0,0.0,72.12,-72.12
+2005,3,77,NY Rangers,Dalyn Flatt,D,0.0,0.0,0.0,321.95,-321.95
+2005,3,78,Nashville,Teemu Laakso,D,17.0,0.0,17.0,207.51,-190.51
+2005,3,79,Nashville,Cody Franson,D,550.0,212.0,670.24,228.94,441.3
+2005,3,80,Detroit,Christofer Lofberg,C,0.0,0.0,0.0,199.44,-199.44
+2005,3,81,Edmonton,Danny Syvret,D,59.0,7.0,75.03,63.04,11.99
+2005,3,82,Toronto,Phil Oreskovic,D,10.0,2.0,14.58,231.87,-217.29
+2005,3,83,Boston,Mikko Lehtonen,R,2.0,0.0,2.0,74.74,-72.74
+2005,3,84,New Jersey,Mark Fraser,D,219.0,22.0,269.38,48.09,221.29
+2005,3,86,Edmonton,Robby Dee,C,0.0,0.0,0.0,200.26,-200.26
+2005,3,87,Buffalo,Marc-Andre Gragnani,D,78.0,18.0,119.22,15.47,103.75
+2005,3,88,Colorado,T.J. Hensick,R,112.0,38.0,199.02,49.12,149.9
+2005,3,89,Tampa Bay,Chris Lawrence,R,0.0,0.0,0.0,170.7,-170.7
+2005,3,90,Florida,Dan Collins,R,0.0,0.0,0.0,113.62,-113.62
+2005,3,91,Philadelphia,Oskars Bartulis,D,66.0,9.0,86.61,51.32,35.29
+2005,4,92,Tampa Bay,Marek Bartanus,R,0.0,0.0,0.0,133.62,-133.62
+2005,4,93,Florida,Olivier Legault,L,0.0,0.0,0.0,108.48,-108.48
+2005,4,94,Carolina,Jakub Vojta,D,0.0,0.0,0.0,55.6,-55.6
+2005,4,95,Ottawa,Cody Bass,C,75.0,5.0,86.45,144.86,-58.41
+2005,4,96,Buffalo,Chris Butler,D,407.0,86.0,528.26,180.46,347.8
+2005,4,97,Edmonton,Chris VandeVelde,C,278.0,48.0,387.92,78.05,309.87
+2005,4,98,Ottawa,Ilya Zubov,C,11.0,2.0,15.58,131.29,-115.71
+2005,4,99,New Jersey,Patrick Davis,L,9.0,1.0,11.29,189.25,-177.96
+2005,4,100,Boston,Jonathan Sigalet,D,1.0,0.0,1.0,128.42,-127.42
+2005,4,101,Columbus,Jared Boll,R,579.0,66.0,448.93,109.53,339.4
+2005,4,102,Tampa Bay,Blair Jones,C,132.0,17.0,170.93,123.5,47.43
+2005,4,103,Detroit,Mattias Ritola,R,43.0,9.0,63.61,50.04,13.57
+2005,4,104,Florida,Matt Duffy,D,0.0,0.0,0.0,282.17,-282.17
+2005,4,105,Arizona,Keith Yandle,D,1109.0,619.0,811.03,83.03,728.0
+2005,4,106,Boston,Vladimir Sobotka,C,548.0,171.0,610.39,191.92,418.47
+2005,4,107,NY Rangers,Tom Pyatt,L,445.0,101.0,541.03,22.27,518.76
+2005,4,108,Chicago,Niklas Hjalmarsson,D,821.0,172.0,526.79,97.14,429.65
+2005,4,109,Washington,Andrew Thomas,D,0.0,0.0,0.0,86.99,-86.99
+2005,4,110,Minnesota,Kyle Bailey,C,0.0,0.0,0.0,219.48,-219.48
+2005,4,111,Calgary,J.D. Watt,C,0.0,0.0,0.0,167.98,-167.98
+2005,4,113,Chicago,Nathan Davis,C,0.0,0.0,0.0,102.82,-102.82
+2005,4,115,Ottawa,Janne Kolehmainen,L,0.0,0.0,0.0,56.34,-56.34
+2005,4,116,Winnipeg,Jordan Smotherman,L,4.0,2.0,8.58,90.9,-82.32
+2005,4,117,Chicago,Denis Istomin,R,0.0,0.0,0.0,260.68,-260.68
+2005,4,118,Washington,Patrick McNeill,D,0.0,0.0,0.0,99.56,-99.56
+2005,4,120,Edmonton,Vyacheslav Trukhno,C,0.0,0.0,0.0,171.69,-171.69
+2005,4,121,Montreal,Juraj Mikus,C,0.0,0.0,0.0,297.09,-297.09
+2005,4,122,Minnesota,Morten Madsen,L,0.0,0.0,0.0,0.0,0.0
+2005,4,123,Carolina,Ondrej Otcenas,L,0.0,0.0,0.0,0.0,0.0
+2005,4,124,Colorado,Raymond Macias,D,8.0,1.0,10.29,0.0,10.29
+2005,4,125,Pittsburgh,Tommi Leinonen,D,0.0,0.0,0.0,573.75,-573.75
+2005,5,126,Pittsburgh,Tim Crowder,R,0.0,0.0,0.0,98.64,-98.64
+2005,5,127,Anaheim,Bobby Bolt,L,0.0,0.0,0.0,98.64,-98.64
+2005,5,129,Minnesota,Anthony Aiello,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,130,Montreal,Mathieu Aubin,C,0.0,0.0,0.0,98.64,-98.64
+2005,5,132,Detroit,Darren Helm,C,823.0,266.0,619.49,96.88,522.61
+2005,5,133,Tampa Bay,Stanislav Lascek,R,0.0,0.0,0.0,98.64,-98.64
+2005,5,134,Chicago,Brennan Turner,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,135,Winnipeg,Tomas Pospisil,L,0.0,0.0,0.0,98.64,-98.64
+2005,5,136,Ottawa,Tomas Kudelka,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,137,Detroit,Johan Ryno,C,0.0,0.0,0.0,98.64,-98.64
+2005,5,138,Vancouver,Matt Butcher,C,0.0,0.0,0.0,98.64,-98.64
+2005,5,139,Los Angeles,Patrik Hersley,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,141,Anaheim,Brian Salcido,D,2.0,1.0,4.29,98.63,-94.34
+2005,5,142,Buffalo,Nathan Gerbe,C,435.0,151.0,638.99,96.82,542.17
+2005,5,144,NY Islanders,Masi Marjamaki,L,1.0,0.0,1.0,98.64,-97.64
+2005,5,145,Carolina,Timothy Kunes,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,146,Dallas,Tom Wandell,C,229.0,43.0,327.47,97.71,229.76
+2005,5,147,NY Rangers,Trevor Koverko,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,148,Arizona,Anton Krysanov,C,0.0,0.0,0.0,98.64,-98.64
+2005,5,149,San Jose,Derek Joslin,D,116.0,16.0,152.64,98.21,54.43
+2005,5,150,Nashville,Cal O'Reilly,C,145.0,49.0,257.21,97.91,159.3
+2005,5,151,Detroit,Jeff May,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,152,Philadelphia,Josh Beaulieu,L,0.0,0.0,0.0,98.64,-98.64
+2005,5,153,Toronto,Alex Berry,R,0.0,0.0,0.0,98.64,-98.64
+2005,5,154,Boston,Wacey Rabbit,C,0.0,0.0,0.0,98.64,-98.64
+2005,5,155,New Jersey,Mark Fayne,D,389.0,65.0,492.22,97.24,394.98
+2005,5,156,St. Louis,Ryan Reaves,R,962.0,140.0,474.64,97.29,377.35
+2005,5,157,Edmonton,Fredrik Pettersson,L,0.0,0.0,0.0,98.64,-98.64
+2005,5,159,Carolina,Risto Korhonen,D,0.0,0.0,0.0,98.64,-98.64
+2005,5,160,Dallas,Matt Watkins,R,1.0,0.0,1.0,98.64,-97.64
+2005,5,162,San Jose,P.J. Fenton,L,0.0,0.0,0.0,98.64,-98.64
+2005,6,163,Tampa Bay,Marek Kvapil,L,0.0,0.0,0.0,83.45,-83.45
+2005,6,164,Florida,Roman Derlyuk,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,166,Colorado,Jason Lynch,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,168,Colorado,Justin Mercier,L,9.0,2.0,13.58,83.41,-69.83
+2005,6,169,St. Louis,Mike Gauthier,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,170,New Jersey,Sean Zimmerman,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,171,St. Louis,Nick Drazenovic,C,12.0,0.0,12.0,83.42,-71.42
+2005,6,172,Boston,Lukas Vantuch,C,0.0,0.0,0.0,83.45,-83.45
+2005,6,173,Toronto,Johan Dahlberg,L,0.0,0.0,0.0,83.45,-83.45
+2005,6,174,Philadelphia,John Flatters,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,175,Detroit,Juho Mielonen,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,176,Nashville,Ryan Maki,R,0.0,0.0,0.0,83.45,-83.45
+2005,6,177,Columbus,Derek Reinhart,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,178,NY Rangers,Greg Beller,W,0.0,0.0,0.0,83.45,-83.45
+2005,6,179,Calgary,Brett Sutter,C,60.0,10.0,82.9,83.21,-0.31
+2005,6,180,NY Islanders,Tyrell Mason,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,181,Washington,Tim Kennedy,L,162.0,39.0,251.31,82.72,168.59
+2005,6,183,San Jose,Will Colbert,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,184,Los Angeles,Ryan McGinnis,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,185,Vancouver,Kris Fredheim,D,3.0,0.0,3.0,83.44,-80.44
+2005,6,186,Ottawa,Dmitry Megalinsky,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,187,Winnipeg,Andrey Zubarev,D,4.0,1.0,6.29,83.43,-77.14
+2005,6,188,Chicago,Joe Charlebois,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,189,Columbus,Kirill Starkov,L,0.0,0.0,0.0,83.45,-83.45
+2005,6,190,Montreal,Matt D'Agostini,R,324.0,107.0,569.03,81.78,487.25
+2005,6,191,Buffalo,Vyacheslav Buravchikov,D,0.0,0.0,0.0,83.45,-83.45
+2005,6,192,Carolina,Nicolas Blanchard,L,9.0,0.0,9.0,83.43,-74.43
+2005,6,193,San Jose,Tony Lucia,L,0.0,0.0,0.0,83.45,-83.45
+2005,6,194,Pittsburgh,Jean-Philipp Paquet,D,0.0,0.0,0.0,83.45,-83.45
+2005,7,195,Pittsburgh,Joe Vitale,C,234.0,44.0,334.76,59.67,275.09
+2005,7,196,NY Islanders,Nick Tuzzolino,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,198,Carolina,Kyle Lawson,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,199,Minnesota,Riley Emmerson,L,0.0,0.0,0.0,60.62,-60.62
+2005,7,200,Montreal,Sergei Kostitsyn,R,353.0,176.0,756.04,58.48,697.56
+2005,7,201,Columbus,Trevor Hendrikx,F,0.0,0.0,0.0,60.62,-60.62
+2005,7,202,Chicago,David Kuchejda,R,0.0,0.0,0.0,60.62,-60.62
+2005,7,203,Chicago,Adam Hobson,C,0.0,0.0,0.0,60.62,-60.62
+2005,7,204,Ottawa,Colin Greening,C,286.0,102.0,519.58,59.15,460.43
+2005,7,205,Vancouver,Mario Bliznak,C,6.0,1.0,8.29,60.6,-52.31
+2005,7,206,Los Angeles,Josh Meyers,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,207,Winnipeg,Myles Stoesz,L,0.0,0.0,0.0,60.62,-60.62
+2005,7,208,Buffalo,Matt Generous,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,209,Washington,Viktor Dovgan,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,210,NY Islanders,Luciano Aquino,R,0.0,0.0,0.0,60.62,-60.62
+2005,7,211,NY Rangers,Ryan Russell,C,41.0,2.0,45.58,60.49,-14.91
+2005,7,212,Arizona,Patrick Brosnihan,R,0.0,0.0,0.0,60.62,-60.62
+2005,7,213,Nashville,Scott Todd,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,214,Detroit,Bretton Stamler,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,215,Philadelphia,Matt Clackson,L,0.0,0.0,0.0,60.62,-60.62
+2005,7,216,Toronto,Anton Stralman,D,938.0,293.0,610.65,58.89,551.76
+2005,7,217,Boston,Brock Bradford,C,0.0,0.0,0.0,60.62,-60.62
+2005,7,218,New Jersey,Alexander Sundstrom,C,0.0,0.0,0.0,60.62,-60.62
+2005,7,219,St. Louis,Nikolai Lemtyugov,W,0.0,0.0,0.0,60.62,-60.62
+2005,7,220,Edmonton,Matthew Glasser,L,0.0,0.0,0.0,60.62,-60.62
+2005,7,221,Calgary,Myles Rumsey,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,222,Colorado,Kyle Cumiskey,D,139.0,35.0,219.15,60.0,159.15
+2005,7,224,Florida,Zach Bearson,R,0.0,0.0,0.0,60.62,-60.62
+2005,7,225,Tampa Bay,John Wessbecker,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,226,Los Angeles,John Seymour,L,0.0,0.0,0.0,60.62,-60.62
+2005,7,227,Buffalo,Andrew Orpik,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,228,Toronto,Chad Rau,C,9.0,2.0,13.58,60.58,-47.0
+2005,7,229,Montreal,Philippe Paquet,D,0.0,0.0,0.0,60.62,-60.62
+2005,7,230,Nashville,Patric Hornqvist,R,901.0,543.0,847.32,58.22,789.1
+2006,1,1,St. Louis,Erik Johnson,D,1023.0,348.0,633.33,1125.8,-492.47
+2006,1,2,Pittsburgh,Jordan Staal,C,1401.0,744.0,788.93,900.41,-111.48
+2006,1,3,Chicago,Jonathan Toews,C,1143.0,908.0,1003.63,851.05,152.58
+2006,1,4,Washington,Nicklas Backstrom,C,1105.0,1033.0,1118.12,762.28,355.84
+2006,1,5,Boston,Phil Kessel,R,1286.0,992.0,984.86,657.7,327.16
+2006,1,6,Columbus,Derick Brassard,C,1013.0,545.0,794.6,710.16,84.44
+2006,1,7,NY Islanders,Kyle Okposo,R,1051.0,614.0,832.27,737.88,94.39
+2006,1,8,Arizona,Peter Mueller,C,297.0,160.0,663.4,589.65,73.75
+2006,1,9,Minnesota,James Sheppard,C,394.0,91.0,544.29,762.03,-217.74
+2006,1,10,Florida,Michael Frolik,R,858.0,384.0,720.86,556.33,164.53
+2006,1,12,Winnipeg,Bryan Little,C,843.0,521.0,859.84,598.88,260.96
+2006,1,13,Toronto,Jiri Tlusty,L,446.0,177.0,679.54,485.11,194.43
+2006,1,14,Vancouver,Michael Grabner,R,640.0,276.0,707.57,519.6,187.97
+2006,1,16,San Jose,Ty Wishart,D,26.0,6.0,39.74,612.24,-572.5
+2006,1,17,Los Angeles,Trevor Lewis,C,1034.0,237.0,542.86,543.82,-0.96
+2006,1,18,Colorado,Chris Stewart,R,668.0,322.0,748.97,450.88,298.09
+2006,1,19,Anaheim,Mark Mitera,D,0.0,0.0,0.0,486.32,-486.32
+2006,1,20,Montreal,David Fischer,D,0.0,0.0,0.0,555.68,-555.68
+2006,1,21,NY Rangers,Bob Sanguinetti,D,45.0,6.0,58.74,502.47,-443.73
+2006,1,22,Philadelphia,Claude Giroux,R,1339.0,1160.0,1062.26,408.95,653.31
+2006,1,24,Buffalo,Dennis Persson,D,0.0,0.0,0.0,545.6,-545.6
+2006,1,25,St. Louis,Patrik Berglund,C,717.0,326.0,726.67,361.41,365.26
+2006,1,27,Dallas,Ivan Vishnevskiy,D,5.0,2.0,9.58,384.25,-374.67
+2006,1,28,Ottawa,Nick Foligno,L,1282.0,609.0,743.27,274.72,468.55
+2006,1,29,Arizona,Chris Summers,D,70.0,9.0,90.61,341.66,-251.05
+2006,1,30,New Jersey,Matt Corrente,D,34.0,6.0,47.74,458.15,-410.41
+2006,2,31,St. Louis,Tomas Kana,C,6.0,2.0,10.58,185.4,-174.82
+2006,2,32,Pittsburgh,Carl Sneep,D,1.0,1.0,3.29,165.72,-162.43
+2006,2,33,Chicago,Igor Makarov,R,0.0,0.0,0.0,338.4,-338.4
+2006,2,35,Washington,Francois Bouchard,R,0.0,0.0,0.0,359.41,-359.41
+2006,2,36,San Jose,Jamie McGinn,L,617.0,220.0,646.69,158.52,488.17
+2006,2,37,Boston,Yuri Alexandrov,D,0.0,0.0,0.0,246.2,-246.2
+2006,2,38,Anaheim,Bryce Swan,R,0.0,0.0,0.0,345.77,-345.77
+2006,2,39,Philadelphia,Andreas Nodl,R,183.0,36.0,265.44,374.39,-108.95
+2006,2,40,Minnesota,Ondrej Fiala,L,0.0,0.0,0.0,100.03,-100.03
+2006,2,41,Detroit,Cory Emmerton,L,139.0,21.0,187.09,194.45,-7.36
+2006,2,42,Philadelphia,Mike Ratchuk,D,0.0,0.0,0.0,325.99,-325.99
+2006,2,43,Winnipeg,Riley Holzapfel,L,0.0,0.0,0.0,329.43,-329.43
+2006,2,44,Toronto,Nikolay Kulemin,L,669.0,274.0,689.9,247.73,442.17
+2006,2,45,Edmonton,Jeff Petry,D,1042.0,394.0,664.26,264.98,399.28
+2006,2,47,Detroit,Shawn Matthias,L,551.0,174.0,613.44,296.05,317.39
+2006,2,48,Los Angeles,Joey Ryan,D,0.0,0.0,0.0,89.69,-89.69
+2006,2,49,Montreal,Ben Maxwell,C,47.0,8.0,65.32,274.45,-209.13
+2006,2,50,Boston,Milan Lucic,L,1177.0,586.0,761.89,159.18,602.71
+2006,2,51,Colorado,Nigel Williams,D,0.0,0.0,0.0,261.75,-261.75
+2006,2,52,Washington,Keith Seabrook,D,0.0,0.0,0.0,208.52,-208.52
+2006,2,53,Montreal,Mathieu Carle,D,3.0,0.0,3.0,281.0,-278.0
+2006,2,54,NY Rangers,Artem Anisimov,C,771.0,376.0,753.57,162.17,591.4
+2006,2,55,Philadelphia,Denis Bodrov,D,0.0,0.0,0.0,481.69,-481.69
+2006,2,56,Nashville,Blake Geoffrion,L,55.0,13.0,84.77,246.86,-162.09
+2006,2,57,Buffalo,Mike Weber,D,351.0,53.0,472.37,193.34,279.03
+2006,2,58,New Jersey,Alexander Vasyunov,L,18.0,5.0,29.45,492.89,-463.44
+2006,2,59,Colorado,Codey Burki,C,0.0,0.0,0.0,211.93,-211.93
+2006,2,60,NY Islanders,Jesse Joensuu,L,129.0,24.0,183.96,249.02,-65.06
+2006,2,61,Chicago,Simon Danis-Pepin,D,0.0,0.0,0.0,216.97,-216.97
+2006,2,62,Detroit,Dick Axelsson,L,0.0,0.0,0.0,173.49,-173.49
+2006,2,63,Carolina,Jamie McBain,D,348.0,110.0,599.9,131.27,468.63
+2006,3,64,St. Louis,Jonas Junland,D,4.0,2.0,8.58,172.92,-164.34
+2006,3,65,Pittsburgh,Brian Strait,D,187.0,29.0,253.41,145.5,107.91
+2006,3,66,Montreal,Ryan White,C,313.0,61.0,452.69,294.24,158.44
+2006,3,67,New Jersey,Kirill Tulupov,D,0.0,0.0,0.0,250.79,-250.79
+2006,3,68,Ottawa,Eric Gryba,D,289.0,43.0,387.47,56.31,331.16
+2006,3,70,NY Islanders,Robin Figren,L,0.0,0.0,0.0,55.14,-55.14
+2006,3,71,Boston,Brad Marchand,L,1152.0,1034.0,1087.73,108.83,978.9
+2006,3,72,Minnesota,Cal Clutterbuck,R,1064.0,293.0,580.5,129.57,450.93
+2006,3,73,Florida,Brady Calla,R,0.0,0.0,0.0,70.83,-70.83
+2006,3,75,Edmonton,Theo Peckham,D,160.0,17.0,198.93,221.15,-22.22
+2006,3,76,Chicago,Tony Lagerstrom,C,0.0,0.0,0.0,72.12,-72.12
+2006,3,77,New Jersey,Vladimir Zharkov,R,82.0,14.0,114.06,309.28,-195.22
+2006,3,78,Tampa Bay,Kevin Quick,D,6.0,1.0,8.29,208.48,-200.19
+2006,3,79,Philadelphia,Jonathan Matsumoto,C,14.0,2.0,18.58,283.24,-264.66
+2006,3,80,Winnipeg,Michael Forney,L,0.0,0.0,0.0,199.44,-199.44
+2006,3,81,Colorado,Mike Carman,C,0.0,0.0,0.0,69.86,-69.86
+2006,3,82,Vancouver,Daniel Rahimi,D,0.0,0.0,0.0,233.08,-233.08
+2006,3,83,Anaheim,John de Gray,D,0.0,0.0,0.0,74.99,-74.99
+2006,3,84,NY Rangers,Ryan Hillier,L,0.0,0.0,0.0,75.03,-75.03
+2006,3,85,Columbus,Tom Sestito,L,154.0,21.0,202.09,248.44,-46.35
+2006,3,86,Los Angeles,"George ""Bud"" Holloway",R,1.0,0.0,1.0,200.14,-199.14
+2006,3,87,Calgary,John Armstrong,C,0.0,0.0,0.0,26.31,-26.31
+2006,3,88,Arizona,Jonas Ahnelov,D,0.0,0.0,0.0,71.24,-71.24
+2006,3,89,Calgary,Aaron Marvin,C,0.0,0.0,0.0,170.7,-170.7
+2006,3,90,Dallas,Aaron Snow,L,0.0,0.0,0.0,113.62,-113.62
+2006,3,91,Ottawa,Kaspars Daugavins,L,91.0,15.0,125.35,47.45,77.9
+2006,3,93,Carolina,Harrison Reed,R,0.0,0.0,0.0,108.48,-108.48
+2006,4,94,St. Louis,Ryan Turek,D,0.0,0.0,0.0,55.6,-55.6
+2006,4,95,Chicago,Ben Shutron,D,0.0,0.0,0.0,153.51,-153.51
+2006,4,97,Washington,Oskar Osala,L,3.0,0.0,3.0,110.13,-107.13
+2006,4,98,San Jose,James DeLory,D,0.0,0.0,0.0,132.71,-132.71
+2006,4,100,NY Islanders,Rhett Rakhshani,R,7.0,0.0,7.0,127.92,-120.92
+2006,4,101,Philadelphia,Joonas Lehtivuori,D,0.0,0.0,0.0,146.94,-146.94
+2006,4,102,Minnesota,Kyle Medvec,D,0.0,0.0,0.0,139.04,-139.04
+2006,4,103,Florida,Michael Caruso,D,2.0,0.0,2.0,55.18,-53.18
+2006,4,104,NY Rangers,David Kveton,R,0.0,0.0,0.0,282.17,-282.17
+2006,4,105,Nashville,Niko Snellman,R,0.0,0.0,0.0,156.76,-156.76
+2006,4,107,New Jersey,Tyler Miller,D,0.0,0.0,0.0,71.46,-71.46
+2006,4,110,Colorado,Kevin Montgomery,D,0.0,0.0,0.0,219.48,-219.48
+2006,4,111,Toronto,Korbinian Holzer,D,206.0,27.0,267.83,138.22,129.61
+2006,4,112,Anaheim,Matt Beleskey,L,477.0,158.0,626.04,193.12,432.92
+2006,4,113,Columbus,Ben Wright,D,0.0,0.0,0.0,102.82,-102.82
+2006,4,114,Los Angeles,Niclas Andersen,D,0.0,0.0,0.0,154.84,-154.84
+2006,4,115,NY Islanders,Tomas Marcinko,C,0.0,0.0,0.0,56.34,-56.34
+2006,4,116,Florida,Derrick LaPoint,D,0.0,0.0,0.0,91.68,-91.68
+2006,4,117,Buffalo,Felix Schutz,C,0.0,0.0,0.0,260.68,-260.68
+2006,4,118,Calgary,Hugo Carpentier,C,0.0,0.0,0.0,99.56,-99.56
+2006,4,119,NY Islanders,Doug Rogers,C,0.0,0.0,0.0,84.34,-84.34
+2006,4,121,Ottawa,Pierre-Luc Lessard,D,0.0,0.0,0.0,297.09,-297.09
+2006,4,122,Washington,Luke Lynes,C,0.0,0.0,0.0,0.0,0.0
+2006,4,123,Carolina,Bobby Hughes,C,0.0,0.0,0.0,0.0,0.0
+2006,5,124,St. Louis,Andy Sackrison,C,0.0,0.0,0.0,98.64,-98.64
+2006,5,126,NY Islanders,Shane Sims,D,1.0,0.0,1.0,98.64,-97.64
+2006,5,127,Washington,Maxime Lacroix,L,0.0,0.0,0.0,98.64,-98.64
+2006,5,128,Boston,Andrew Bodnarchuk,D,42.0,4.0,51.16,98.49,-47.33
+2006,5,129,Columbus,Bobby Nyholm,R,0.0,0.0,0.0,98.64,-98.64
+2006,5,131,Arizona,Martin Latal,L,0.0,0.0,0.0,98.64,-98.64
+2006,5,134,Los Angeles,David Meckler,L,0.0,0.0,0.0,98.64,-98.64
+2006,5,136,Columbus,Nick Sucharski,L,0.0,0.0,0.0,98.64,-98.64
+2006,5,137,NY Rangers,Tomas Zaborsky,C,0.0,0.0,0.0,98.64,-98.64
+2006,5,138,Dallas,David Mcintyre,R,7.0,2.0,11.58,98.61,-87.03
+2006,5,139,Montreal,Pavel Valentenko,D,0.0,0.0,0.0,98.64,-98.64
+2006,5,140,Edmonton,Cody Wild,D,0.0,0.0,0.0,98.64,-98.64
+2006,5,141,NY Islanders,Kim Johansson,L,0.0,0.0,0.0,98.64,-98.64
+2006,5,142,Columbus,Maxime Frechette,D,0.0,0.0,0.0,98.64,-98.64
+2006,5,143,San Jose,Ashton Rome,R,0.0,0.0,0.0,98.64,-98.64
+2006,5,144,Los Angeles,Martin Nolet,D,0.0,0.0,0.0,98.64,-98.64
+2006,5,145,Philadelphia,Jon Rheault,R,5.0,0.0,5.0,98.63,-93.63
+2006,5,147,Buffalo,Alex Biega,D,243.0,42.0,339.18,97.68,241.5
+2006,5,148,New Jersey,Olivier Magnan,D,18.0,0.0,18.0,98.59,-80.59
+2006,5,149,Calgary,Juuso Puustinen,R,0.0,0.0,0.0,98.64,-98.64
+2006,5,150,Dallas,Max Warn,L,0.0,0.0,0.0,98.64,-98.64
+2006,5,152,Arizona,Jordan Bendfeld,D,0.0,0.0,0.0,98.64,-98.64
+2006,5,153,Carolina,Stephane Chaput,C,0.0,0.0,0.0,98.64,-98.64
+2006,6,154,St. Louis,Matthew McCollem,L,0.0,0.0,0.0,83.45,-83.45
+2006,6,155,Florida,Peter Aston,D,0.0,0.0,0.0,83.45,-83.45
+2006,6,156,Chicago,Jan-Mikael Juutilainen,F,0.0,0.0,0.0,83.45,-83.45
+2006,6,157,Washington,Brent Gwidt,C,0.0,0.0,0.0,83.45,-83.45
+2006,6,158,Boston,Levi Nelson,C,0.0,0.0,0.0,83.45,-83.45
+2006,6,159,Columbus,Jesse Dudas,D,0.0,0.0,0.0,83.45,-83.45
+2006,6,160,NY Islanders,Andrew MacDonald,D,586.0,161.0,579.98,81.75,498.23
+2006,6,161,Toronto,Viktor Stalberg,L,488.0,168.0,636.66,81.59,555.07
+2006,6,162,Minnesota,Julian Walker,W,0.0,0.0,0.0,83.45,-83.45
+2006,6,163,Vancouver,Sergei Shirokov,R,8.0,1.0,10.29,83.42,-73.13
+2006,6,164,Los Angeles,Constantin Braun,D,0.0,0.0,0.0,83.45,-83.45
+2006,6,165,Winnipeg,Jonas Enlund,C,0.0,0.0,0.0,83.45,-83.45
+2006,6,166,Toronto,Tyler Ruegsegger,C,0.0,0.0,0.0,83.45,-83.45
+2006,6,167,Vancouver,Juraj Simek,W,0.0,0.0,0.0,83.45,-83.45
+2006,6,168,Tampa Bay,Dane Crowley,D,0.0,0.0,0.0,83.45,-83.45
+2006,6,169,Chicago,Chris Auger,C,0.0,0.0,0.0,83.45,-83.45
+2006,6,170,Edmonton,Alexander Bumagin,W,0.0,0.0,0.0,83.45,-83.45
+2006,6,171,NY Islanders,Brian Day,R,0.0,0.0,0.0,83.45,-83.45
+2006,6,172,Anaheim,Petteri Wirtanen,C,3.0,1.0,5.29,83.44,-78.15
+2006,6,174,NY Rangers,Eric Hunter,C,0.0,0.0,0.0,83.45,-83.45
+2006,6,176,Nashville,Ryan Flynn,R,0.0,0.0,0.0,83.45,-83.45
+2006,6,177,Washington,Mathieu Perreault,C,708.0,353.0,762.47,81.22,681.25
+2006,6,178,New Jersey,Tony Romano,R,0.0,0.0,0.0,83.45,-83.45
+2006,6,179,Calgary,Jordan Fulton,L,0.0,0.0,0.0,83.45,-83.45
+2006,6,180,Toronto,Leo Komarov,L,491.0,170.0,638.26,81.58,556.68
+2006,6,181,Ottawa,Kevin Koopman,D,0.0,0.0,0.0,83.45,-83.45
+2006,6,182,Detroit,Jan Mursak,R,46.0,4.0,55.16,83.29,-28.13
+2006,6,183,Carolina,Nick Dodge,R,0.0,0.0,0.0,83.45,-83.45
+2006,7,184,St. Louis,Alexander Hellstrom,D,0.0,0.0,0.0,60.62,-60.62
+2006,7,185,Pittsburgh,Timo Seppanen,D,0.0,0.0,0.0,60.62,-60.62
+2006,7,186,Chicago,Peter Leblanc,L,1.0,0.0,1.0,60.62,-59.62
+2006,7,187,Calgary,Devin DiDiomete,L,0.0,0.0,0.0,60.62,-60.62
+2006,7,188,Arizona,Chris Frank,D,0.0,0.0,0.0,60.62,-60.62
+2006,7,189,Columbus,Derek Dorsett,R,515.0,127.0,557.04,59.04,498.0
+2006,7,190,NY Islanders,Troy Mattila,L,0.0,0.0,0.0,60.62,-60.62
+2006,7,191,Detroit,Nick Oslund,R,0.0,0.0,0.0,60.62,-60.62
+2006,7,192,Minnesota,Chris Hickey,R,0.0,0.0,0.0,60.62,-60.62
+2006,7,194,Columbus,Matt Marquardt,L,0.0,0.0,0.0,60.62,-60.62
+2006,7,195,Winnipeg,Jesse Martin,C,0.0,0.0,0.0,60.62,-60.62
+2006,7,196,Arizona,Benn Ferriero,R,98.0,23.0,150.67,60.19,90.48
+2006,7,197,Vancouver,Evan Fuller,C,0.0,0.0,0.0,60.62,-60.62
+2006,7,198,Tampa Bay,Denis Kazionov,L,0.0,0.0,0.0,60.62,-60.62
+2006,7,199,Montreal,Cameron Cepek,D,0.0,0.0,0.0,60.62,-60.62
+2006,7,200,Winnipeg,Arturs Kulda,D,15.0,2.0,19.58,60.56,-40.98
+2006,7,202,San Jose,John McCarthy,L,88.0,6.0,101.74,60.33,41.41
+2006,7,203,San Jose,Jay Barriball,R,0.0,0.0,0.0,60.62,-60.62
+2006,7,204,NY Rangers,Lukas Zeliska,C,0.0,0.0,0.0,60.62,-60.62
+2006,7,205,Philadelphia,Andrei Popov,R,0.0,0.0,0.0,60.62,-60.62
+2006,7,206,Nashville,Viktor Sjodin,L,0.0,0.0,0.0,60.62,-60.62
+2006,7,207,Buffalo,Benjamin Breault,C,0.0,0.0,0.0,60.62,-60.62
+2006,7,208,New Jersey,Kyell Henegan,D,0.0,0.0,0.0,60.62,-60.62
+2006,7,209,Calgary,Per Johnsson,F,0.0,0.0,0.0,60.62,-60.62
+2006,7,210,Winnipeg,Will O'Neill,D,1.0,0.0,1.0,60.62,-59.62
+2006,7,211,Ottawa,Erik Condra,R,372.0,99.0,572.96,59.0,513.96
+2006,7,212,Detroit,Logan Pyett,D,0.0,0.0,0.0,60.62,-60.62
+2006,7,213,Carolina,Justin Krueger,D,0.0,0.0,0.0,60.62,-60.62
+2007,1,1,Chicago,Patrick Kane,R,1363.0,1393.0,1189.18,1079.48,109.7
+2007,1,2,Philadelphia,James Van Riemsdyk,L,1148.0,695.0,849.55,895.36,-45.81
+2007,1,3,Arizona,Kyle Turris,C,776.0,425.0,802.49,867.81,-65.32
+2007,1,4,Los Angeles,Thomas Hickey,D,456.0,117.0,565.17,808.35,-243.18
+2007,1,5,Washington,Karl Alzner,D,686.0,130.0,510.49,700.82,-190.33
+2007,1,6,Edmonton,Sam Gagner,C,1043.0,529.0,769.48,712.25,57.23
+2007,1,7,Columbus,Jakub Voracek,R,1058.0,806.0,977.06,725.81,251.25
+2007,1,8,Boston,Zach Hamill,C,20.0,4.0,29.16,642.5,-613.34
+2007,1,9,San Jose,Logan Couture,C,933.0,701.0,968.52,726.68,241.84
+2007,1,10,Florida,Keaton Ellerby,D,212.0,27.0,273.83,593.58,-319.75
+2007,1,11,Carolina,Brandon Sutter,C,770.0,289.0,661.98,562.63,99.35
+2007,1,12,Montreal,Ryan McDonagh,D,1053.0,438.0,695.1,612.61,82.49
+2007,1,13,St. Louis,Lars Eller,C,1178.0,438.0,659.12,486.81,172.31
+2007,1,14,Colorado,Kevin Shattenkirk,D,952.0,484.0,770.47,514.36,256.11
+2007,1,15,Edmonton,Alex Plante,D,10.0,2.0,14.58,579.79,-565.21
+2007,1,16,Minnesota,Colton Gillies,L,154.0,18.0,195.22,599.29,-404.07
+2007,1,17,NY Rangers,Alexei Cherepanov,R,0.0,0.0,0.0,589.06,-589.06
+2007,1,18,St. Louis,Ian Cole,D,984.0,232.0,548.21,469.14,79.07
+2007,1,19,Anaheim,Logan MacMillan,L,0.0,0.0,0.0,486.32,-486.32
+2007,1,20,Pittsburgh,Angelo Esposito,C,0.0,0.0,0.0,555.68,-555.68
+2007,1,21,Edmonton,Riley Nash,C,628.0,176.0,584.47,454.68,129.79
+2007,1,22,Montreal,Max Pacioretty,L,939.0,681.0,947.24,419.4,527.84
+2007,1,23,Nashville,Jonathon Blum,D,110.0,24.0,164.96,384.87,-219.91
+2007,1,24,Calgary,Mikael Backlund,C,1142.0,604.0,787.18,474.04,313.14
+2007,1,25,Vancouver,Patrick White,C,0.0,0.0,0.0,421.96,-421.96
+2007,1,26,St. Louis,David Perron,L,1233.0,810.0,891.56,586.39,305.17
+2007,1,27,Detroit,Brendan Smith,D,741.0,146.0,516.63,338.15,178.48
+2007,1,28,San Jose,Nick Petrecki,D,1.0,0.0,1.0,336.58,-335.58
+2007,1,29,Ottawa,Jim O'Brien,C,77.0,13.0,106.77,340.31,-233.54
+2007,1,30,Arizona,Nick Ross,D,0.0,0.0,0.0,462.49,-462.49
+2007,2,31,Buffalo,T.J. Brennan,D,53.0,13.0,82.77,177.38,-94.61
+2007,2,32,Arizona,Brett MacLean,L,18.0,5.0,29.45,163.34,-133.89
+2007,2,33,Vancouver,Taylor Ellington,D,0.0,0.0,0.0,338.4,-338.4
+2007,2,34,Washington,Josh Godfrey,D,0.0,0.0,0.0,276.87,-276.87
+2007,2,35,Boston,Tommy Cross,D,3.0,1.0,5.29,358.97,-353.68
+2007,2,37,Columbus,Stefan Legein,R,0.0,0.0,0.0,246.2,-246.2
+2007,2,38,Chicago,Billy Sweatt,L,3.0,0.0,3.0,345.47,-342.47
+2007,2,39,St. Louis,Simon Hjalmarsson,L,0.0,0.0,0.0,400.93,-400.93
+2007,2,40,Florida,Michal Repik,R,72.0,20.0,117.8,90.21,27.59
+2007,2,41,Philadelphia,Kevin Marshall,D,10.0,0.0,10.0,210.55,-200.55
+2007,2,42,Anaheim,Eric Tangradi,L,150.0,16.0,186.64,309.02,-122.38
+2007,2,43,Montreal,P.K. Subban,D,834.0,467.0,812.5,261.72,550.78
+2007,2,44,St. Louis,Aaron Palushaj,R,68.0,14.0,100.06,301.35,-201.29
+2007,2,45,Colorado,Colby Cohen,D,3.0,0.0,3.0,325.1,-322.1
+2007,2,46,Washington,Theo Ruth,D,0.0,0.0,0.0,200.65,-200.65
+2007,2,47,Tampa Bay,Dana Tyrell,C,135.0,24.0,189.96,331.34,-141.38
+2007,2,50,Dallas,Nico Sacchetti,C,0.0,0.0,0.0,222.67,-222.67
+2007,2,51,Pittsburgh,Keven Veilleux,R,0.0,0.0,0.0,261.75,-261.75
+2007,2,52,Los Angeles,Oscar Moller,R,87.0,26.0,146.54,196.3,-49.76
+2007,2,53,Columbus,Will Weber,D,0.0,0.0,0.0,281.25,-281.25
+2007,2,55,Colorado,T.J. Galiardi,L,321.0,105.0,561.45,430.65,130.8
+2007,2,56,Chicago,Akim Aliu,D,7.0,3.0,13.87,252.77,-238.9
+2007,2,57,New Jersey,Mike Hoeffel,L,0.0,0.0,0.0,232.7,-232.7
+2007,2,58,Nashville,Nick Spaling,L,437.0,124.0,587.33,442.18,145.15
+2007,2,59,Buffalo,Drew Schiestel,D,0.0,0.0,0.0,211.93,-211.93
+2007,2,60,Ottawa,Ruslan Bashkirov,L,0.0,0.0,0.0,264.35,-264.35
+2007,2,61,Los Angeles,Wayne Simmonds,R,1037.0,526.0,769.52,140.02,629.5
+2007,3,62,NY Islanders,Mark Katic,D,11.0,1.0,13.29,171.83,-158.54
+2007,3,63,Anaheim,Maxime Macenauer,C,29.0,4.0,38.16,182.33,-144.17
+2007,3,64,Dallas,Sergei Korostin,R,0.0,0.0,0.0,173.7,-173.7
+2007,3,65,Montreal,Olivier Fortier,C,0.0,0.0,0.0,168.53,-168.53
+2007,3,66,Philadelphia,Garrett Klotz,L,0.0,0.0,0.0,331.97,-331.97
+2007,3,67,Winnipeg,Spencer Machacek,R,25.0,9.0,45.61,246.99,-201.38
+2007,3,68,Columbus,Jake Hansen,C,0.0,0.0,0.0,88.6,-88.6
+2007,3,69,Chicago,Maxime Tanguay,C,0.0,0.0,0.0,258.45,-258.45
+2007,3,70,Calgary,John Negrin,D,3.0,1.0,5.29,54.61,-49.32
+2007,3,71,Florida,Evgeny Dadonov,L,640.0,362.0,817.12,133.43,683.69
+2007,3,72,Carolina,Drayson Bowman,L,179.0,33.0,254.57,162.17,92.4
+2007,3,73,Montreal,Yannick Weber,D,499.0,94.0,509.57,28.36,481.21
+2007,3,74,Toronto,Dale Mitchell,R,0.0,0.0,0.0,127.04,-127.04
+2007,3,75,Tampa Bay,Luca Cunti,L,0.0,0.0,0.0,243.26,-243.26
+2007,3,76,NY Islanders,Jason Gregoire,L,0.0,0.0,0.0,72.12,-72.12
+2007,3,77,Tampa Bay,Alexander Killorn,L,1027.0,569.0,807.68,232.21,575.47
+2007,3,78,Pittsburgh,Robert Bortuzzo,D,577.0,76.0,463.38,157.91,305.47
+2007,3,79,New Jersey,Nick Palmieri,R,87.0,25.0,144.25,272.77,-128.52
+2007,3,80,Pittsburgh,Casey Pierro-Zabotel,L,0.0,0.0,0.0,199.44,-199.44
+2007,3,81,Nashville,Ryan Thang,R,1.0,0.0,1.0,69.77,-68.77
+2007,3,82,Los Angeles,Bryan Cameron,R,0.0,0.0,0.0,233.08,-233.08
+2007,3,84,Washington,Philip DeSimone,C,0.0,0.0,0.0,75.03,-75.03
+2007,3,85,St. Louis,Brett Sonne,C,0.0,0.0,0.0,266.81,-266.81
+2007,3,87,New Jersey,Corbin McPherson,D,0.0,0.0,0.0,26.31,-26.31
+2007,3,88,Detroit,Joakim Andersson,C,205.0,36.0,287.44,39.3,248.14
+2007,3,89,Buffalo,Corey Tropp,R,149.0,27.0,210.83,153.14,57.69
+2007,3,90,Ottawa,Louie Caporusso,L,0.0,0.0,0.0,113.62,-113.62
+2007,4,92,Anaheim,Justin Vaive,L,0.0,0.0,0.0,133.62,-133.62
+2007,4,93,Anaheim,Steven Kampfer,D,231.0,39.0,320.31,76.45,243.86
+2007,4,94,Columbus,Maksim Mayorov,L,22.0,3.0,28.87,52.98,-24.11
+2007,4,95,Los Angeles,Alec Martinez,D,862.0,289.0,629.32,90.57,538.75
+2007,4,96,St. Louis,Cade Fairchild,D,5.0,1.0,7.29,232.55,-225.26
+2007,4,97,Edmonton,Linus Omark,L,79.0,32.0,152.28,97.69,54.59
+2007,4,99,Toronto,Matt Frattin,R,135.0,35.0,215.15,168.86,46.29
+2007,4,100,St. Louis,Travis Erstad,F,0.0,0.0,0.0,128.5,-128.5
+2007,4,101,Florida,Matt Rust,C,0.0,0.0,0.0,146.94,-146.94
+2007,4,102,Carolina,Justin McCrae,C,0.0,0.0,0.0,139.04,-139.04
+2007,4,103,Arizona,Vladimir Ruzicka,C,0.0,0.0,0.0,55.35,-55.35
+2007,4,104,Toronto,Ben Winnett,L,0.0,0.0,0.0,282.17,-282.17
+2007,4,105,Colorado,Brad Malone,C,217.0,32.0,290.28,130.37,159.91
+2007,4,106,NY Islanders,Maxime Gratchev,L,0.0,0.0,0.0,259.74,-259.74
+2007,4,107,Tampa Bay,Mitch Fadden,C,0.0,0.0,0.0,71.46,-71.46
+2007,4,108,Washington,Brett Bruneteau,C,0.0,0.0,0.0,145.03,-145.03
+2007,4,109,Los Angeles,Dwight King,L,365.0,109.0,599.46,27.05,572.41
+2007,4,110,Minnesota,Justin Falk,D,279.0,33.0,354.57,184.02,170.55
+2007,4,111,Pittsburgh,Luca Caputi,L,35.0,9.0,55.61,161.8,-106.19
+2007,4,112,Dallas,Colton Sceviour,C,535.0,156.0,593.71,196.35,397.36
+2007,4,114,Nashville,Ben Ryan,L,0.0,0.0,0.0,154.84,-154.84
+2007,4,115,Winnipeg,Niclas Lucenius,C,0.0,0.0,0.0,56.34,-56.34
+2007,4,116,Calgary,Keith Aulie,D,167.0,14.0,199.06,73.59,125.47
+2007,4,117,New Jersey,Matt Halischuk,R,280.0,75.0,451.75,210.48,241.27
+2007,4,118,Pittsburgh,Alex Grant,D,7.0,2.0,11.58,98.4,-86.82
+2007,4,119,Nashville,Mark Santorelli,L,0.0,0.0,0.0,84.34,-84.34
+2007,4,120,Ottawa,Ben Blood,D,0.0,0.0,0.0,171.69,-171.69
+2007,5,122,Philadelphia,Mario Kempe,L,70.0,13.0,99.77,98.36,1.41
+2007,5,123,Arizona,Maxim Goncharov,D,0.0,0.0,0.0,98.64,-98.64
+2007,5,125,Washington,Brett Leffler,R,0.0,0.0,0.0,98.64,-98.64
+2007,5,126,Chicago,Joe Lavin,D,0.0,0.0,0.0,98.64,-98.64
+2007,5,127,Edmonton,Milan Kytnar,C,1.0,0.0,1.0,98.64,-97.64
+2007,5,128,Dallas,Austin Smith,R,0.0,0.0,0.0,98.64,-98.64
+2007,5,129,Dallas,Jamie Benn,L,1247.0,991.0,1003.88,95.79,908.09
+2007,5,130,Boston,Denis Reul,D,0.0,0.0,0.0,98.64,-98.64
+2007,5,131,Florida,John Lee,D,0.0,0.0,0.0,98.64,-98.64
+2007,5,132,Carolina,Chris Terry,L,152.0,38.0,239.02,97.96,141.06
+2007,5,133,Montreal,Joe Stejskal,D,0.0,0.0,0.0,98.64,-98.64
+2007,5,134,Toronto,Juraj Mikus,D,0.0,0.0,0.0,98.64,-98.64
+2007,5,135,Colorado,Paul Carey,C,100.0,16.0,136.64,98.25,38.39
+2007,5,136,Dallas,Ondrej Roman,L,0.0,0.0,0.0,98.64,-98.64
+2007,5,137,Los Angeles,"Joshua ""Podge"" Turnbull",C,0.0,0.0,0.0,98.64,-98.64
+2007,5,138,NY Rangers,Max Campbell,C,0.0,0.0,0.0,98.64,-98.64
+2007,5,140,Minnesota,Cody Almond,C,25.0,2.0,29.58,98.56,-68.98
+2007,5,141,Pittsburgh,Jake Muzzin,D,683.0,294.0,706.92,96.63,610.29
+2007,5,142,Montreal,Andrew Conboy,L,0.0,0.0,0.0,98.64,-98.64
+2007,5,143,Calgary,Mickey Renaud,C,0.0,0.0,0.0,98.64,-98.64
+2007,5,144,Nashville,Andreas Thuresson,L,25.0,3.0,31.87,98.55,-66.68
+2007,5,145,Vancouver,Charles-Antoine Messier,C,0.0,0.0,0.0,98.64,-98.64
+2007,5,146,Vancouver,Ilya Kablukov,W,0.0,0.0,0.0,98.64,-98.64
+2007,5,147,Buffalo,Jean-Simon Allard,C,0.0,0.0,0.0,98.64,-98.64
+2007,5,148,Detroit,Randy Cameron,C,0.0,0.0,0.0,98.64,-98.64
+2007,5,149,Dallas,Michael Neal,L,0.0,0.0,0.0,98.64,-98.64
+2007,5,150,Tampa Bay,Matt Marshall,F,0.0,0.0,0.0,98.64,-98.64
+2007,5,151,Anaheim,Brett Morrison,C,0.0,0.0,0.0,98.64,-98.64
+2007,6,152,Philadelphia,Jon Kalinski,L,22.0,5.0,33.45,83.35,-49.9
+2007,6,155,Colorado,Jens Hellgren,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,156,Chicago,Richard Greenop,R,0.0,0.0,0.0,83.45,-83.45
+2007,6,157,Edmonton,William Quist,L,0.0,0.0,0.0,83.45,-83.45
+2007,6,159,Boston,Alain Goulet,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,160,St. Louis,Anthony Peluso,R,148.0,14.0,180.06,82.92,97.14
+2007,6,161,Philadelphia,Patrick Maroon,L,848.0,323.0,666.52,81.5,585.02
+2007,6,162,Carolina,Brett Bellemore,D,121.0,20.0,166.8,82.96,83.84
+2007,6,163,Montreal,Nichlas Torp,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,164,Toronto,Chris DiDomenico,L,27.0,10.0,49.9,83.31,-33.41
+2007,6,165,San Jose,Patrik Zackrisson,W,0.0,0.0,0.0,83.45,-83.45
+2007,6,166,NY Islanders,Blake Kessel,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,167,Tampa Bay,Johan Harju,L,10.0,3.0,16.87,83.4,-66.53
+2007,6,168,NY Rangers,Carl Hagelin,L,713.0,296.0,694.44,81.42,613.02
+2007,6,169,Boston,Radim Ostrcil,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,170,Minnesota,Harri Ilvonen,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,171,Pittsburgh,Dustin Jeffrey,C,131.0,33.0,206.57,82.85,123.72
+2007,6,172,Dallas,Luke Gazdic,L,147.0,8.0,165.32,82.97,82.35
+2007,6,173,San Jose,Nick Bonino,C,868.0,358.0,692.24,81.42,610.82
+2007,6,174,Nashville,Robert Dietrich,D,0.0,0.0,0.0,83.45,-83.45
+2007,6,175,Winnipeg,John Albert,C,9.0,1.0,11.29,83.42,-72.13
+2007,6,176,Vancouver,Taylor Matson,C,0.0,0.0,0.0,83.45,-83.45
+2007,6,177,New Jersey,Vili Sopanen,W,0.0,0.0,0.0,83.45,-83.45
+2007,6,178,Detroit,Zack Torquato,C,0.0,0.0,0.0,83.45,-83.45
+2007,6,179,Buffalo,Paul Byron,L,521.0,208.0,681.47,81.45,600.02
+2007,6,180,Washington,Justin Taylor,C,0.0,0.0,0.0,83.45,-83.45
+2007,6,181,Florida,Corey Syvret,D,0.0,0.0,0.0,83.45,-83.45
+2007,7,184,Los Angeles,Josh Kidd,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,185,Washington,Nick Larson,F,0.0,0.0,0.0,60.62,-60.62
+2007,7,186,Calgary,C.J. Severyn,L,0.0,0.0,0.0,60.62,-60.62
+2007,7,188,Los Angeles,Matt Fillier,L,0.0,0.0,0.0,60.62,-60.62
+2007,7,189,Boston,Jordan Knackstedt,R,0.0,0.0,0.0,60.62,-60.62
+2007,7,190,St. Louis,Trevor Nill,C,0.0,0.0,0.0,60.62,-60.62
+2007,7,191,Florida,Ryan Watson,L,0.0,0.0,0.0,60.62,-60.62
+2007,7,192,Montreal,Scott Kishel,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,193,NY Rangers,David Skokan,R,0.0,0.0,0.0,60.62,-60.62
+2007,7,194,Toronto,Carl Gunnarsson,D,629.0,138.0,534.86,59.11,475.75
+2007,7,195,Colorado,Johan Alcen,W,0.0,0.0,0.0,60.62,-60.62
+2007,7,196,NY Islanders,Simon Lacroix,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,197,Tampa Bay,Michael Ward,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,198,NY Rangers,Danny Hobbs,F,0.0,0.0,0.0,60.62,-60.62
+2007,7,199,Washington,Andrew Glass,L,0.0,0.0,0.0,60.62,-60.62
+2007,7,200,Minnesota,Carson McMillan,R,16.0,5.0,27.45,60.54,-33.09
+2007,7,201,San Jose,Justin Braun,D,842.0,199.0,548.68,59.07,489.61
+2007,7,203,San Jose,Frazer McLaren,L,102.0,11.0,127.19,60.26,66.93
+2007,7,205,Winnipeg,Paul Postma,D,205.0,35.0,285.15,59.81,225.34
+2007,7,206,Vancouver,Dan Gendur,C,0.0,0.0,0.0,60.62,-60.62
+2007,7,207,New Jersey,Ryan Molle,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,208,Detroit,Bryan Rufenach,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,209,Buffalo,Drew Mackenzie,D,0.0,0.0,0.0,60.62,-60.62
+2007,7,210,Tampa Bay,Justin Courtnall,L,0.0,0.0,0.0,60.62,-60.62
+2007,7,211,Columbus,Trent Vogelhuber,R,0.0,0.0,0.0,60.62,-60.62
+2008,1,1,Tampa Bay,Steven Stamkos,C,1240.0,1250.0,1177.81,1080.43,97.38
+2008,1,2,Los Angeles,Drew Doughty,D,1273.0,708.0,809.41,898.71,-89.3
+2008,1,3,Winnipeg,Zach Bogosian,D,970.0,249.0,565.27,887.58,-322.31
+2008,1,4,St. Louis,Alex Pietrangelo,D,1087.0,637.0,833.74,785.97,47.77
+2008,1,5,Toronto,Luke Schenn,D,1120.0,212.0,510.31,700.84,-190.53
+2008,1,6,Columbus,Nikita Filatov,L,53.0,14.0,85.06,769.28,-684.22
+2008,1,7,Nashville,Colin Wilson,C,632.0,286.0,724.92,746.83,-21.91
+2008,1,8,Arizona,Mikkel Boedker,L,709.0,327.0,732.0,583.93,148.07
+2008,1,9,NY Islanders,Joshua Bailey,R,1057.0,580.0,803.34,740.44,62.89
+2008,1,10,Vancouver,Cody Hodgson,C,328.0,142.0,653.18,561.97,91.21
+2008,1,11,Chicago,Kyle Beach,L,0.0,0.0,0.0,628.83,-628.83
+2008,1,12,Buffalo,Tyler Myers,D,1134.0,405.0,647.16,616.61,30.55
+2008,1,13,Los Angeles,Colten Teubert,D,24.0,1.0,26.29,539.55,-513.26
+2008,1,14,Carolina,Zach Boychuk,C,127.0,30.0,195.7,562.25,-366.55
+2008,1,15,Ottawa,Erik Karlsson,D,1156.0,934.0,1014.68,488.88,525.8
+2008,1,16,Boston,Joe Colborne,C,295.0,114.0,556.06,569.22,-13.16
+2008,1,17,Anaheim,Jake Gardiner,D,645.0,277.0,706.11,530.21,175.9
+2008,1,19,Philadelphia,Luca Sbisa,D,549.0,113.0,523.8,438.7,85.1
+2008,1,20,NY Rangers,Michael Del Zotto,D,736.0,262.0,646.21,501.83,144.38
+2008,1,21,Washington,Anton Gustafsson,C,0.0,0.0,0.0,507.81,-507.81
+2008,1,22,Edmonton,Jordan Eberle,R,1133.0,780.0,917.24,422.13,495.11
+2008,1,23,Minnesota,Tyler Cuma,D,1.0,0.0,1.0,399.78,-398.78
+2008,1,24,New Jersey,Mattias Tedenby,R,120.0,30.0,188.7,528.45,-339.75
+2008,1,25,Calgary,Greg Nemisz,C,15.0,1.0,17.29,420.52,-403.23
+2008,1,26,Buffalo,Tyler Ennis,R,700.0,346.0,758.96,599.65,159.31
+2008,1,27,Washington,John Carlson,D,1154.0,780.0,907.03,302.66,604.37
+2008,1,28,Arizona,Viktor Tikhonov,L,111.0,22.0,161.38,323.21,-161.83
+2008,1,29,Winnipeg,Daultan Leveille,C,0.0,0.0,0.0,349.21,-349.21
+2008,2,32,Los Angeles,Vyacheslav Voynov,D,190.0,81.0,375.49,131.88,243.61
+2008,2,33,St. Louis,Phil McRae,C,15.0,3.0,21.87,336.58,-314.71
+2008,2,35,Anaheim,Nicolas Deschamps,C,3.0,0.0,3.0,359.16,-356.16
+2008,2,36,NY Islanders,Corey Trivino,C,0.0,0.0,0.0,230.38,-230.38
+2008,2,37,Columbus,Cody Goloubef,D,160.0,25.0,217.25,226.45,-9.2
+2008,2,38,Nashville,Roman Josi,D,1026.0,775.0,971.8,248.59,723.21
+2008,2,39,Anaheim,Eric O'Dell,C,41.0,8.0,59.32,395.0,-335.68
+2008,2,40,NY Islanders,Aaron Ness,D,72.0,7.0,88.03,92.69,-4.66
+2008,2,41,Vancouver,Yann Sauve,D,8.0,0.0,8.0,210.73,-202.73
+2008,2,42,Ottawa,Patrick Wiercioch,D,268.0,74.0,437.46,286.22,151.24
+2008,2,43,Anaheim,Justin Schultz,D,745.0,324.0,710.55,270.22,440.33
+2008,2,44,Buffalo,Luke Adam,C,90.0,26.0,149.54,296.85,-147.31
+2008,2,45,Carolina,Zac Dalpe,C,168.0,32.0,241.28,303.44,-62.16
+2008,2,46,Florida,Colby Robak,D,47.0,4.0,56.16,195.03,-138.87
+2008,2,47,Boston,Maxime Sauve,C,1.0,0.0,1.0,347.09,-346.09
+2008,2,48,Calgary,Mitch Wahl,R,0.0,0.0,0.0,89.69,-89.69
+2008,2,49,Arizona,Jared Staal,R,2.0,0.0,2.0,281.49,-279.49
+2008,2,50,Colorado,Cameron Gaunce,D,37.0,9.0,57.61,217.87,-160.26
+2008,2,51,NY Rangers,Derek Stepan,C,890.0,515.0,827.74,192.77,634.97
+2008,2,52,New Jersey,Brandon Burlon,D,0.0,0.0,0.0,208.52,-208.52
+2008,2,53,NY Islanders,Travis Hamonic,D,925.0,244.0,571.05,233.66,337.39
+2008,2,54,New Jersey,Patrice Cormier,C,52.0,5.0,63.45,248.43,-184.98
+2008,2,55,Minnesota,Marco Scandella,D,784.0,170.0,532.77,433.26,99.51
+2008,2,56,Montreal,Danny Kristo,R,0.0,0.0,0.0,253.92,-253.92
+2008,2,57,Washington,Eric Mestery,D,0.0,0.0,0.0,232.7,-232.7
+2008,2,58,Washington,Dmitri Kugryshev,R,0.0,0.0,0.0,495.57,-495.57
+2008,2,60,Toronto,Jimmy Hayes,R,334.0,109.0,583.61,215.71,367.9
+2008,3,62,San Jose,Justin Daniels,C,0.0,0.0,0.0,173.49,-173.49
+2008,3,63,Los Angeles,Robert Czarnik,C,0.0,0.0,0.0,185.8,-185.8
+2008,3,64,Winnipeg,Danick Paquette,R,0.0,0.0,0.0,173.7,-173.7
+2008,3,65,St. Louis,Jori Lehtera,C,307.0,111.0,561.19,117.52,443.67
+2008,3,66,NY Islanders,David Toews,C,0.0,0.0,0.0,331.97,-331.97
+2008,3,67,Philadelphia,Marc-Andre Bourdon,D,45.0,7.0,61.03,245.7,-184.67
+2008,3,68,Chicago,Shawn Lalonde,D,1.0,0.0,1.0,88.52,-87.52
+2008,3,69,Arizona,Michael Stone,D,552.0,145.0,570.15,195.1,375.05
+2008,3,70,St. Louis,James Livingston,R,0.0,0.0,0.0,55.14,-55.14
+2008,3,71,Anaheim,Josh Brittain,L,0.0,0.0,0.0,207.72,-207.72
+2008,3,72,NY Islanders,Jyri Niemi,D,0.0,0.0,0.0,187.62,-187.62
+2008,3,73,NY Islanders,Kirill Petrov,R,0.0,0.0,0.0,70.83,-70.83
+2008,3,74,Los Angeles,Andrew Campbell,D,42.0,2.0,46.58,122.8,-76.22
+2008,3,75,NY Rangers,Evgeny Grachev,L,34.0,4.0,43.16,238.46,-195.3
+2008,3,76,Arizona,Mathieu Brodeur,D,0.0,0.0,0.0,72.12,-72.12
+2008,3,78,Calgary,Lance Bouma,L,357.0,76.0,529.55,150.56,378.99
+2008,3,79,Ottawa,Zack Smith,L,662.0,204.0,607.22,234.19,373.03
+2008,3,80,Florida,Adam Comrie,D,0.0,0.0,0.0,199.44,-199.44
+2008,3,81,Buffalo,Corey Fienhage,D,0.0,0.0,0.0,69.86,-69.86
+2008,3,82,New Jersey,Adam Henrique,C,1053.0,571.0,798.07,166.57,631.5
+2008,3,85,Anaheim,Brandon McMillan,L,171.0,36.0,253.44,243.77,9.67
+2008,3,86,Montreal,Steve Quailer,R,0.0,0.0,0.0,200.26,-200.26
+2008,3,87,St. Louis,Ian Schultz,R,0.0,0.0,0.0,26.31,-26.31
+2008,3,88,Los Angeles,Geordie Wudrick,L,0.0,0.0,0.0,71.24,-71.24
+2008,3,89,Dallas,Scott Winkler,C,0.0,0.0,0.0,170.7,-170.7
+2008,3,90,NY Rangers,Tomas Kundratek,D,30.0,7.0,46.03,109.44,-63.41
+2008,3,91,Detroit,Max Nicastro,D,0.0,0.0,0.0,59.98,-59.98
+2008,4,92,San Jose,Samuel Groulx,D,0.0,0.0,0.0,133.62,-133.62
+2008,4,94,Winnipeg,Vinny Saponari,R,0.0,0.0,0.0,55.6,-55.6
+2008,4,95,St. Louis,David Warsofsky,D,55.0,11.0,80.19,145.49,-65.3
+2008,4,96,NY Islanders,Matt Donovan,D,69.0,20.0,114.8,221.8,-107.0
+2008,4,97,Boston,Jamie Arniel,C,1.0,0.0,1.0,110.3,-109.3
+2008,4,98,Toronto,Mikhail Stefanovich,C,0.0,0.0,0.0,132.71,-132.71
+2008,4,99,Arizona,Colin Long,C,0.0,0.0,0.0,190.38,-190.38
+2008,4,100,Florida,A.J. Jenks,L,0.0,0.0,0.0,128.5,-128.5
+2008,4,101,Buffalo,Justin Jokinen,R,0.0,0.0,0.0,146.94,-146.94
+2008,4,102,NY Islanders,David Ullstrom,C,49.0,13.0,78.77,131.88,-53.11
+2008,4,103,Edmonton,Johan Motin,D,1.0,0.0,1.0,55.26,-54.26
+2008,4,104,Buffalo,Jordon Southorn,D,0.0,0.0,0.0,282.17,-282.17
+2008,4,105,Carolina,Michal Jordan,D,79.0,7.0,95.03,148.12,-53.09
+2008,4,107,Columbus,Steven Delisle,D,0.0,0.0,0.0,71.46,-71.46
+2008,4,108,Calgary,Nick Larson,L,0.0,0.0,0.0,145.03,-145.03
+2008,4,109,Ottawa,Andre Petersson,R,1.0,0.0,1.0,86.89,-85.89
+2008,4,110,Colorado,Kelsey Tessier,C,0.0,0.0,0.0,219.48,-219.48
+2008,4,111,NY Rangers,Dale Weise,R,513.0,125.0,554.65,106.35,448.3
+2008,4,112,New Jersey,Matt Delahey,D,0.0,0.0,0.0,255.72,-255.72
+2008,4,113,Anaheim,Ryan Hegarty,D,0.0,0.0,0.0,102.82,-102.82
+2008,4,114,Calgary,T.J. Brodie,D,962.0,358.0,659.38,88.9,570.48
+2008,4,115,Minnesota,Sean Lorenz,D,0.0,0.0,0.0,56.34,-56.34
+2008,4,117,Tampa Bay,James Wright,C,146.0,12.0,173.48,241.4,-67.92
+2008,4,118,Columbus,Drew Olson,D,0.0,0.0,0.0,99.56,-99.56
+2008,4,119,Ottawa,Derek Grant,C,427.0,132.0,608.02,29.07,578.95
+2008,4,120,Pittsburgh,Nathan Moon,C,0.0,0.0,0.0,171.69,-171.69
+2008,4,121,Detroit,Gustav Nyquist,R,914.0,543.0,840.33,203.72,636.61
+2008,5,123,Los Angeles,Andrei Loktionov,C,155.0,48.0,264.92,97.89,167.03
+2008,5,124,Winnipeg,Nicklas Lasu,L,0.0,0.0,0.0,98.64,-98.64
+2008,5,125,St. Louis,Kristoffer Berglund,D,0.0,0.0,0.0,98.64,-98.64
+2008,5,127,Columbus,Matt Calvert,L,566.0,203.0,648.39,96.8,551.59
+2008,5,128,Toronto,Greg Pateryn,D,290.0,44.0,390.76,97.53,293.23
+2008,5,129,Toronto,Joel Champagne,C,0.0,0.0,0.0,98.64,-98.64
+2008,5,130,Toronto,Jerome Flaake,R,0.0,0.0,0.0,98.64,-98.64
+2008,5,131,Vancouver,Prabh Rai,C,0.0,0.0,0.0,98.64,-98.64
+2008,5,132,Chicago,Teigan Zahn,D,0.0,0.0,0.0,98.64,-98.64
+2008,5,133,Edmonton,Philippe Cornet,L,2.0,1.0,4.29,98.63,-94.34
+2008,5,134,Buffalo,Jacob Lagace,L,0.0,0.0,0.0,98.64,-98.64
+2008,5,135,Columbus,Tomas Kubalik,R,12.0,4.0,21.16,98.58,-77.42
+2008,5,136,Nashville,Taylor Stefishen,L,0.0,0.0,0.0,98.64,-98.64
+2008,5,137,Columbus,Brent Regner,D,7.0,0.0,7.0,98.62,-91.62
+2008,5,138,Montreal,Maxim Trunev,F,0.0,0.0,0.0,98.64,-98.64
+2008,5,139,Ottawa,Mark Borowiecki,D,458.0,56.0,455.68,97.35,358.33
+2008,5,140,Colorado,Mark Olver,C,74.0,22.0,124.38,98.29,26.09
+2008,5,141,NY Rangers,Chris Doyle,L,0.0,0.0,0.0,98.64,-98.64
+2008,5,142,New Jersey,Kory Nagy,C,0.0,0.0,0.0,98.64,-98.64
+2008,5,143,Anaheim,Stefan Warg,D,0.0,0.0,0.0,98.64,-98.64
+2008,5,144,Washington,Joel Broda,C,0.0,0.0,0.0,98.64,-98.64
+2008,5,145,Minnesota,Eero Elo,L,0.0,0.0,0.0,98.64,-98.64
+2008,5,146,San Jose,Julien Demers,D,0.0,0.0,0.0,98.64,-98.64
+2008,5,147,Tampa Bay,Kyle DeCoste,R,0.0,0.0,0.0,98.64,-98.64
+2008,5,148,NY Islanders,Matt Martin,L,987.0,178.0,503.02,97.21,405.81
+2008,5,149,Dallas,Philip Larsen,D,151.0,37.0,235.73,97.97,137.76
+2008,5,151,Detroit,Julien Cayer,C,0.0,0.0,0.0,98.64,-98.64
+2008,6,152,Tampa Bay,Mark Barberio,D,272.0,56.0,400.24,82.28,317.96
+2008,6,153,Los Angeles,Justin Azevedo,C,0.0,0.0,0.0,83.45,-83.45
+2008,6,155,St. Louis,Anthony Nigro,L,0.0,0.0,0.0,83.45,-83.45
+2008,6,156,NY Islanders,Jared Spurgeon,D,1008.0,436.0,708.62,81.37,627.25
+2008,6,157,Columbus,Cam Atkinson,R,809.0,489.0,848.77,80.96,767.81
+2008,6,159,Arizona,Brett Hextall,R,0.0,0.0,0.0,83.45,-83.45
+2008,6,160,Tampa Bay,Luke Witkowski,D,132.0,13.0,161.77,82.98,78.79
+2008,6,161,Vancouver,Mats Josten-Froshaug,C,0.0,0.0,0.0,83.45,-83.45
+2008,6,162,Chicago,Jonathan Carlsson,D,0.0,0.0,0.0,83.45,-83.45
+2008,6,163,Edmonton,Teemu Hartikainen,L,52.0,13.0,81.77,83.21,-1.44
+2008,6,164,Buffalo,Nick Crawford,D,0.0,0.0,0.0,83.45,-83.45
+2008,6,166,Nashville,Jeff Foss,D,0.0,0.0,0.0,83.45,-83.45
+2008,6,167,Colorado,Joel Chouinard,D,0.0,0.0,0.0,83.45,-83.45
+2008,6,168,Calgary,Ryley Grantham,C,0.0,0.0,0.0,83.45,-83.45
+2008,6,169,Chicago,Ben Smith,R,237.0,54.0,360.66,82.39,278.27
+2008,6,170,Colorado,Jonas Holos,D,39.0,6.0,52.74,83.3,-30.56
+2008,6,171,NY Rangers,Mitch Gaulton,D,0.0,0.0,0.0,83.45,-83.45
+2008,6,172,New Jersey,David Wohlberg,C,0.0,0.0,0.0,83.45,-83.45
+2008,6,173,Boston,Nicolas Tremblay,C,0.0,0.0,0.0,83.45,-83.45
+2008,6,174,Washington,Greg Burke,L,0.0,0.0,0.0,83.45,-83.45
+2008,6,175,NY Islanders,Justin DiBenedetto,L,8.0,1.0,10.29,83.42,-73.13
+2008,6,176,Dallas,Matt Tassone,L,0.0,0.0,0.0,83.45,-83.45
+2008,6,177,San Jose,Tommy Wingels,C,448.0,143.0,616.22,81.65,534.57
+2008,6,178,Philadelphia,Zac Rinaldo,C,374.0,42.0,447.55,82.14,365.41
+2008,6,179,Chicago,Braden Birch,D,0.0,0.0,0.0,83.45,-83.45
+2008,6,181,Detroit,Stephen Johnston,C,0.0,0.0,0.0,83.45,-83.45
+2008,7,182,Tampa Bay,Matias Sointu,L,0.0,0.0,0.0,60.62,-60.62
+2008,7,183,Los Angeles,Garrett Roe,L,0.0,0.0,0.0,60.62,-60.62
+2008,7,184,Winnipeg,Zach Redmond,D,133.0,38.0,220.02,60.0,160.02
+2008,7,186,San Jose,Jason Demers,D,700.0,214.0,605.23,58.91,546.32
+2008,7,187,Columbus,Sean Collins,C,21.0,3.0,27.87,60.54,-32.67
+2008,7,188,Toronto,Andrew MacWilliam,D,12.0,2.0,16.58,60.57,-43.99
+2008,7,189,Arizona,Tim Billingsley,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,190,Florida,Matt Bartkowski,D,256.0,48.0,365.92,59.58,306.34
+2008,7,192,Chicago,Joe Gleason,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,193,Edmonton,Jordan Bendfeld,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,194,San Jose,Drew Daniels,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,195,Carolina,Samuel Morneau,L,0.0,0.0,0.0,60.62,-60.62
+2008,7,197,Boston,Mark Goggin,C,0.0,0.0,0.0,60.62,-60.62
+2008,7,198,Calgary,Alexander Deilert,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,199,Ottawa,Emil Sandin,L,0.0,0.0,0.0,60.62,-60.62
+2008,7,200,Colorado,Nathan Condon,C,0.0,0.0,0.0,60.62,-60.62
+2008,7,201,Nashville,Jani Lajunen,C,0.0,0.0,0.0,60.62,-60.62
+2008,7,202,New Jersey,Harry Young,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,203,Tampa Bay,David Carle,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,204,Washington,Stefan Della Rovere,L,7.0,0.0,7.0,60.6,-53.6
+2008,7,205,New Jersey,Jean-Sebastien Berube,L,0.0,0.0,0.0,60.62,-60.62
+2008,7,206,Montreal,Patrick Johnson,C,0.0,0.0,0.0,60.62,-60.62
+2008,7,208,Anaheim,Nick Pryor,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,209,Dallas,Mike Bergin,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,210,Pittsburgh,Nicholas D'Agostino,D,0.0,0.0,0.0,60.62,-60.62
+2008,7,211,Detroit,Jesper Samuelsson,C,0.0,0.0,0.0,60.62,-60.62
+2009,1,1,NY Islanders,John Tavares,C,1261.0,1182.0,1120.17,1085.23,34.94
+2009,1,2,Tampa Bay,Victor Hedman,D,1164.0,811.0,924.01,889.16,34.85
+2009,1,3,Colorado,Matt Duchene,C,1190.0,930.0,993.12,851.92,141.2
+2009,1,4,Winnipeg,Evander Kane,L,1001.0,648.0,883.75,781.81,101.94
+2009,1,5,Los Angeles,Brayden Schenn,C,1098.0,723.0,892.81,666.07,226.74
+2009,1,6,Arizona,Oliver Ekman Larsson,D,1132.0,538.0,743.46,714.42,29.04
+2009,1,7,Toronto,Nazem Kadri,C,1060.0,760.0,940.51,728.86,211.65
+2009,1,8,Dallas,Scott Glennie,C,1.0,0.0,1.0,644.85,-643.85
+2009,1,9,Ottawa,Jared Cowen,D,249.0,46.0,354.34,777.86,-423.52
+2009,1,10,Edmonton,Magnus Paajarvi,L,467.0,124.0,572.47,568.69,3.78
+2009,1,11,Nashville,Ryan Ellis,D,566.0,275.0,752.1,553.62,198.48
+2009,1,12,NY Islanders,Calvin de Haan,D,679.0,149.0,534.9,625.96,-91.06
+2009,1,13,Buffalo,Zack Kassian,R,661.0,203.0,606.37,491.21,115.16
+2009,1,14,Florida,Dmitri Kulikov,D,1035.0,247.0,550.55,532.68,17.87
+2009,1,15,Anaheim,Peter Holland,C,266.0,85.0,460.65,539.24,-78.59
+2009,1,16,Minnesota,Nick Leddy,D,1070.0,423.0,678.29,559.03,119.26
+2009,1,17,St. Louis,David Rundblad,D,113.0,25.0,170.25,574.87,-404.62
+2009,1,18,Montreal,Louis Leblanc,R,50.0,10.0,72.9,512.35,-439.45
+2009,1,19,NY Rangers,Chris Kreider,L,954.0,629.0,893.51,405.09,488.42
+2009,1,20,New Jersey,Jacob Josefson,C,315.0,64.0,461.56,517.22,-55.66
+2009,1,21,Columbus,John Moore,D,544.0,118.0,532.84,459.37,73.47
+2009,1,22,Vancouver,Jordan Schroeder,L,165.0,42.0,261.18,481.77,-220.59
+2009,1,23,Calgary,Tim Erixon,D,93.0,14.0,125.06,388.5,-263.44
+2009,1,24,Washington,Marcus Johansson,L,1052.0,562.0,791.52,473.65,317.87
+2009,1,25,Boston,Jordan Caron,R,157.0,28.0,221.12,403.54,-182.42
+2009,1,26,Anaheim,Kyle Palmieri,C,925.0,545.0,836.33,591.91,244.42
+2009,1,27,Carolina,Philippe Paradis,L,0.0,0.0,0.0,385.12,-385.12
+2009,1,28,Chicago,Dylan Olsen,D,124.0,22.0,174.38,322.13,-147.75
+2009,1,29,Tampa Bay,Carter Ashton,R,54.0,3.0,60.87,344.14,-283.27
+2009,1,30,Pittsburgh,Simon Despres,D,193.0,43.0,291.47,435.99,-144.52
+2009,2,32,Detroit,Landon Ferraro,C,77.0,12.0,104.48,156.52,-52.04
+2009,2,33,Colorado,Ryan O'Reilly,C,1227.0,893.0,949.32,259.29,690.03
+2009,2,34,Winnipeg,Carl Klingberg,R,12.0,1.0,14.29,275.28,-260.99
+2009,2,35,Los Angeles,Kyle Clifford,L,753.0,144.0,511.9,316.75,195.15
+2009,2,36,Arizona,Chris Brown,C,23.0,3.0,29.87,227.06,-197.19
+2009,2,37,Anaheim,Mat Clark,D,9.0,1.0,11.29,245.17,-233.88
+2009,2,38,Dallas,Alex Chiasson,R,651.0,233.0,647.78,280.99,366.79
+2009,2,39,Ottawa,Jakob Silfverberg,R,820.0,373.0,726.83,328.25,398.58
+2009,2,40,Edmonton,Anton Lander,C,215.0,35.0,295.15,75.43,219.72
+2009,2,41,Nashville,Zach Budish,R,0.0,0.0,0.0,211.46,-211.46
+2009,2,42,Nashville,Charles-Olivier Roussel,D,0.0,0.0,0.0,325.99,-325.99
+2009,2,43,San Jose,William Wrenn,D,0.0,0.0,0.0,329.43,-329.43
+2009,2,44,Florida,Drew Shore,C,98.0,26.0,157.54,296.13,-138.59
+2009,2,45,Winnipeg,Jeremy Morin,L,82.0,22.0,132.38,313.34,-180.96
+2009,2,47,NY Rangers,Ethan Werek,C,0.0,0.0,0.0,347.17,-347.17
+2009,2,48,St. Louis,Brett Ponich,D,0.0,0.0,0.0,89.69,-89.69
+2009,2,49,Colorado,Stefan Elliott,D,87.0,25.0,144.25,265.68,-121.43
+2009,2,50,Toronto,Kenny Ryan,R,0.0,0.0,0.0,222.67,-222.67
+2009,2,51,Carolina,Brian Dumoulin,D,782.0,194.0,558.25,215.23,343.02
+2009,2,52,Tampa Bay,Richard Panik,R,521.0,195.0,661.13,153.42,507.71
+2009,2,53,Vancouver,Anton Rodin,R,3.0,1.0,5.29,280.81,-275.52
+2009,2,54,New Jersey,Eric Gelinas,D,189.0,55.0,314.95,217.0,97.95
+2009,2,55,Washington,Dmitri Orlov,D,942.0,361.0,668.42,420.93,247.49
+2009,2,56,Columbus,Kevin Lynch,C,0.0,0.0,0.0,253.92,-253.92
+2009,2,57,San Jose,Taylor Doherty,D,0.0,0.0,0.0,232.7,-232.7
+2009,2,58,Toronto,Jesse Blacker,D,1.0,0.0,1.0,495.48,-494.48
+2009,2,59,Chicago,Brandon Pirri,C,276.0,121.0,553.09,132.91,420.18
+2009,2,60,Detroit,Tomas Tatar,L,927.0,496.0,792.2,198.33,593.87
+2009,2,61,Pittsburgh,Philip Samuelsson,D,13.0,0.0,13.0,215.67,-202.67
+2009,3,63,Pittsburgh,Ben Hanowski,R,16.0,3.0,22.87,183.72,-160.85
+2009,3,64,Colorado,Tyson Barrie,D,822.0,508.0,859.82,95.53,764.29
+2009,3,65,Montreal,Joonas Nattinen,C,1.0,0.0,1.0,168.44,-167.44
+2009,3,66,Buffalo,Brayden McNabb,D,880.0,189.0,531.09,287.71,243.38
+2009,3,67,Florida,Josh Birkholz,R,0.0,0.0,0.0,250.79,-250.79
+2009,3,68,Toronto,Jamie Devane,L,2.0,0.0,2.0,88.44,-86.44
+2009,3,69,Dallas,Reilly Smith,R,986.0,575.0,831.42,166.07,665.35
+2009,3,70,Nashville,Taylor Beck,R,92.0,23.0,144.67,40.67,104.0
+2009,3,71,Edmonton,Troy Hesketh,D,0.0,0.0,0.0,207.72,-207.72
+2009,3,72,Nashville,Michael Latta,C,113.0,17.0,151.93,172.43,-20.5
+2009,3,73,New Jersey,Alexander Urbom,D,34.0,4.0,43.16,67.23,-24.07
+2009,3,74,Calgary,Ryan Howse,L,0.0,0.0,0.0,127.04,-127.04
+2009,3,75,Detroit,Andrej Nestrasil,R,128.0,48.0,237.92,216.82,21.1
+2009,3,78,St. Louis,Sergei Andronov,L,0.0,0.0,0.0,209.4,-209.4
+2009,3,79,Montreal,Mac Bennett,D,0.0,0.0,0.0,284.79,-284.79
+2009,3,80,NY Rangers,Ryan Bourque,L,1.0,0.0,1.0,199.34,-198.34
+2009,3,82,Edmonton,Cameron Abney,R,0.0,0.0,0.0,233.08,-233.08
+2009,3,83,Vancouver,Kevin Connauton,D,360.0,80.0,537.16,7.84,529.32
+2009,3,84,Los Angeles,Nicolas Deslauriers,L,702.0,105.0,477.94,27.24,450.7
+2009,3,85,Washington,Cody Eakin,C,701.0,256.0,653.72,207.38,446.34
+2009,3,86,Boston,Ryan Button,D,0.0,0.0,0.0,200.26,-200.26
+2009,3,87,Philadelphia,Simon Bertilsson,D,0.0,0.0,0.0,26.31,-26.31
+2009,3,88,Carolina,Mattias Lindstrom,L,0.0,0.0,0.0,71.24,-71.24
+2009,3,89,Chicago,Daniel Delisle,L,0.0,0.0,0.0,170.7,-170.7
+2009,3,90,Detroit,Gleason Fournier,D,0.0,0.0,0.0,113.62,-113.62
+2009,4,92,NY Islanders,Casey Cizikas,C,974.0,279.0,589.52,68.12,521.4
+2009,4,93,Tampa Bay,Alex Hutchings,L,0.0,0.0,0.0,108.48,-108.48
+2009,4,94,Columbus,David Savard,D,870.0,242.0,582.77,2.62,580.15
+2009,4,96,Los Angeles,Linden Vey,R,138.0,44.0,238.76,209.41,29.35
+2009,4,97,Arizona,Jordan Szwarz,C,50.0,7.0,66.03,104.88,-38.85
+2009,4,98,Nashville,Craig Smith,C,987.0,452.0,729.34,66.4,662.94
+2009,4,99,Edmonton,Kyle Bigos,D,0.0,0.0,0.0,190.38,-190.38
+2009,4,100,Ottawa,Chris Wideman,D,291.0,78.0,469.62,89.37,380.25
+2009,4,101,Edmonton,Toni Rajala,L,0.0,0.0,0.0,146.94,-146.94
+2009,4,102,Nashville,Mattias Ekholm,D,961.0,399.0,694.48,75.91,618.57
+2009,4,103,Minnesota,Kris Foucault,L,1.0,0.0,1.0,55.26,-54.26
+2009,4,104,Buffalo,Marcus Foligno,L,927.0,335.0,650.61,223.02,427.59
+2009,4,105,Arizona,Justin Weller,D,0.0,0.0,0.0,156.76,-156.76
+2009,4,106,Anaheim,Sami Vatanen,D,473.0,200.0,700.71,181.88,518.83
+2009,4,107,Florida,Garrett Wilson,L,86.0,8.0,104.32,61.97,42.35
+2009,4,108,St. Louis,Tyler Shattock,R,0.0,0.0,0.0,145.03,-145.03
+2009,4,109,Montreal,Alexander Avtsin,R,0.0,0.0,0.0,86.99,-86.99
+2009,4,110,Nashville,Nick Oliver,C,0.0,0.0,0.0,219.48,-219.48
+2009,4,111,Calgary,Henrik Bjorklund,L,0.0,0.0,0.0,167.98,-167.98
+2009,4,112,Boston,Lane MacDermid,L,21.0,4.0,30.16,252.71,-222.55
+2009,4,113,Vancouver,Jeremy Price,D,0.0,0.0,0.0,102.82,-102.82
+2009,4,114,New Jersey,Seth Helgeson,D,50.0,4.0,59.16,148.92,-89.76
+2009,4,115,Washington,Patrick Wey,D,9.0,3.0,15.87,54.89,-39.02
+2009,4,116,Minnesota,Alexander Fallstrom,R,0.0,0.0,0.0,91.68,-91.68
+2009,4,119,Chicago,Byron Froese,C,141.0,20.0,186.8,67.36,119.44
+2009,4,120,Winnipeg,Ben Chiarot,D,799.0,182.0,541.7,122.44,419.26
+2009,4,121,Pittsburgh,Nick Petersen,R,0.0,0.0,0.0,297.09,-297.09
+2009,5,122,NY Islanders,Anton Klementyev,D,1.0,0.0,1.0,98.64,-97.64
+2009,5,123,Pittsburgh,Alex Velischek,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,125,Winnipeg,Cody Sol,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,126,Los Angeles,David Kolomatis,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,127,NY Rangers,Roman Horak,C,84.0,19.0,127.51,98.28,29.23
+2009,5,128,Toronto,Eric Knodel,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,129,Dallas,Tomas Vincour,R,95.0,17.0,133.93,98.26,35.67
+2009,5,130,Ottawa,Mike Hoffman,C,745.0,487.0,888.92,96.11,792.81
+2009,5,131,Carolina,Matt Kennedy,R,0.0,0.0,0.0,98.64,-98.64
+2009,5,132,Nashville,Gabriel Bourque,L,413.0,103.0,559.32,97.05,462.27
+2009,5,134,Buffalo,Mark Adams,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,135,Florida,Corban Knight,C,52.0,12.0,79.48,98.41,-18.93
+2009,5,136,Anaheim,Radoslav Illo,C,0.0,0.0,0.0,98.64,-98.64
+2009,5,137,Columbus,Thomas Larkin,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,138,Florida,Wade Megan,C,15.0,2.0,19.58,98.58,-79.0
+2009,5,139,Montreal,Gabriel Dumont,C,90.0,9.0,110.61,98.33,12.28
+2009,5,141,Calgary,Spencer Bennett,L,0.0,0.0,0.0,98.64,-98.64
+2009,5,143,Vancouver,Peter Andersson,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,144,New Jersey,Derek Rodwell,L,0.0,0.0,0.0,98.64,-98.64
+2009,5,145,Washington,Brett Flemming,D,0.0,0.0,0.0,98.64,-98.64
+2009,5,146,Ottawa,Jeff Costello,L,0.0,0.0,0.0,98.64,-98.64
+2009,5,147,San Jose,Philip Varone,C,97.0,17.0,135.93,98.25,37.68
+2009,5,149,Chicago,Marcus Kruger,C,520.0,123.0,548.84,97.08,451.76
+2009,5,150,Detroit,Nick Jensen,D,694.0,172.0,558.05,97.05,461.0
+2009,5,151,Pittsburgh,Andy Bathgate,C,0.0,0.0,0.0,98.64,-98.64
+2009,6,152,NY Islanders,Anders Lee,L,919.0,549.0,843.01,80.98,762.03
+2009,6,153,Philadelphia,Dave Labrecque,C,0.0,0.0,0.0,83.45,-83.45
+2009,6,155,Winnipeg,Jimmy Bubnick,C,0.0,0.0,0.0,83.45,-83.45
+2009,6,156,Los Angeles,Michael Pelech,F,0.0,0.0,0.0,83.45,-83.45
+2009,6,157,Arizona,Evan Bloodoff,L,0.0,0.0,0.0,83.45,-83.45
+2009,6,158,Toronto,Jerry D'Amigo,L,31.0,3.0,37.87,83.34,-45.47
+2009,6,159,Dallas,Curtis McKenzie,L,99.0,23.0,151.67,83.01,68.66
+2009,6,160,Ottawa,Corey Cowick,L,0.0,0.0,0.0,83.45,-83.45
+2009,6,163,Minnesota,Jere Sallinen,L,0.0,0.0,0.0,83.45,-83.45
+2009,6,165,Florida,Scott Timmins,C,24.0,1.0,26.29,83.38,-57.09
+2009,6,166,Anaheim,Scott Valentine,D,0.0,0.0,0.0,83.45,-83.45
+2009,6,167,Columbus,Anton Blomqvist,D,0.0,0.0,0.0,83.45,-83.45
+2009,6,168,St. Louis,David Shields,D,0.0,0.0,0.0,83.45,-83.45
+2009,6,169,Montreal,Dustin Walsh,C,0.0,0.0,0.0,83.45,-83.45
+2009,6,170,NY Rangers,Daniel Maggio,D,0.0,0.0,0.0,83.45,-83.45
+2009,6,172,Philadelphia,Eric Wellwood,L,31.0,10.0,53.9,83.29,-29.39
+2009,6,174,New Jersey,Ashton Bernard,L,0.0,0.0,0.0,83.45,-83.45
+2009,6,175,Washington,Garrett Mitchell,R,1.0,0.0,1.0,83.45,-82.45
+2009,6,176,Boston,Tyler Randell,R,27.0,6.0,40.74,83.33,-42.59
+2009,6,177,Chicago,David Pacan,R,0.0,0.0,0.0,83.45,-83.45
+2009,6,178,Carolina,Rasmus Rissanen,D,6.0,0.0,6.0,83.43,-77.43
+2009,6,179,Los Angeles,Brandon Kozun,R,20.0,4.0,29.16,83.37,-54.21
+2009,6,180,Detroit,Mitch Callahan,R,5.0,0.0,5.0,83.44,-78.44
+2009,6,181,Pittsburgh,Viktor Ekbom,D,0.0,0.0,0.0,83.45,-83.45
+2009,7,182,Minnesota,Erik Haula,L,835.0,371.0,718.22,58.59,659.63
+2009,7,183,Tampa Bay,Kirill Gotovets,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,184,Colorado,Gus Young,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,185,Winnipeg,Levko Koper,L,0.0,0.0,0.0,60.62,-60.62
+2009,7,186,Los Angeles,Jordan Nolan,C,375.0,52.0,469.05,59.29,409.76
+2009,7,187,Vancouver,Steven Anthony,L,0.0,0.0,0.0,60.62,-60.62
+2009,7,188,Toronto,Barron Smith,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,189,San Jose,Marek Viedensky,C,0.0,0.0,0.0,60.62,-60.62
+2009,7,190,Ottawa,Brad Peltz,L,0.0,0.0,0.0,60.62,-60.62
+2009,7,191,Ottawa,Michael Sdao,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,192,Nashville,Cam Reid,F,0.0,0.0,0.0,60.62,-60.62
+2009,7,193,Minnesota,Anthony Hamburg,C,0.0,0.0,0.0,60.62,-60.62
+2009,7,194,Buffalo,Maxime Legault,R,0.0,0.0,0.0,60.62,-60.62
+2009,7,195,Chicago,Paul Phillips,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,196,Philadelphia,Oliver Lauridsen,D,16.0,3.0,22.87,60.55,-37.68
+2009,7,197,Columbus,Kyle Neuber,R,0.0,0.0,0.0,60.62,-60.62
+2009,7,198,Los Angeles,Nic Dowd,C,652.0,195.0,599.82,58.92,540.9
+2009,7,199,Montreal,Mike Cichy,C,0.0,0.0,0.0,60.62,-60.62
+2009,7,200,NY Rangers,Mikhail Pashnin,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,201,Calgary,Gaelan Patterson,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,202,St. Louis,Maxwell Tardy,C,0.0,0.0,0.0,60.62,-60.62
+2009,7,203,Winnipeg,Jordan Samuels-Thomas,L,0.0,0.0,0.0,60.62,-60.62
+2009,7,204,New Jersey,Curtis Gedig,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,205,Washington,Benjamin Casavant,L,0.0,0.0,0.0,60.62,-60.62
+2009,7,206,Boston,Ben Sexton,C,2.0,0.0,2.0,60.61,-58.61
+2009,7,207,San Jose,Dominik Bielke,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,208,Carolina,Tommi Kivisto,D,0.0,0.0,0.0,60.62,-60.62
+2009,7,209,Chicago,David Gilbert,C,0.0,0.0,0.0,60.62,-60.62
+2009,7,210,Detroit,Adam Almquist,D,2.0,1.0,4.29,60.61,-56.32
+2010,1,1,Edmonton,Taylor Hall,L,985.0,782.0,1003.23,1094.98,-91.75
+2010,1,2,Boston,Tyler Seguin,C,1016.0,826.0,1018.78,881.26,137.52
+2010,1,3,Florida,Erik Gudbranson,D,837.0,140.0,492.36,893.65,-401.29
+2010,1,4,Columbus,Ryan Johansen,C,905.0,578.0,876.67,782.4,94.27
+2010,1,5,NY Islanders,Nino Niederreiter,R,1024.0,499.0,753.27,678.75,74.52
+2010,1,6,Tampa Bay,Brett Connolly,R,536.0,195.0,652.59,721.99,-69.4
+2010,1,7,Carolina,Jeff Skinner,L,1110.0,712.0,878.93,733.99,144.94
+2010,1,8,Winnipeg,Alexander Burmistrov,C,348.0,101.0,579.29,596.66,-17.37
+2010,1,9,Minnesota,Mikael Granlund,C,955.0,645.0,906.61,731.84,174.77
+2010,1,10,NY Rangers,Dylan McIlrath,D,104.0,9.0,124.61,606.01,-481.4
+2010,1,12,Anaheim,Cam Fowler,D,1117.0,520.0,735.52,609.24,126.27
+2010,1,13,Arizona,Brandon Gormley,D,58.0,5.0,69.45,535.95,-466.5
+2010,1,14,St. Louis,Jaden Schwartz,L,856.0,550.0,879.81,505.25,374.56
+2010,1,15,Los Angeles,Derek Forbort,D,552.0,106.0,512.55,534.52,-21.97
+2010,1,16,St. Louis,Vladimir Tarasenko,R,900.0,705.0,994.6,532.67,461.93
+2010,1,17,Colorado,Joey Hishon,C,13.0,2.0,17.58,587.59,-570.01
+2010,1,18,Nashville,Austin Watson,L,528.0,121.0,542.83,469.62,73.21
+2010,1,19,Florida,Nick Bjugstad,C,815.0,339.0,695.1,423.13,271.97
+2010,1,20,Pittsburgh,Beau Bennett,R,200.0,64.0,346.56,526.8,-180.24
+2010,1,21,Detroit,Riley Sheahan,C,637.0,194.0,604.28,452.88,151.4
+2010,1,22,Montreal,Jarred Tinordi,D,205.0,30.0,273.7,480.63,-206.93
+2010,1,23,Buffalo,Mark Pysyk,D,521.0,104.0,518.74,352.71,166.03
+2010,1,24,Chicago,Kevin Hayes,R,802.0,442.0,805.3,472.39,332.91
+2010,1,25,Florida,Quinton Howden,C,97.0,17.0,135.93,410.63,-274.7
+2010,1,26,Washington,Evgeny Kuznetsov,C,743.0,575.0,986.91,576.85,410.06
+2010,1,28,San Jose,Charlie Coyle,C,1027.0,541.0,785.45,271.21,514.24
+2010,1,29,Anaheim,Emerson Etem,R,173.0,46.0,278.34,326.02,-47.68
+2010,1,30,NY Islanders,Brock Nelson,C,995.0,649.0,887.75,381.79,505.96
+2010,2,31,Edmonton,Tyler Pitlick,C,452.0,111.0,556.2,124.78,431.42
+2010,2,32,Boston,Jared Knight,R,0.0,0.0,0.0,166.02,-166.02
+2010,2,33,Florida,John Mcfarland,R,3.0,0.0,3.0,338.15,-335.15
+2010,2,34,Columbus,Dalton Smith,L,1.0,0.0,1.0,276.76,-275.76
+2010,2,35,Chicago,Ludvig Rensfeldt,L,0.0,0.0,0.0,359.41,-359.41
+2010,2,36,Florida,Alexander Petrovic,D,321.0,59.0,456.11,179.7,276.41
+2010,2,37,Carolina,Justin Faulk,D,1053.0,493.0,737.68,179.13,558.55
+2010,2,38,New Jersey,Jon Merrill,D,682.0,115.0,493.47,296.42,197.04
+2010,2,39,Minnesota,Brett Bulmer,R,17.0,3.0,23.87,398.55,-374.68
+2010,2,40,NY Rangers,Christian Thomas,L,27.0,3.0,33.87,97.2,-63.33
+2010,2,41,Dallas,Patrik Nemeth,D,504.0,70.0,469.23,168.8,300.43
+2010,2,42,Anaheim,Devante Smith-Pelly,R,395.0,101.0,564.45,274.68,289.77
+2010,2,43,Toronto,Brad Ross,L,0.0,0.0,0.0,329.43,-329.43
+2010,2,44,St. Louis,Sebastian Wannstrom,R,0.0,0.0,0.0,310.45,-310.45
+2010,2,45,Boston,Ryan Spooner,C,325.0,167.0,707.43,261.06,446.37
+2010,2,46,Edmonton,Martin Marincin,D,227.0,34.0,304.86,170.16,134.7
+2010,2,47,Los Angeles,Tyler Toffoli,C,963.0,622.0,882.56,273.62,608.94
+2010,2,48,Edmonton,Curtis Hamilton,L,1.0,0.0,1.0,89.59,-88.59
+2010,2,50,Florida,Connor Brickley,L,81.0,21.0,129.09,211.91,-82.82
+2010,2,51,Detroit,Calle Jarnkrok,C,770.0,316.0,690.57,204.2,486.37
+2010,2,52,Arizona,Phil Lane,R,0.0,0.0,0.0,208.52,-208.52
+2010,2,53,Carolina,Mark Alt,D,20.0,0.0,20.0,279.58,-259.58
+2010,2,54,Chicago,Justin Holl,D,404.0,97.0,551.74,187.4,364.34
+2010,2,55,Columbus,Petr Straka,R,3.0,2.0,7.58,481.0,-473.42
+2010,2,56,Minnesota,Johan Larsson,L,488.0,132.0,576.52,205.88,370.64
+2010,2,57,Arizona,Oscar Lindberg,L,252.0,79.0,432.91,196.63,236.28
+2010,2,59,Minnesota,Jason Zucker,L,828.0,462.0,810.88,96.09,714.79
+2010,2,60,Chicago,Stephen Johns,D,167.0,33.0,242.57,244.13,-1.56
+2010,3,61,Edmonton,Ryan Martindale,C,0.0,0.0,0.0,216.97,-216.97
+2010,3,62,Toronto,Greg McKegg,C,233.0,39.0,322.31,133.2,189.11
+2010,3,63,Tampa Bay,Brock Beukeboom,D,0.0,0.0,0.0,185.8,-185.8
+2010,3,64,Calgary,Max Reinhart,C,23.0,5.0,34.45,170.57,-136.12
+2010,3,65,NY Islanders,Kirill Kabanov,L,0.0,0.0,0.0,168.53,-168.53
+2010,3,66,Tampa Bay,Radko Gudas,D,884.0,211.0,550.59,286.09,264.5
+2010,3,67,Carolina,Danny Biega,D,10.0,2.0,14.58,249.57,-234.99
+2010,3,68,Buffalo,Jerome Leduc,D,0.0,0.0,0.0,88.6,-88.6
+2010,3,69,Florida,Joe Basaraba,W,0.0,0.0,0.0,258.45,-258.45
+2010,3,70,Los Angeles,Jordan Weal,C,218.0,69.0,376.01,17.54,358.47
+2010,3,71,Colorado,Michael Bournival,L,113.0,22.0,163.38,192.87,-29.49
+2010,3,72,Tampa Bay,Adam Janosik,D,0.0,0.0,0.0,187.62,-187.62
+2010,3,73,Calgary,Joey Leach,D,0.0,0.0,0.0,70.83,-70.83
+2010,3,74,St. Louis,Max Gardiner,F,0.0,0.0,0.0,127.04,-127.04
+2010,3,75,Buffalo,Kevin Sundher,C,0.0,0.0,0.0,243.26,-243.26
+2010,3,76,Ottawa,Jakub Culek,L,0.0,0.0,0.0,72.12,-72.12
+2010,3,77,Dallas,Alexander Guptill,C,0.0,0.0,0.0,321.95,-321.95
+2010,3,78,Nashville,Taylor Aronson,D,0.0,0.0,0.0,209.4,-209.4
+2010,3,79,Toronto,Sondre Olden,R,0.0,0.0,0.0,284.79,-284.79
+2010,3,80,Pittsburgh,Bryan Rust,R,707.0,499.0,931.4,106.3,825.1
+2010,3,81,Detroit,Louis-Marc Aubry,C,0.0,0.0,0.0,69.86,-69.86
+2010,3,82,NY Islanders,Jason Clark,F,0.0,0.0,0.0,233.08,-233.08
+2010,3,83,Buffalo,Matt Mackenzie,D,0.0,0.0,0.0,74.99,-74.99
+2010,3,85,Carolina,Austin Levi,D,0.0,0.0,0.0,266.81,-266.81
+2010,3,86,Washington,Stanislav Galiev,L,26.0,4.0,35.16,196.35,-161.19
+2010,3,87,Winnipeg,Julian Melchiori,D,30.0,2.0,34.58,23.17,11.41
+2010,3,88,San Jose,Max Gaede,F,0.0,0.0,0.0,71.24,-71.24
+2010,3,89,Philadelphia,Michael Chaput,C,182.0,22.0,232.38,151.34,81.04
+2010,3,90,Chicago,Joakim Nordstrom,C,444.0,75.0,493.71,68.74,424.97
+2010,4,91,Edmonton,Jeremie Blain,D,0.0,0.0,0.0,59.98,-59.98
+2010,4,93,Florida,Ben Gallacher,D,0.0,0.0,0.0,108.48,-108.48
+2010,4,94,Columbus,Brandon Archibald,D,0.0,0.0,0.0,55.6,-55.6
+2010,4,95,Colorado,Stephen Silas,D,0.0,0.0,0.0,153.51,-153.51
+2010,4,96,Tampa Bay,Geoffrey Schemitsch,D,0.0,0.0,0.0,233.28,-233.28
+2010,4,97,Boston,Craig Cunningham,R,63.0,8.0,81.32,103.6,-22.28
+2010,4,98,Buffalo,Steven Shipley,C,0.0,0.0,0.0,132.71,-132.71
+2010,4,99,Florida,Joonas Donskoi,R,474.0,208.0,713.74,119.0,594.74
+2010,4,100,NY Rangers,Andrew Yogan,L,0.0,0.0,0.0,128.5,-128.5
+2010,4,101,Winnipeg,Ivan Telegin,C,0.0,0.0,0.0,146.94,-146.94
+2010,4,103,Calgary,John Ramage,D,2.0,0.0,2.0,55.18,-53.18
+2010,4,104,St. Louis,Jani Hakanpaa,D,290.0,45.0,393.05,246.44,146.61
+2010,4,105,Carolina,Justin Shugg,L,3.0,0.0,3.0,156.49,-153.49
+2010,4,106,Ottawa,Marcus Sorensen,L,226.0,64.0,372.56,218.34,154.22
+2010,4,108,Calgary,Bill Arnold,C,1.0,0.0,1.0,144.94,-143.94
+2010,4,109,Dallas,Alex Theriau,D,0.0,0.0,0.0,86.99,-86.99
+2010,4,110,Pittsburgh,Tom Kuhnhackl,R,232.0,54.0,355.66,183.91,171.75
+2010,4,111,Detroit,Teemu Pulkkinen,L,83.0,22.0,133.38,153.16,-19.78
+2010,4,113,Montreal,Mark MacMillan,C,0.0,0.0,0.0,102.82,-102.82
+2010,4,114,New Jersey,Joe Faust,D,0.0,0.0,0.0,154.84,-154.84
+2010,4,115,Vancouver,Patrick McNally,D,0.0,0.0,0.0,56.34,-56.34
+2010,4,116,Toronto,Petter Granberg,D,45.0,2.0,49.58,87.18,-37.6
+2010,4,117,Montreal,Morgan Ellis,D,3.0,0.0,3.0,260.34,-257.34
+2010,4,118,Tampa Bay,Jimmy Mullin,F,0.0,0.0,0.0,99.56,-99.56
+2010,4,119,Philadelphia,Tye McGinn,L,89.0,17.0,127.93,72.71,55.22
+2010,4,120,Chicago,Rob Flick,C,0.0,0.0,0.0,171.69,-171.69
+2010,5,122,Anaheim,Chris Wagner,R,401.0,66.0,490.18,97.25,392.93
+2010,5,123,Florida,Zach Hyman,L,710.0,494.0,923.22,96.02,827.2
+2010,5,124,Columbus,Austin Madaisky,D,0.0,0.0,0.0,98.64,-98.64
+2010,5,125,NY Islanders,Tony DeHart,D,0.0,0.0,0.0,98.64,-98.64
+2010,5,126,Nashville,Patrick Cehlin,R,0.0,0.0,0.0,98.64,-98.64
+2010,5,127,San Jose,Cody Ferriero,R,0.0,0.0,0.0,98.64,-98.64
+2010,5,129,San Jose,Freddie Hamilton,C,75.0,6.0,88.74,98.39,-9.65
+2010,5,130,NY Rangers,Jason Wilson,L,0.0,0.0,0.0,98.64,-98.64
+2010,5,131,Dallas,John Klingberg,D,698.0,440.0,869.9,96.17,773.73
+2010,5,132,Anaheim,Tim Heed,D,105.0,29.0,171.41,98.15,73.26
+2010,5,133,Calgary,Micheal Ferland,L,335.0,134.0,641.86,96.82,545.04
+2010,5,134,St. Louis,Cody Beach,R,0.0,0.0,0.0,98.64,-98.64
+2010,5,135,Boston,Justin Florek,F,4.0,2.0,8.58,98.62,-90.04
+2010,5,136,San Jose,Isaac Macleod,D,0.0,0.0,0.0,98.64,-98.64
+2010,5,137,Colorado,Troy Rutkowski,D,0.0,0.0,0.0,98.64,-98.64
+2010,5,139,Colorado,Luke Walker,R,0.0,0.0,0.0,98.64,-98.64
+2010,5,140,Pittsburgh,Kenny Agostino,L,86.0,30.0,154.7,98.2,56.5
+2010,5,142,Washington,Caleb Herbert,F,0.0,0.0,0.0,98.64,-98.64
+2010,5,143,Buffalo,Gregg Sutch,R,0.0,0.0,0.0,98.64,-98.64
+2010,5,144,Toronto,Sam Carrick,C,393.0,89.0,540.62,97.1,443.52
+2010,5,145,Vancouver,Adam Polasek,D,0.0,0.0,0.0,98.64,-98.64
+2010,5,146,Toronto,Daniel Brodin,R,0.0,0.0,0.0,98.64,-98.64
+2010,5,147,Montreal,Brendan Gallagher,R,909.0,486.0,791.87,96.39,695.48
+2010,5,148,Los Angeles,Kevin Gravel,D,138.0,15.0,172.35,98.15,74.2
+2010,5,149,Philadelphia,Michael Parks,F,0.0,0.0,0.0,98.64,-98.64
+2010,5,150,Winnipeg,Yasin Cisse,F,0.0,0.0,0.0,98.64,-98.64
+2010,6,151,Chicago,Mirko Hoefflin,R,0.0,0.0,0.0,83.45,-83.45
+2010,6,152,Pittsburgh,Joe Rogalski,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,153,Florida,Corey Durocher,L,0.0,0.0,0.0,83.45,-83.45
+2010,6,154,Columbus,Dalton Prout,D,264.0,38.0,351.02,82.42,268.6
+2010,6,155,Winnipeg,Kendal McFaull,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,156,Tampa Bay,Brendan O'Donnell,F,0.0,0.0,0.0,83.45,-83.45
+2010,6,157,NY Rangers,Jesper Fast,R,703.0,248.0,643.6,81.57,562.03
+2010,6,158,Los Angeles,Maxim Kitsyn,L,0.0,0.0,0.0,83.45,-83.45
+2010,6,160,Winnipeg,Tanner Lane,F,0.0,0.0,0.0,83.45,-83.45
+2010,6,161,Anaheim,Andreas Dahlstrom,C,0.0,0.0,0.0,83.45,-83.45
+2010,6,162,Edmonton,Brandon Davidson,D,180.0,23.0,232.67,82.77,149.9
+2010,6,163,San Jose,Konrad Abeltshauser,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,164,St. Louis,Stephen MacAulay,C,0.0,0.0,0.0,83.45,-83.45
+2010,6,166,Edmonton,Drew Czerwonka,L,0.0,0.0,0.0,83.45,-83.45
+2010,6,167,Carolina,Tyler Stahl,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,168,Nashville,Anthony Bitetto,D,197.0,31.0,267.99,82.67,185.32
+2010,6,169,Winnipeg,Sebastian-Lance Owuya,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,170,Pittsburgh,Reid McNeill,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,171,Detroit,Brooks Macek,R,0.0,0.0,0.0,83.45,-83.45
+2010,6,172,Vancouver,Alex Friesen,C,1.0,0.0,1.0,83.45,-82.45
+2010,6,173,Buffalo,Cedrick Henley,L,0.0,0.0,0.0,83.45,-83.45
+2010,6,176,Washington,Samuel Carrier,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,177,Anaheim,Kevin Lind,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,178,Ottawa,Mark Stone,R,761.0,701.0,1106.96,80.21,1026.75
+2010,6,179,Philadelphia,Nick Luukko,D,0.0,0.0,0.0,83.45,-83.45
+2010,6,180,Chicago,Nick Mattson,D,0.0,0.0,0.0,83.45,-83.45
+2010,7,181,Edmonton,Kristians Pelss,L,0.0,0.0,0.0,60.62,-60.62
+2010,7,182,Toronto,Josh Nicholls,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,183,Florida,R.J. Boyd,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,186,Tampa Bay,Teigan Zahn,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,188,San Jose,Lee Moffie,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,189,Minnesota,Dylen McKinlay,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,190,NY Rangers,Randy McNaught,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,192,Anaheim,Brett Perlini,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,193,Calgary,Patrick Holland,R,5.0,0.0,5.0,60.6,-55.6
+2010,7,194,Nashville,David Elsner,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,195,Boston,Maxim Chudinov,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,196,Ottawa,Bryce Aneloski,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,197,Colorado,Luke Moffatt,F,0.0,0.0,0.0,60.62,-60.62
+2010,7,198,Nashville,Joonas Rask,R,2.0,1.0,4.29,60.61,-56.32
+2010,7,199,Winnipeg,Peter Stoykewych,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,200,San Jose,Chris Crane,F,0.0,0.0,0.0,60.62,-60.62
+2010,7,201,Detroit,Ben Marshall,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,202,Edmonton,Kellen Jones,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,203,Buffalo,Christian Isackson,F,0.0,0.0,0.0,60.62,-60.62
+2010,7,204,New Jersey,Mauro Jorg,R,0.0,0.0,0.0,60.62,-60.62
+2010,7,205,Vancouver,Sawyer Hannay,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,206,Philadelphia,Ricard Blidstrand,D,0.0,0.0,0.0,60.62,-60.62
+2010,7,207,Montreal,John Westin,L,0.0,0.0,0.0,60.62,-60.62
+2010,7,208,Buffalo,Riley Boychuk,L,0.0,0.0,0.0,60.62,-60.62
+2010,7,209,Philadelphia,Brendan Ranford,L,1.0,0.0,1.0,60.62,-59.62
+2010,7,210,Boston,Zach Trotman,D,91.0,13.0,120.77,60.28,60.49
+2011,1,1,Edmonton,Ryan Nugent-Hopkins,C,1026.0,801.0,992.46,1095.87,-103.41
+2011,1,2,Colorado,Gabriel Landeskog,L,792.0,604.0,977.72,884.68,93.04
+2011,1,3,Florida,Jonathan Huberdeau,L,962.0,807.0,1039.89,848.02,191.87
+2011,1,4,New Jersey,Adam Larsson,D,1005.0,263.0,569.34,808.01,-238.67
+2011,1,5,NY Islanders,Ryan Strome,C,912.0,500.0,802.95,674.23,128.72
+2011,1,6,Ottawa,Mika Zibanejad,C,1006.0,812.0,1014.03,691.87,322.16
+2011,1,7,Winnipeg,Mark Scheifele,C,955.0,898.0,1122.58,713.69,408.89
+2011,1,8,Philadelphia,Sean Couturier,C,947.0,575.0,851.0,574.02,276.98
+2011,1,9,Boston,Dougie Hamilton,D,906.0,536.0,838.31,737.53,100.78
+2011,1,10,Minnesota,Jonas Brodin,D,910.0,277.0,604.16,566.05,38.11
+2011,1,11,Colorado,Duncan Siemens,D,20.0,2.0,24.58,626.37,-601.79
+2011,1,12,Carolina,Ryan Murphy,D,175.0,43.0,273.47,647.75,-374.28
+2011,1,13,Calgary,Sven Baertschi,L,292.0,138.0,608.02,491.07,116.95
+2011,1,14,Dallas,Jamie Oleksiak,D,753.0,159.0,528.14,534.55,-6.41
+2011,1,15,NY Rangers,J.T. Miller,C,934.0,757.0,1016.75,488.69,528.06
+2011,1,16,Buffalo,Joel Armia,R,647.0,230.0,645.81,561.74,84.07
+2011,1,17,Montreal,Nathan Beaulieu,D,471.0,98.0,525.63,545.25,-19.62
+2011,1,18,Chicago,Mark McNeill,C,2.0,0.0,2.0,518.79,-516.79
+2011,1,19,Edmonton,Oscar Klefbom,D,378.0,156.0,692.45,423.37,269.08
+2011,1,20,Arizona,Connor Murphy,D,820.0,176.0,530.98,511.44,19.54
+2011,1,21,Ottawa,Stefan Noesen,R,482.0,175.0,651.99,448.54,203.45
+2011,1,22,Toronto,Tyler Biggs,R,0.0,0.0,0.0,505.52,-505.52
+2011,1,23,Pittsburgh,Joe Morrow,D,162.0,32.0,235.28,378.48,-143.2
+2011,1,24,Ottawa,Matt Puempel,L,87.0,16.0,123.64,534.36,-410.72
+2011,1,25,Toronto,Stuart Percy,D,12.0,3.0,18.87,420.39,-401.52
+2011,1,26,Chicago,Phillip Danault,C,781.0,410.0,783.97,597.14,186.83
+2011,1,27,Tampa Bay,Vladislav Namestnikov,C,843.0,349.0,693.51,322.07,371.44
+2011,1,28,Minnesota,Zack Phillips,C,0.0,0.0,0.0,336.66,-336.66
+2011,1,29,Vancouver,Nicklas Jensen,R,31.0,6.0,44.74,345.48,-300.74
+2011,1,30,Anaheim,Rickard Rakell,R,858.0,565.0,892.84,381.32,511.52
+2011,2,31,Edmonton,David Musil,D,4.0,2.0,8.58,185.62,-177.04
+2011,2,32,St. Louis,Ty Rattie,R,99.0,30.0,167.7,150.77,16.93
+2011,2,33,Florida,Rocco Grimaldi,R,203.0,67.0,356.43,308.7,47.73
+2011,2,34,NY Islanders,Scott Mayfield,D,611.0,139.0,541.46,216.7,324.76
+2011,2,35,Detroit,Tomas Jurco,L,221.0,53.0,342.37,330.88,11.49
+2011,2,36,Chicago,Adam Clendening,D,90.0,24.0,144.96,214.27,-69.31
+2011,2,37,Columbus,Boone Jenner,C,803.0,418.0,780.37,175.25,605.12
+2011,2,40,Boston,Alexander Khokhlachev,C,9.0,0.0,9.0,99.28,-90.28
+2011,2,41,St. Louis,Dmitrij Jaskin,R,315.0,70.0,475.3,168.25,307.05
+2011,2,42,Carolina,Victor Rask,C,506.0,223.0,715.29,260.97,454.32
+2011,2,43,Chicago,Brandon Saad,L,981.0,537.0,802.26,262.57,539.69
+2011,2,44,Dallas,Brett Ritchie,R,391.0,85.0,533.23,261.97,271.26
+2011,2,45,Calgary,Markus Granlund,C,335.0,101.0,566.29,273.89,292.4
+2011,2,46,St. Louis,Joel Edmundson,D,679.0,151.0,537.3,146.92,390.38
+2011,2,47,San Jose,Matthew Nieto,L,705.0,206.0,594.21,297.65,296.56
+2011,2,48,Detroit,Xavier Ouellet,D,178.0,28.0,242.12,65.47,176.65
+2011,2,50,NY Islanders,Johan Sundstrom,C,11.0,1.0,13.29,221.56,-208.27
+2011,2,51,Arizona,Alexander Ruuttu,R,0.0,0.0,0.0,261.75,-261.75
+2011,2,52,Nashville,Miikka Salomaki,R,167.0,27.0,228.83,189.45,39.38
+2011,2,53,Anaheim,William Karlsson,C,752.0,453.0,847.1,210.66,636.44
+2011,2,54,Pittsburgh,Scott Harrington,D,255.0,49.0,367.21,210.46,156.75
+2011,2,55,Detroit,Ryan Sproul,D,44.0,12.0,71.48,475.2,-403.72
+2011,2,56,Arizona,Lucas Lessio,L,41.0,7.0,57.03,249.17,-192.14
+2011,2,57,Calgary,Tyler Wotherspoon,D,30.0,5.0,41.45,229.25,-187.8
+2011,2,58,Tampa Bay,Nikita Kucherov,R,873.0,1119.0,1400.96,368.21,1032.75
+2011,2,59,Florida,Rasmus Bengtsson,D,0.0,0.0,0.0,211.93,-211.93
+2011,2,60,Minnesota,Mario Lucia,F,0.0,0.0,0.0,264.35,-264.35
+2011,2,61,Ottawa,Shane Prince,L,128.0,38.0,215.02,195.47,19.55
+2011,3,63,NY Islanders,Andrey Pedan,D,13.0,0.0,13.0,184.62,-171.62
+2011,3,64,Florida,Vincent Trocheck,C,863.0,628.0,949.25,87.4,861.85
+2011,3,65,Anaheim,Joseph Cramarossa,C,68.0,13.0,97.77,159.64,-61.87
+2011,3,66,Columbus,T.J. Tynan,C,31.0,2.0,35.58,329.0,-293.42
+2011,3,67,Winnipeg,Adam Lowry,C,839.0,293.0,640.7,197.4,443.31
+2011,3,68,Philadelphia,Nick Cousins,C,717.0,217.0,602.73,38.38,564.36
+2011,3,70,Chicago,Michael Paliotta,D,2.0,1.0,4.29,54.71,-50.42
+2011,3,72,NY Rangers,Steven Fogarty,C,31.0,3.0,37.87,183.84,-145.97
+2011,3,73,Carolina,Keegan Lowe,D,4.0,0.0,4.0,70.49,-66.49
+2011,3,74,Edmonton,Travis Ewanyk,C,0.0,0.0,0.0,127.04,-127.04
+2011,3,75,New Jersey,Blake Coleman,L,688.0,323.0,738.74,161.18,577.56
+2011,3,76,Florida,Logan Shaw,R,232.0,39.0,321.31,31.96,289.35
+2011,3,77,Buffalo,Daniel Catenacci,C,12.0,0.0,12.0,320.62,-308.62
+2011,3,78,Winnipeg,Brennan Serville,D,0.0,0.0,0.0,209.4,-209.4
+2011,3,79,Chicago,Klas Dahlbeck,D,170.0,23.0,222.67,266.24,-43.57
+2011,3,80,Los Angeles,Andy Andreoff,C,188.0,27.0,249.83,174.46,75.37
+2011,3,81,Boston,Anthony Camara,L,0.0,0.0,0.0,69.86,-69.86
+2011,3,82,Los Angeles,Nick Shore,C,299.0,59.0,434.11,196.9,237.21
+2011,3,83,Anaheim,Andy Welinski,D,46.0,6.0,59.74,67.52,-7.78
+2011,3,84,Arizona,Harrison Ruopp,D,0.0,0.0,0.0,75.03,-75.03
+2011,3,85,Detroit,Alan Quine,C,106.0,28.0,170.12,251.35,-81.23
+2011,3,86,Toronto,Joshua Leivo,L,265.0,93.0,477.97,147.15,330.82
+2011,3,87,Florida,Jonathan Racine,D,1.0,0.0,1.0,26.22,-25.22
+2011,3,89,San Jose,Justin Sefton,D,0.0,0.0,0.0,170.7,-170.7
+2011,3,90,Vancouver,Alexandre Grenier,R,9.0,0.0,9.0,112.81,-103.81
+2011,3,91,Florida,Kyle Rau,C,61.0,7.0,77.03,52.28,24.75
+2011,4,92,Edmonton,Dillon Simpson,D,3.0,0.0,3.0,133.29,-130.29
+2011,4,93,Colorado,Joachim Nermark,C,0.0,0.0,0.0,108.48,-108.48
+2011,4,94,Nashville,Josh Shalla,L,0.0,0.0,0.0,55.6,-55.6
+2011,4,95,NY Islanders,Robbie Russo,D,19.0,0.0,19.0,151.61,-132.61
+2011,4,96,Ottawa,Jean-Gabriel Pageau,C,867.0,400.0,732.12,160.07,572.05
+2011,4,97,Montreal,Josiah Didier,D,0.0,0.0,0.0,110.38,-110.38
+2011,4,98,Columbus,Mike Reilly,D,456.0,133.0,593.78,78.73,515.05
+2011,4,99,New Jersey,Reid Boucher,L,133.0,42.0,229.18,167.46,61.72
+2011,4,100,Toronto,Tom Nilsson,D,0.0,0.0,0.0,128.5,-128.5
+2011,4,101,Vancouver,Joseph LaBate,C,20.0,1.0,22.29,145.08,-122.79
+2011,4,102,St. Louis,Yannick Veilleux,L,0.0,0.0,0.0,139.04,-139.04
+2011,4,103,Carolina,Gregory Hofmann,C,24.0,7.0,40.03,52.01,-11.98
+2011,4,104,Calgary,Johnny Gaudreau,L,763.0,743.0,1149.87,177.64,972.23
+2011,4,105,Dallas,Emil Molin,L,0.0,0.0,0.0,156.76,-156.76
+2011,4,106,NY Rangers,Michael St. Croix,C,0.0,0.0,0.0,259.74,-259.74
+2011,4,107,Buffalo,Colin Jacobs,C,0.0,0.0,0.0,71.46,-71.46
+2011,4,108,Montreal,Olivier Archambault,L,0.0,0.0,0.0,145.03,-145.03
+2011,4,109,Chicago,Maxim Shalunov,R,0.0,0.0,0.0,86.99,-86.99
+2011,4,110,Los Angeles,Michael Mersch,L,17.0,3.0,23.87,217.09,-193.22
+2011,4,111,Arizona,Kale Kessy,L,0.0,0.0,0.0,167.98,-167.98
+2011,4,112,Nashville,Garrett Noonan,D,0.0,0.0,0.0,255.72,-255.72
+2011,4,113,Montreal,Magnus Nygren,D,0.0,0.0,0.0,102.82,-102.82
+2011,4,114,Edmonton,Tobias Rieder,C,478.0,145.0,603.3,94.51,508.79
+2011,4,115,Detroit,Marek Tvrdon,L,0.0,0.0,0.0,56.34,-56.34
+2011,4,116,Philadelphia,Colin Suellentrop,D,0.0,0.0,0.0,91.68,-91.68
+2011,4,118,Philadelphia,Marcel Noebels,C,0.0,0.0,0.0,99.56,-99.56
+2011,4,119,Winnipeg,Zach Yuen,D,0.0,0.0,0.0,84.34,-84.34
+2011,4,120,Vancouver,Ludwig Blomstrand,L,0.0,0.0,0.0,171.69,-171.69
+2011,4,121,Boston,Brian Ferlin,R,7.0,1.0,9.29,296.06,-286.77
+2011,5,122,Edmonton,Martin Gernat,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,123,Colorado,Garrett Meurs,R,0.0,0.0,0.0,98.64,-98.64
+2011,5,124,Florida,Yaroslav Kosov,L,0.0,0.0,0.0,98.64,-98.64
+2011,5,125,NY Islanders,John Persson,L,10.0,1.0,12.29,98.61,-86.32
+2011,5,126,Ottawa,Fredrik Claesson,D,170.0,28.0,234.12,97.97,136.15
+2011,5,127,NY Islanders,Brenden Kichton,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,128,Columbus,Seth Ambroz,F,0.0,0.0,0.0,98.64,-98.64
+2011,5,129,New Jersey,Blake Pietila,L,38.0,4.0,47.16,98.51,-51.35
+2011,5,130,Toronto,Tony Cameranesi,C,0.0,0.0,0.0,98.64,-98.64
+2011,5,131,Minnesota,Nick Seeler,D,447.0,70.0,483.67,97.27,386.4
+2011,5,133,San Jose,Sean Kuraly,C,639.0,170.0,572.89,97.01,475.88
+2011,5,134,NY Rangers,Shane McColgan,C,0.0,0.0,0.0,98.64,-98.64
+2011,5,135,Dallas,Troy Vance,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,136,NY Rangers,Samuel Noreau,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,137,Buffalo,Alex Lepkowski,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,138,Montreal,Darren Dietz,D,13.0,5.0,24.45,98.57,-74.12
+2011,5,139,Chicago,Andrew Shaw,R,544.0,247.0,726.15,96.58,629.57
+2011,5,140,Los Angeles,Joel Lowry,L,0.0,0.0,0.0,98.64,-98.64
+2011,5,141,Arizona,Darian Dziurzynski,L,0.0,0.0,0.0,98.64,-98.64
+2011,5,142,Nashville,Simon Karlsson,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,143,Anaheim,Max Friberg,L,6.0,0.0,6.0,98.62,-92.62
+2011,5,144,Pittsburgh,Dominik Uher,C,2.0,0.0,2.0,98.63,-96.63
+2011,5,145,Detroit,Philippe Hudon,R,0.0,0.0,0.0,98.64,-98.64
+2011,5,146,Detroit,Mattias Backman,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,147,Washington,Patrick Koudys,D,0.0,0.0,0.0,98.64,-98.64
+2011,5,148,Tampa Bay,Nikita Nesterov,D,170.0,37.0,254.73,97.92,156.81
+2011,5,149,Winnipeg,Austen Brassard,R,0.0,0.0,0.0,98.64,-98.64
+2011,5,150,Vancouver,Frankie Corrado,D,76.0,8.0,94.32,98.37,-4.05
+2011,5,151,Boston,Rob O'Gara,D,33.0,3.0,39.87,98.53,-58.66
+2011,6,152,Toronto,David Broll,L,5.0,1.0,7.29,83.43,-76.14
+2011,6,153,Colorado,Gabriel Beaupre,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,154,Florida,Eddie Wittchow,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,155,Arizona,Andrew Fritsch,R,0.0,0.0,0.0,83.45,-83.45
+2011,6,156,Ottawa,Darren Kramer,L,0.0,0.0,0.0,83.45,-83.45
+2011,6,158,Columbus,Lukas Sedlak,C,192.0,35.0,272.15,82.65,189.5
+2011,6,159,New Jersey,Reece Scarlett,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,160,Anaheim,Josh Manson,D,701.0,201.0,589.76,81.72,508.04
+2011,6,162,St. Louis,Ryan Tesink,L,0.0,0.0,0.0,83.45,-83.45
+2011,6,165,Dallas,Matej Stransky,R,0.0,0.0,0.0,83.45,-83.45
+2011,6,166,San Jose,Daniil Sobchenko,F,0.0,0.0,0.0,83.45,-83.45
+2011,6,168,Montreal,Daniel Pribyl,C,0.0,0.0,0.0,83.45,-83.45
+2011,6,169,Chicago,Sam Jardine,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,170,Nashville,Chase Balisy,C,8.0,0.0,8.0,83.43,-75.43
+2011,6,171,Ottawa,Max McCormick,L,94.0,13.0,123.77,83.09,40.68
+2011,6,172,NY Rangers,Peter Ceresnak,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,173,Toronto,Dennis Robertson,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,174,Pittsburgh,Josh Archibald,R,305.0,83.0,495.07,82.0,413.07
+2011,6,175,Detroit,Richard Nedomlel,D,0.0,0.0,0.0,83.45,-83.45
+2011,6,176,Philadelphia,Petr Placek,R,0.0,0.0,0.0,83.45,-83.45
+2011,6,177,Washington,Travis Boyd,C,299.0,118.0,569.22,81.78,487.44
+2011,6,179,San Jose,Dylan DeMelo,D,712.0,182.0,564.39,81.8,482.59
+2011,6,180,Vancouver,Pathrik Westerholm,C,0.0,0.0,0.0,83.45,-83.45
+2011,7,183,Colorado,Dillon Donnelly,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,184,Florida,Iiro Pakarinen,R,134.0,23.0,186.67,60.09,126.58
+2011,7,185,NY Islanders,Mitchell Theoret,L,0.0,0.0,0.0,60.62,-60.62
+2011,7,186,Ottawa,Jordan Fransoo,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,187,Winnipeg,Aaron Harstad,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,189,New Jersey,Patrick Daly,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,191,Minnesota,Tyler Graovac,C,84.0,15.0,118.35,60.28,58.07
+2011,7,192,St. Louis,Teemu Eronen,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,193,Carolina,Brody Sutter,R,12.0,0.0,12.0,60.58,-48.58
+2011,7,194,San Jose,Colin Blackwell,C,364.0,104.0,588.93,58.95,529.98
+2011,7,195,Dallas,Jyrki Jokipakka,D,150.0,28.0,214.12,60.01,154.11
+2011,7,196,Arizona,Zac Larraza,F,0.0,0.0,0.0,60.62,-60.62
+2011,7,197,Buffalo,Brad Navin,F,0.0,0.0,0.0,60.62,-60.62
+2011,7,198,Montreal,Colin Sullivan,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,199,Chicago,Alex Broadhurst,C,2.0,0.0,2.0,60.61,-58.61
+2011,7,200,Los Angeles,Michael Schumacher,L,0.0,0.0,0.0,60.62,-60.62
+2011,7,201,Tampa Bay,Matthew Peca,C,83.0,21.0,131.09,60.25,70.84
+2011,7,202,Nashville,Brent Andrews,C,0.0,0.0,0.0,60.62,-60.62
+2011,7,203,Toronto,Max Everson,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,204,Ottawa,Ryan Dzingel,C,404.0,188.0,735.37,58.54,676.83
+2011,7,205,Detroit,Alexey Marchenko,D,121.0,21.0,169.09,60.14,108.95
+2011,7,206,Philadelphia,Derek Mathers,R,0.0,0.0,0.0,60.62,-60.62
+2011,7,207,Washington,Garrett Haar,D,0.0,0.0,0.0,60.62,-60.62
+2011,7,208,Tampa Bay,Ondrej Palat,L,902.0,519.0,825.08,58.29,766.79
+2011,7,209,Pittsburgh,Scott Wilson,C,193.0,51.0,309.79,59.74,250.05
+2011,7,210,Vancouver,Henrik Tommernes,D,0.0,0.0,0.0,60.62,-60.62
+2012,1,1,Edmonton,Nail Yakupov,R,350.0,136.0,661.44,1123.46,-462.02
+2012,1,2,Columbus,Ryan Murray,D,445.0,131.0,595.99,916.49,-320.5
+2012,1,3,Montreal,Alex Galchenyuk,C,654.0,354.0,797.28,868.24,-70.96
+2012,1,4,NY Islanders,Griffin Reinhart,D,37.0,2.0,41.58,851.99,-810.41
+2012,1,5,Toronto,Morgan Rielly,D,946.0,548.0,828.25,671.93,156.32
+2012,1,6,Anaheim,Hampus Lindholm,D,825.0,337.0,689.01,718.95,-29.94
+2012,1,7,Minnesota,Matt Dumba,D,748.0,261.0,640.46,753.86,-113.4
+2012,1,8,Pittsburgh,Derrick Pouliot,D,226.0,54.0,349.66,615.79,-266.13
+2012,1,9,Winnipeg,Jacob Trouba,D,901.0,357.0,679.02,750.8,-71.78
+2012,1,10,Tampa Bay,Slater Koekkoek,D,186.0,34.0,263.86,594.41,-330.55
+2012,1,11,Washington,Filip Forsberg,L,856.0,752.0,1072.19,521.61,550.58
+2012,1,12,Buffalo,Mikhail Grigorenko,C,249.0,76.0,423.04,635.28,-212.24
+2012,1,13,Dallas,Radek Faksa,C,764.0,232.0,603.56,491.44,112.12
+2012,1,14,Buffalo,Zemgus Girgensons,C,839.0,212.0,562.0,531.73,30.27
+2012,1,15,Ottawa,Cody Ceci,D,947.0,244.0,566.05,529.66,36.39
+2012,1,16,Washington,Tom Wilson,R,902.0,452.0,764.52,551.84,212.68
+2012,1,17,San Jose,Tomas Hertl,C,868.0,604.0,923.29,512.12,411.17
+2012,1,18,Chicago,Teuvo Teravainen,C,822.0,551.0,902.47,436.93,465.54
+2012,1,20,Philadelphia,Scott Laughton,C,739.0,287.0,672.61,499.63,172.98
+2012,1,21,Calgary,Mark Jankowski,L,477.0,142.0,598.69,453.39,145.3
+2012,1,22,Pittsburgh,Olli Maatta,D,798.0,207.0,567.47,453.93,113.54
+2012,1,23,Florida,Mike Matheson,D,700.0,302.0,707.72,335.53,372.19
+2012,1,25,St. Louis,Jordan Schmaltz,D,42.0,5.0,53.45,417.51,-364.06
+2012,1,26,Vancouver,Brendan Gaunce,C,214.0,35.0,294.15,646.13,-351.98
+2012,1,27,Arizona,Henrik Samuelsson,C,3.0,0.0,3.0,384.85,-381.85
+2012,1,28,NY Rangers,Brady Skjei,D,767.0,304.0,679.12,280.07,399.05
+2012,1,29,New Jersey,Stefan Matteau,C,92.0,11.0,117.19,339.45,-222.26
+2012,1,30,Los Angeles,Tanner Pearson,L,776.0,326.0,698.48,398.99,299.49
+2012,2,32,Edmonton,Mitch Moroz,L,0.0,0.0,0.0,166.02,-166.02
+2012,2,33,Montreal,Sebastian Collberg,R,0.0,0.0,0.0,338.4,-338.4
+2012,2,34,NY Islanders,Ville Pokka,D,0.0,0.0,0.0,276.87,-276.87
+2012,2,35,Toronto,Matt Finn,D,0.0,0.0,0.0,359.41,-359.41
+2012,2,36,Anaheim,Nicolas Kerdiles,L,3.0,0.0,3.0,230.04,-227.04
+2012,2,37,Nashville,Pontus Aberg,L,132.0,44.0,232.76,225.04,7.72
+2012,2,38,Carolina,Phil Di Giuseppe,L,302.0,81.0,487.49,297.02,190.47
+2012,2,39,Winnipeg,Lukas Sutter,C,0.0,0.0,0.0,400.93,-400.93
+2012,2,40,Tampa Bay,Dylan Blujus,D,0.0,0.0,0.0,100.03,-100.03
+2012,2,41,Colorado,Mitchell Heard,C,0.0,0.0,0.0,211.46,-211.46
+2012,2,42,Calgary,Patrick Sieloff,D,2.0,2.0,6.58,325.39,-318.81
+2012,2,43,Dallas,Ludwig Bystrom,D,0.0,0.0,0.0,329.43,-329.43
+2012,2,44,Buffalo,Jake McCabe,D,718.0,199.0,581.95,257.54,324.41
+2012,2,46,Minnesota,Raphael Bussieres,L,0.0,0.0,0.0,200.65,-200.65
+2012,2,47,Carolina,Brock McGinn,L,534.0,158.0,597.21,297.4,299.81
+2012,2,48,Chicago,Dillon Fournier,D,0.0,0.0,0.0,89.69,-89.69
+2012,2,49,Detroit,Martin Frk,R,124.0,41.0,217.89,257.5,-39.61
+2012,2,50,Nashville,Colton Sissons,C,751.0,232.0,607.85,172.01,435.84
+2012,2,51,Montreal,Dalton Thrower,D,0.0,0.0,0.0,261.75,-261.75
+2012,2,52,Pittsburgh,Teddy Blueger,C,447.0,167.0,660.58,153.47,507.11
+2012,2,53,Tampa Bay,Brian Hart,R,0.0,0.0,0.0,281.25,-281.25
+2012,2,54,Dallas,Mike Winther,C,0.0,0.0,0.0,256.36,-256.36
+2012,2,55,San Jose,Chris Tierney,C,649.0,248.0,667.52,421.01,246.51
+2012,2,56,St. Louis,Sam Kurker,R,0.0,0.0,0.0,253.92,-253.92
+2012,2,57,Vancouver,Alexandre Mallet,C,0.0,0.0,0.0,232.7,-232.7
+2012,2,58,Arizona,Jordan Martinook,L,793.0,259.0,622.26,439.0,183.26
+2012,2,59,NY Rangers,"Cristoval ""Boo"" Nieves",C,76.0,19.0,119.51,194.85,-75.34
+2012,2,60,New Jersey,Damon Severson,D,855.0,348.0,687.82,207.03,480.79
+2012,2,61,Dallas,Devin Shore,C,498.0,144.0,591.73,157.8,433.93
+2012,3,63,Edmonton,Jujhar Khaira,L,337.0,80.0,520.2,138.51,381.69
+2012,3,64,Montreal,Tim Bozon,L,0.0,0.0,0.0,173.7,-173.7
+2012,3,65,NY Islanders,Adam Pelech,D,638.0,176.0,580.89,115.72,465.17
+2012,3,66,Nashville,Jimmy Vesey,L,626.0,194.0,608.65,281.25,327.4
+2012,3,67,St. Louis,Mackenzie MacEachern,L,131.0,24.0,185.96,235.29,-49.33
+2012,3,68,Minnesota,John Draeger,D,0.0,0.0,0.0,88.6,-88.6
+2012,3,70,Winnipeg,Scott Kosmachuk,R,8.0,3.0,14.87,53.65,-38.78
+2012,3,71,Tampa Bay,Tanner Richard,C,3.0,0.0,3.0,207.45,-204.45
+2012,3,72,Colorado,Troy Bourke,L,0.0,0.0,0.0,187.62,-187.62
+2012,3,73,Buffalo,Justin Kea,C,0.0,0.0,0.0,70.83,-70.83
+2012,3,74,Dallas,Esa Lindell,D,761.0,245.0,618.46,70.82,547.64
+2012,3,77,Washington,Chandler Stephenson,C,646.0,366.0,817.89,231.07,586.82
+2012,3,78,Philadelphia,Shayne Gostisbehere,D,739.0,459.0,862.35,113.58,748.77
+2012,3,79,Chicago,Chris Calnan,R,0.0,0.0,0.0,284.79,-284.79
+2012,3,81,Pittsburgh,Oskar Sundqvist,C,543.0,179.0,624.74,13.07,611.67
+2012,3,82,Ottawa,Jarrod Maidens,C,0.0,0.0,0.0,233.08,-233.08
+2012,3,84,Florida,Steven Hodges,C,0.0,0.0,0.0,75.03,-75.03
+2012,3,85,Boston,Matt Grzelcyk,D,596.0,187.0,611.79,211.19,400.6
+2012,3,86,St. Louis,Colton Parayko,D,793.0,311.0,675.72,125.18,550.54
+2012,3,88,Arizona,James Melindy,D,0.0,0.0,0.0,71.24,-71.24
+2012,3,89,Nashville,Brendan Leipsic,L,187.0,59.0,322.11,143.86,178.25
+2012,3,90,New Jersey,Ben Johnson,L,0.0,0.0,0.0,113.62,-113.62
+2012,3,91,Edmonton,Daniil Zharkov,L,0.0,0.0,0.0,59.98,-59.98
+2012,4,92,Pittsburgh,Matia Marcantuoni,C,0.0,0.0,0.0,133.62,-133.62
+2012,4,93,Edmonton,Erik Gustafsson,D,517.0,240.0,734.45,35.03,699.42
+2012,4,94,Montreal,Brady Vail,C,0.0,0.0,0.0,55.6,-55.6
+2012,4,95,Columbus,Josh Anderson,R,683.0,272.0,680.66,85.44,595.22
+2012,4,96,New Jersey,Ben Thomson,L,3.0,0.0,3.0,232.98,-229.98
+2012,4,97,Anaheim,Kevin Roy,L,28.0,7.0,44.03,106.71,-62.68
+2012,4,98,Minnesota,Adam Gilmour,C,0.0,0.0,0.0,132.71,-132.71
+2012,4,99,Carolina,Erik Karlsson,L,0.0,0.0,0.0,190.38,-190.38
+2012,4,100,Washington,Thomas Di Pauli,C,2.0,0.0,2.0,128.34,-126.34
+2012,4,101,Tampa Bay,Cedric Paquette,C,448.0,95.0,528.87,102.87,426.0
+2012,4,102,Arizona,Rhett Holland,D,0.0,0.0,0.0,139.04,-139.04
+2012,4,103,NY Islanders,Loic Leduc,D,0.0,0.0,0.0,55.35,-55.35
+2012,4,104,Dallas,Gemel Smith,C,91.0,25.0,148.25,268.69,-120.44
+2012,4,105,Calgary,Brett Kulak,D,656.0,136.0,525.01,109.03,415.98
+2012,4,106,Ottawa,Tim Boyle,D,0.0,0.0,0.0,259.74,-259.74
+2012,4,107,Washington,Austin Wuthrich,F,0.0,0.0,0.0,71.46,-71.46
+2012,4,108,Anaheim,Andrew O'Brien,D,0.0,0.0,0.0,145.03,-145.03
+2012,4,109,San Jose,Christophe Lalancette,R,0.0,0.0,0.0,86.99,-86.99
+2012,4,110,Detroit,Andreas Athanasiou,C,495.0,246.0,761.15,143.36,617.79
+2012,4,111,Philadelphia,Fredric Larsson,D,0.0,0.0,0.0,167.98,-167.98
+2012,4,112,Nashville,Zachary Stepan,C,0.0,0.0,0.0,255.72,-255.72
+2012,4,114,Florida,Alexander Delnov,L,0.0,0.0,0.0,154.84,-154.84
+2012,4,115,Carolina,Trevor Carrick,D,7.0,0.0,7.0,55.7,-48.7
+2012,4,116,St. Louis,Nick Walters,D,0.0,0.0,0.0,91.68,-91.68
+2012,4,117,Philadelphia,Taylor Leier,L,55.0,7.0,71.03,252.79,-181.76
+2012,4,118,Nashville,Mikko Vainonen,D,0.0,0.0,0.0,99.56,-99.56
+2012,4,119,NY Rangers,Calle Andersson,D,0.0,0.0,0.0,84.34,-84.34
+2012,4,120,Carolina,Jaccob Slavin,D,781.0,305.0,674.37,110.38,563.99
+2012,4,121,Los Angeles,Nikolay Prokhorkin,L,43.0,14.0,75.06,288.75,-213.69
+2012,5,122,Montreal,Charles Hudon,L,134.0,41.0,227.89,97.99,129.9
+2012,5,123,Edmonton,Joey Laleggia,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,124,Calgary,Ryan Culkin,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,125,NY Islanders,Doyle Somerby,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,126,Toronto,Dominic Toninato,C,196.0,36.0,278.44,97.85,180.59
+2012,5,127,Anaheim,Brian Cooper,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,128,Minnesota,Daniel Gunnarsson,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,129,Carolina,Brendan Woods,C,7.0,0.0,7.0,98.62,-91.62
+2012,5,131,Boston,Seth Griffith,C,80.0,19.0,123.51,98.29,25.22
+2012,5,132,Colorado,Michael Clarke,C,0.0,0.0,0.0,98.64,-98.64
+2012,5,133,Buffalo,Logan Nelson,C,0.0,0.0,0.0,98.64,-98.64
+2012,5,134,Dallas,Branden Troock,R,0.0,0.0,0.0,98.64,-98.64
+2012,5,135,New Jersey,Graham Black,C,0.0,0.0,0.0,98.64,-98.64
+2012,5,136,Ottawa,Robbie Baillargeon,F,0.0,0.0,0.0,98.64,-98.64
+2012,5,137,Washington,Connor Carrick,D,242.0,50.0,356.5,97.63,258.87
+2012,5,138,San Jose,Danny O'Regan,C,30.0,6.0,43.74,98.52,-54.78
+2012,5,139,Chicago,Garret Ross,L,0.0,0.0,0.0,98.64,-98.64
+2012,5,140,Detroit,Mike McKee,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,141,Philadelphia,Reece Willcox,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,142,NY Rangers,Thomas Spelling,R,0.0,0.0,0.0,98.64,-98.64
+2012,5,143,Pittsburgh,Clark Seymour,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,145,Boston,Cody Payne,C,0.0,0.0,0.0,98.64,-98.64
+2012,5,147,Vancouver,Ben Hutton,D,573.0,139.0,553.76,97.07,456.69
+2012,5,148,Arizona,Niklas Tikkinen,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,149,Chicago,Travis Brown,D,0.0,0.0,0.0,98.64,-98.64
+2012,5,150,New Jersey,Alex Kerfoot,C,633.0,302.0,744.95,96.52,648.43
+2012,5,151,Los Angeles,Colin Miller,D,587.0,182.0,608.77,96.91,511.86
+2012,6,152,Columbus,Daniel Zaar,R,0.0,0.0,0.0,83.45,-83.45
+2012,6,153,Edmonton,John McCarron,F,0.0,0.0,0.0,83.45,-83.45
+2012,6,154,Montreal,Erik Nystrom,L,0.0,0.0,0.0,83.45,-83.45
+2012,6,155,NY Islanders,Jesse Graham,D,0.0,0.0,0.0,83.45,-83.45
+2012,6,156,Toronto,Connor Brown,R,670.0,297.0,717.38,81.35,636.03
+2012,6,157,Toronto,Ryan Rupert,C,0.0,0.0,0.0,83.45,-83.45
+2012,6,158,Minnesota,Christoph Bertschy,C,9.0,1.0,11.29,83.42,-72.13
+2012,6,160,Winnipeg,Ryan Olsen,C,0.0,0.0,0.0,83.45,-83.45
+2012,6,161,Tampa Bay,Jake Dotchin,D,103.0,23.0,155.67,83.0,72.67
+2012,6,162,Colorado,Joseph Blandisi,C,101.0,31.0,171.99,82.95,89.04
+2012,6,164,Nashville,Simon Fernholm,D,0.0,0.0,0.0,83.45,-83.45
+2012,6,165,Calgary,Coda Gordon,L,0.0,0.0,0.0,83.45,-83.45
+2012,6,167,Washington,Riley Barber,R,16.0,0.0,16.0,83.41,-67.41
+2012,6,168,San Jose,Cliff Watson,D,0.0,0.0,0.0,83.45,-83.45
+2012,6,169,Chicago,Vinny Hinostroza,C,471.0,175.0,658.9,81.52,577.38
+2012,6,170,Detroit,James De Haas,D,0.0,0.0,0.0,83.45,-83.45
+2012,6,171,Los Angeles,Tomas Hyka,R,27.0,7.0,43.03,83.33,-40.3
+2012,6,172,Nashville,Max Gortz,R,0.0,0.0,0.0,83.45,-83.45
+2012,6,173,Pittsburgh,Anton Zlobin,L,0.0,0.0,0.0,83.45,-83.45
+2012,6,174,Florida,Francis Beauvillier,C,0.0,0.0,0.0,83.45,-83.45
+2012,6,175,Boston,Matt Benning,D,465.0,102.0,534.83,81.88,452.95
+2012,6,176,St. Louis,Petteri Lindbohm,D,49.0,4.0,58.16,83.28,-25.12
+2012,6,177,Vancouver,Wesley Myron,F,0.0,0.0,0.0,83.45,-83.45
+2012,6,178,Arizona,Hunter Fejes,L,0.0,0.0,0.0,83.45,-83.45
+2012,6,180,New Jersey,Artur Gavrus,C,0.0,0.0,0.0,83.45,-83.45
+2012,6,181,Los Angeles,Paul Ladue,D,70.0,18.0,111.22,83.13,28.09
+2012,7,182,Columbus,Gianluca Curcuruto,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,183,Dallas,Dmitry Sinitsyn,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,185,NY Islanders,Jake Bischoff,D,4.0,0.0,4.0,60.61,-56.61
+2012,7,186,Calgary,Matt DeBlouw,F,0.0,0.0,0.0,60.62,-60.62
+2012,7,187,Anaheim,Kenton Helgesen,L,0.0,0.0,0.0,60.62,-60.62
+2012,7,188,Minnesota,Louis Nanne,L,0.0,0.0,0.0,60.62,-60.62
+2012,7,189,Carolina,Brendan Collier,L,0.0,0.0,0.0,60.62,-60.62
+2012,7,192,Colorado,Colin Smith,C,1.0,0.0,1.0,60.62,-59.62
+2012,7,193,Buffalo,Brady Austin,D,5.0,0.0,5.0,60.6,-55.6
+2012,7,194,Florida,Jonatan Nielsen,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,195,Washington,Christian Djoos,D,155.0,38.0,242.02,59.93,182.09
+2012,7,196,Ottawa,Mikael Wikstrand,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,197,Washington,Jaynen Rissling,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,198,San Jose,Joakim Ryan,D,145.0,24.0,199.96,60.05,139.91
+2012,7,200,Detroit,Rasmus Bodin,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,201,Philadelphia,Valeri Vasiliev,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,202,Tampa Bay,Nikita Gusev,L,97.0,54.0,220.66,60.0,160.66
+2012,7,204,Buffalo,Judd Peterson,R,0.0,0.0,0.0,60.62,-60.62
+2012,7,205,Boston,Colton Hargrove,L,0.0,0.0,0.0,60.62,-60.62
+2012,7,206,St. Louis,Tyrel Seaman,C,0.0,0.0,0.0,60.62,-60.62
+2012,7,207,Vancouver,Matthew Beattie,R,0.0,0.0,0.0,60.62,-60.62
+2012,7,208,Arizona,Justin Hache,D,0.0,0.0,0.0,60.62,-60.62
+2012,7,209,Toronto,Viktor Loov,D,4.0,2.0,8.58,60.59,-52.01
+2012,7,210,Anaheim,Jaycob Megna,D,197.0,27.0,258.83,59.89,198.94
+2012,7,211,Los Angeles,Nick Ebert,D,0.0,0.0,0.0,60.62,-60.62
+2013,1,1,Colorado,Nathan MacKinnon,C,944.0,1137.0,1337.92,1067.08,270.84
+2013,1,2,Florida,Aleksander Barkov,C,804.0,782.0,1148.93,870.41,278.52
+2013,1,3,Tampa Bay,Jonathan Drouin,L,667.0,396.0,840.01,864.68,-24.67
+2013,1,4,Nashville,Seth Jones,D,910.0,471.0,777.95,790.62,-12.67
+2013,1,5,Carolina,Elias Lindholm,C,964.0,651.0,906.54,664.82,241.72
+2013,1,6,Calgary,Sean Monahan,C,891.0,630.0,932.43,698.67,233.76
+2013,1,7,Edmonton,Darnell Nurse,D,793.0,322.0,687.03,749.98,-62.95
+2013,1,8,Buffalo,Rasmus Ristolainen,D,815.0,315.0,671.09,589.01,82.08
+2013,1,9,Vancouver,Bo Horvat,C,877.0,616.0,928.62,730.0,198.62
+2013,1,10,Dallas,Valeri Nichushkin,R,621.0,353.0,819.41,548.11,271.3
+2013,1,11,Philadelphia,Samuel Morin,L,29.0,1.0,31.29,625.7,-594.41
+2013,1,12,Arizona,Max Domi,C,810.0,485.0,844.14,600.19,243.95
+2013,1,13,Winnipeg,Josh Morrissey,D,733.0,425.0,828.68,472.68,356.0
+2013,1,14,Columbus,Alexander Wennberg,C,863.0,422.0,754.65,515.68,238.97
+2013,1,15,NY Islanders,Ryan Pulock,D,633.0,240.0,665.1,520.66,144.44
+2013,1,16,Buffalo,Nikita Zadorov,D,799.0,188.0,547.82,569.9,-22.08
+2013,1,17,Ottawa,Curtis Lazar,C,613.0,130.0,528.89,544.98,-16.09
+2013,1,18,San Jose,Mirco Mueller,D,185.0,28.0,249.12,496.33,-247.21
+2013,1,19,Columbus,Kerby Rychel,L,43.0,14.0,75.06,479.49,-404.43
+2013,1,20,Detroit,Anthony Mantha,R,584.0,364.0,864.13,483.67,380.46
+2013,1,21,Toronto,Frederik Gauthier,C,178.0,31.0,248.99,485.18,-236.19
+2013,1,22,Calgary,Emile Poirier,L,8.0,1.0,10.29,504.58,-494.29
+2013,1,23,Washington,Andre Burakovsky,L,767.0,419.0,801.35,327.02,474.33
+2013,1,24,Vancouver,Hunter Shinkaruk,L,15.0,4.0,24.16,543.41,-519.25
+2013,1,25,Montreal,Michael McCarron,C,375.0,77.0,523.4,378.35,145.05
+2013,1,26,Anaheim,Shea Theodore,D,629.0,400.0,874.44,588.1,286.34
+2013,1,27,Columbus,Marko Dano,C,141.0,45.0,244.05,362.93,-118.88
+2013,1,28,Calgary,Morgan Klimchuk,L,1.0,0.0,1.0,336.58,-335.58
+2013,1,29,Dallas,Jason Dickinson,C,564.0,171.0,603.17,298.95,304.22
+2013,1,30,Chicago,Ryan Hartman,R,721.0,343.0,743.83,394.87,348.96
+2013,2,31,Florida,Ian McCoshen,D,60.0,7.0,76.03,178.13,-102.1
+2013,2,32,Colorado,Chris Bigras,D,46.0,4.0,55.16,161.0,-105.84
+2013,2,33,Tampa Bay,Adam Erne,L,420.0,99.0,548.16,292.72,255.44
+2013,2,34,Montreal,Jacob De La Rose,C,242.0,38.0,329.02,240.31,88.71
+2013,2,35,Buffalo,JT Compher,L,652.0,299.0,729.86,298.59,431.27
+2013,2,37,Los Angeles,Valentin Zykov,L,55.0,17.0,93.93,237.66,-143.73
+2013,2,38,Buffalo,Connor Hurley,C,0.0,0.0,0.0,345.77,-345.77
+2013,2,39,Arizona,Laurent Dauphin,C,94.0,17.0,132.93,387.64,-254.71
+2013,2,40,Dallas,Remi Elie,L,107.0,22.0,157.38,86.91,70.47
+2013,2,41,Philadelphia,Robert Hagg,D,345.0,63.0,489.27,166.98,322.29
+2013,2,42,New Jersey,Steven Santini,D,135.0,24.0,189.96,308.72,-118.76
+2013,2,43,Winnipeg,Nicolas Petan,C,170.0,35.0,250.15,308.58,-58.43
+2013,2,45,Anaheim,Nick Sorensen,R,5.0,1.0,7.29,324.71,-317.42
+2013,2,46,Minnesota,Gustav Olofsson,D,63.0,11.0,88.19,191.83,-103.64
+2013,2,47,St. Louis,Tommy Vannelli,D,0.0,0.0,0.0,347.17,-347.17
+2013,2,48,Detroit,Zach Nastasiuk,R,0.0,0.0,0.0,89.69,-89.69
+2013,2,49,San Jose,Gabryel Boudreau,L,0.0,0.0,0.0,281.71,-281.71
+2013,2,50,Columbus,Dillon Heatherington,D,23.0,2.0,27.58,220.37,-192.79
+2013,2,51,Chicago,Carl Dahlstrom,D,67.0,12.0,94.48,253.87,-159.39
+2013,2,52,Buffalo,Justin Bailey,R,141.0,23.0,193.67,192.38,1.29
+2013,2,53,Washington,Madison Bowey,D,158.0,40.0,249.6,260.45,-10.85
+2013,2,55,Montreal,Artturi Lehkonen,L,654.0,334.0,772.35,411.48,360.87
+2013,2,56,Edmonton,Marco Roy,C,0.0,0.0,0.0,253.92,-253.92
+2013,2,57,St. Louis,William Carrier,L,521.0,132.0,562.55,185.82,376.73
+2013,2,58,Detroit,Tyler Bertuzzi,L,562.0,363.0,882.57,415.34,467.23
+2013,2,60,Boston,Linus Arnesson,D,0.0,0.0,0.0,264.35,-264.35
+2013,2,61,Washington,Zach Sanford,L,334.0,104.0,572.16,159.76,412.4
+2013,3,62,Arizona,Yan-Pavel Laplante,C,0.0,0.0,0.0,173.49,-173.49
+2013,3,64,Nashville,Jonathan-Ismael Diaby,D,0.0,0.0,0.0,173.7,-173.7
+2013,3,65,NY Rangers,Adam Tambellini,L,0.0,0.0,0.0,168.53,-168.53
+2013,3,66,Carolina,Brett Pesce,D,736.0,222.0,601.9,281.81,320.09
+2013,3,67,Calgary,Keegan Kanzig,D,0.0,0.0,0.0,250.79,-250.79
+2013,3,68,Dallas,Niklas Hansson,D,0.0,0.0,0.0,88.6,-88.6
+2013,3,69,Buffalo,Nick Baptiste,R,47.0,10.0,69.9,250.68,-180.78
+2013,3,71,Montreal,Connor Crisp,C,0.0,0.0,0.0,207.72,-207.72
+2013,3,72,Philadelphia,Tyrell Goulbourne,L,11.0,0.0,11.0,186.52,-175.52
+2013,3,73,New Jersey,Ryan Kujawinski,C,0.0,0.0,0.0,70.83,-70.83
+2013,3,74,Chicago,John Hayden,C,272.0,39.0,361.31,94.19,267.12
+2013,3,75,NY Rangers,Pavel Buchnevich,L,667.0,502.0,969.57,135.53,834.04
+2013,3,76,NY Islanders,Taylor Cammarata,C,0.0,0.0,0.0,72.12,-72.12
+2013,3,77,Pittsburgh,Jake Guentzel,C,676.0,655.0,1145.91,194.63,951.28
+2013,3,79,Detroit,Mattias Janmark-Nylen,C,680.0,221.0,620.95,233.05,387.9
+2013,3,80,NY Rangers,Anthony Duclair,L,668.0,341.0,772.16,122.23,649.93
+2013,3,81,Minnesota,Kurtis Gabriel,R,51.0,5.0,62.45,64.19,-1.74
+2013,3,82,Toronto,Carter Verhaeghe,C,485.0,355.0,952.72,153.69,799.03
+2013,3,83,Edmonton,Bogdan Yakimov,C,1.0,0.0,1.0,74.86,-73.86
+2013,3,84,Winnipeg,Jimmy Lodge,C,0.0,0.0,0.0,75.03,-75.03
+2013,3,85,Vancouver,Cole Cassels,C,0.0,0.0,0.0,266.81,-266.81
+2013,3,86,Montreal,Sven Andrighetto,R,216.0,83.0,406.07,155.14,250.93
+2013,3,87,Anaheim,Keaton Thompson,D,0.0,0.0,0.0,26.31,-26.31
+2013,3,88,Edmonton,Anton Slepyshev,L,102.0,23.0,154.67,54.05,100.62
+2013,3,89,Columbus,Oliver Bjorkstrand,R,698.0,414.0,839.54,100.74,738.8
+2013,3,90,Boston,Peter Cehlarik,R,40.0,11.0,65.19,107.7,-42.51
+2013,3,91,Winnipeg,JC Lipon,R,9.0,1.0,11.29,58.86,-47.57
+2013,4,93,Colorado,Mason Geertsen,L,30.0,0.0,30.0,105.48,-75.48
+2013,4,94,Edmonton,Jackson Houck,R,0.0,0.0,0.0,55.6,-55.6
+2013,4,95,Nashville,Felix Girard,C,0.0,0.0,0.0,153.51,-153.51
+2013,4,96,Edmonton,Kyle Platzer,C,0.0,0.0,0.0,233.28,-233.28
+2013,4,97,Florida,Michael Downing,D,0.0,0.0,0.0,110.38,-110.38
+2013,4,98,Florida,Matt Buckles,C,0.0,0.0,0.0,132.71,-132.71
+2013,4,100,New Jersey,Miles Wood,L,562.0,196.0,640.32,75.14,565.18
+2013,4,101,Dallas,Nick Paul,L,531.0,212.0,681.48,90.15,591.33
+2013,4,102,Ottawa,Tobias Lindberg,R,6.0,2.0,10.58,138.08,-127.5
+2013,4,103,Los Angeles,Justin Auger,R,2.0,0.0,2.0,55.18,-53.18
+2013,4,104,Winnipeg,Andrew Copp,C,773.0,341.0,715.63,217.11,498.52
+2013,4,105,Columbus,Nick Moutrey,R,0.0,0.0,0.0,156.76,-156.76
+2013,4,107,Minnesota,Dylan Labbe,D,0.0,0.0,0.0,71.46,-71.46
+2013,4,108,Ottawa,Ben Harpur,D,198.0,21.0,246.09,122.66,123.43
+2013,4,109,Detroit,David Pope,L,0.0,0.0,0.0,86.99,-86.99
+2013,4,110,NY Rangers,Ryan Graves,D,453.0,119.0,570.16,162.46,407.7
+2013,4,111,Chicago,Robin Norell,D,0.0,0.0,0.0,167.98,-167.98
+2013,4,112,St. Louis,Zach Pochiro,C,0.0,0.0,0.0,255.72,-255.72
+2013,4,113,Edmonton,Aidan Muir,L,0.0,0.0,0.0,102.82,-102.82
+2013,4,114,Winnipeg,Jan Kostalek,D,0.0,0.0,0.0,154.84,-154.84
+2013,4,115,Vancouver,Jordan Subban,D,0.0,0.0,0.0,56.34,-56.34
+2013,4,116,Montreal,Martin Reway,L,0.0,0.0,0.0,91.68,-91.68
+2013,4,118,Los Angeles,Hudson Fasching,R,175.0,40.0,266.6,72.9,193.7
+2013,4,119,Pittsburgh,Ryan Segalla,D,0.0,0.0,0.0,84.34,-84.34
+2013,4,120,Boston,Ryan Fitzgerald,C,0.0,0.0,0.0,171.69,-171.69
+2013,4,121,Chicago,Tyler Motte,C,455.0,99.0,533.38,237.82,295.56
+2013,5,122,Florida,Christopher Clapperton,L,0.0,0.0,0.0,98.64,-98.64
+2013,5,123,Colorado,Will Butcher,D,275.0,114.0,536.06,97.12,438.94
+2013,5,125,Nashville,Saku Maenalanen,R,98.0,18.0,139.22,98.24,40.98
+2013,5,126,Carolina,Brent Pedersen,L,0.0,0.0,0.0,98.64,-98.64
+2013,5,127,Winnipeg,Tucker Poolman,D,163.0,23.0,215.67,98.03,117.64
+2013,5,128,Edmonton,Evan Campbell,L,0.0,0.0,0.0,98.64,-98.64
+2013,5,130,Buffalo,Gustav Possler,R,0.0,0.0,0.0,98.64,-98.64
+2013,5,131,Dallas,Cole Ully,L,0.0,0.0,0.0,98.64,-98.64
+2013,5,132,Philadelphia,Terrance Amorosa,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,133,Arizona,Connor Clifton,D,430.0,83.0,513.36,97.18,416.18
+2013,5,134,Chicago,Luke Johnson,C,32.0,2.0,36.58,98.54,-61.96
+2013,5,135,Calgary,Eric Roy,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,136,NY Islanders,Viktor Crus-Rydberg,C,0.0,0.0,0.0,98.64,-98.64
+2013,5,137,Minnesota,Carson Soucy,D,437.0,99.0,540.69,97.1,443.59
+2013,5,138,Ottawa,Vincent Dunn,C,0.0,0.0,0.0,98.64,-98.64
+2013,5,139,Detroit,Mitch Wheaton,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,140,Nashville,Teemu Kivihalme,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,141,San Jose,Michael Brodzinski,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,142,Toronto,Fabrice Herzog,R,0.0,0.0,0.0,98.64,-98.64
+2013,5,143,Buffalo,Anthony Florentino,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,144,Washington,Blake Heinrich,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,145,Vancouver,Anton Cederholm,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,147,Anaheim,Grant Besse,L,0.0,0.0,0.0,98.64,-98.64
+2013,5,148,Los Angeles,Jonny Brodzinski,C,260.0,70.0,420.3,97.45,322.85
+2013,5,149,Dallas,Matej Paulovic,R,0.0,0.0,0.0,98.64,-98.64
+2013,5,150,Boston,Wiley Sherman,D,0.0,0.0,0.0,98.64,-98.64
+2013,5,151,San Jose,Gage Ausmus,D,0.0,0.0,0.0,98.64,-98.64
+2013,6,152,Florida,Josh Brown,D,300.0,35.0,380.15,82.34,297.81
+2013,6,153,Colorado,Ben Storm,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,154,Tampa Bay,Henri Ikonen,L,0.0,0.0,0.0,83.45,-83.45
+2013,6,155,Nashville,Emil Pettersson,C,0.0,0.0,0.0,83.45,-83.45
+2013,6,156,Carolina,Tyler Ganly,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,157,Calgary,Tim Harrison,R,0.0,0.0,0.0,83.45,-83.45
+2013,6,158,Edmonton,Ben Betker,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,159,Buffalo,Sean Malone,C,2.0,1.0,4.29,83.44,-79.15
+2013,6,160,New Jersey,Myles Bell,R,0.0,0.0,0.0,83.45,-83.45
+2013,6,161,Ottawa,Chris Leblanc,F,0.0,0.0,0.0,83.45,-83.45
+2013,6,164,Pittsburgh,Dane Birks,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,165,Columbus,Markus Soberg,R,0.0,0.0,0.0,83.45,-83.45
+2013,6,166,NY Islanders,Alan Quine,C,106.0,28.0,170.12,82.95,87.17
+2013,6,167,Minnesota,Avery Peterson,C,0.0,0.0,0.0,83.45,-83.45
+2013,6,168,Ottawa,Quentin Shore,C,0.0,0.0,0.0,83.45,-83.45
+2013,6,169,Detroit,Marc McNulty,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,171,Nashville,Tommy Veilleux,L,0.0,0.0,0.0,83.45,-83.45
+2013,6,173,St. Louis,Santeri Saari,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,174,Washington,Brian Pinho,C,2.0,0.0,2.0,83.45,-81.45
+2013,6,175,Vancouver,Mike Williamson,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,176,Montreal,Jeremy Gregoire,C,0.0,0.0,0.0,83.45,-83.45
+2013,6,177,Anaheim,Miro Aaltonen,C,0.0,0.0,0.0,83.45,-83.45
+2013,6,178,Los Angeles,Zac Leslie,D,0.0,0.0,0.0,83.45,-83.45
+2013,6,179,Pittsburgh,Blaine Byron,C,0.0,0.0,0.0,83.45,-83.45
+2013,6,180,Boston,Anton Blidh,L,89.0,13.0,118.77,83.1,35.67
+2013,6,181,Chicago,Anthony Louis,C,0.0,0.0,0.0,83.45,-83.45
+2013,7,182,Dallas,Aleksi Makela,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,183,Colorado,Wilhelm Westlund,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,184,Tampa Bay,Saku Salminen,F,0.0,0.0,0.0,60.62,-60.62
+2013,7,185,Nashville,Wade Murphy,F,0.0,0.0,0.0,60.62,-60.62
+2013,7,186,Tampa Bay,Joel Vermin,R,24.0,4.0,33.16,60.52,-27.36
+2013,7,187,Calgary,Rushan Rafikov,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,188,Edmonton,Greg Chase,L,0.0,0.0,0.0,60.62,-60.62
+2013,7,189,Buffalo,Eric Locke,C,0.0,0.0,0.0,60.62,-60.62
+2013,7,190,Winnipeg,Brenden Kichton,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,191,Los Angeles,Dominik Kubalik,L,357.0,176.0,757.91,58.48,699.43
+2013,7,192,Philadelphia,David Drake,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,193,Arizona,Jedd Soleway,C,0.0,0.0,0.0,60.62,-60.62
+2013,7,194,Winnipeg,Marcus Karlstrom,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,195,Columbus,Peter Quenneville,R,0.0,0.0,0.0,60.62,-60.62
+2013,7,196,NY Islanders,Kyle Burroughs,D,201.0,22.0,251.38,59.91,191.47
+2013,7,197,Minnesota,Nolan De Jong,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,198,Calgary,John Gilmour,D,37.0,5.0,48.45,60.48,-12.03
+2013,7,199,Detroit,Hampus Melen,R,0.0,0.0,0.0,60.62,-60.62
+2013,7,201,San Jose,Jake Jackson,C,0.0,0.0,0.0,60.62,-60.62
+2013,7,202,Toronto,Andreas Johnsson,R,259.0,116.0,524.64,59.14,465.5
+2013,7,204,Washington,Tyler Lewington,D,12.0,3.0,18.87,60.57,-41.7
+2013,7,205,Vancouver,Miles Liberati,D,0.0,0.0,0.0,60.62,-60.62
+2013,7,206,Florida,MacKenzie Weegar,D,623.0,276.0,717.17,58.59,658.58
+2013,7,207,San Jose,Emil Galimov,L,0.0,0.0,0.0,60.62,-60.62
+2013,7,209,Pittsburgh,Troy Josephs,C,0.0,0.0,0.0,60.62,-60.62
+2013,7,210,Boston,Mitchell Dempsey,L,0.0,0.0,0.0,60.62,-60.62
+2013,7,211,Chicago,Robin Press,D,0.0,0.0,0.0,60.62,-60.62
+2014,1,1,Florida,Aaron Ekblad,D,804.0,406.0,767.68,1114.6,-346.93
+2014,1,2,Buffalo,Sam Reinhart,C,839.0,680.0,1016.74,881.43,135.31
+2014,1,3,Edmonton,Leon Draisaitl,C,855.0,1053.0,1360.03,821.35,538.68
+2014,1,4,Calgary,Sam Bennett,C,764.0,394.0,776.42,790.75,-14.33
+2014,1,5,NY Islanders,Michael Dal Colle,L,112.0,21.0,160.09,732.68,-572.59
+2014,1,6,Vancouver,Jake Virtanen,R,317.0,100.0,546.0,730.87,-184.87
+2014,1,7,Carolina,Haydn Fleury,D,340.0,46.0,445.34,770.12,-324.78
+2014,1,8,Toronto,William Nylander,R,745.0,685.0,1105.58,552.8,552.78
+2014,1,9,Winnipeg,Nikolaj Ehlers,L,750.0,584.0,990.8,724.82,265.98
+2014,1,10,Anaheim,Nick Ritchie,L,481.0,186.0,671.25,560.46,110.79
+2014,1,11,Nashville,Kevin Fiala,L,707.0,528.0,964.84,532.35,432.49
+2014,1,12,Arizona,Brendan Perlini,L,262.0,81.0,447.49,633.25,-185.76
+2014,1,13,Washington,Jakub Vrana,L,406.0,223.0,803.78,474.76,329.02
+2014,1,14,Dallas,Julius Honka,D,87.0,13.0,116.77,568.83,-452.06
+2014,1,15,Detroit,Dylan Larkin,C,803.0,634.0,999.66,490.24,509.42
+2014,1,16,Columbus,Sonny Milano,L,344.0,145.0,676.05,559.22,116.83
+2014,1,17,Philadelphia,Travis Sanheim,D,655.0,248.0,664.67,533.67,131.0
+2014,1,18,Minnesota,Alex Tuch,R,610.0,443.0,948.05,432.79,515.26
+2014,1,19,Tampa Bay,Tony DeAngelo,D,478.0,262.0,802.85,413.33,389.52
+2014,1,20,Chicago,Nick Schmaltz,C,664.0,491.0,958.84,475.78,483.06
+2014,1,21,St. Louis,Robby Fabbri,C,461.0,220.0,745.05,440.08,304.97
+2014,1,22,Pittsburgh,Kasperi Kapanen,R,563.0,238.0,700.63,441.82,258.81
+2014,1,23,Colorado,Conner Bleackley,C,0.0,0.0,0.0,399.87,-399.87
+2014,1,24,Vancouver,Jared McCann,L,716.0,435.0,851.29,468.21,383.08
+2014,1,25,Boston,David Pastrnak,R,828.0,929.0,1270.68,316.07,954.61
+2014,1,26,Montreal,Nikita Scherbak,R,37.0,8.0,55.32,670.01,-614.69
+2014,1,27,San Jose,Nikolay Goldobin,R,125.0,46.0,230.34,364.18,-133.84
+2014,1,28,NY Islanders,Josh Ho-Sang,R,53.0,24.0,107.96,327.67,-219.71
+2014,1,29,Los Angeles,Adrian Kempe,R,705.0,470.0,899.49,274.25,625.24
+2014,1,30,New Jersey,John Quenneville,C,42.0,5.0,53.45,457.63,-404.18
+2014,2,31,Buffalo,Brendan Lemieux,L,307.0,74.0,476.46,133.64,342.82
+2014,2,32,Florida,Jayce Hawryluk,R,98.0,27.0,159.83,151.49,8.34
+2014,2,33,St. Louis,Ivan Barbashev,L,662.0,348.0,784.56,273.02,511.54
+2014,2,35,Tampa Bay,Dominik Masin,D,0.0,0.0,0.0,359.41,-359.41
+2014,2,38,Anaheim,Marcus Pettersson,D,598.0,179.0,600.03,285.77,314.26
+2014,2,40,Ottawa,Andreas Englund,D,200.0,20.0,245.8,79.54,166.26
+2014,2,41,New Jersey,Joshua Jacobs,D,3.0,0.0,3.0,211.19,-208.19
+2014,2,42,Nashville,Vladislav Kamenev,C,66.0,13.0,95.77,317.29,-221.52
+2014,2,43,Arizona,Ryan MacInnis,C,27.0,1.0,29.29,326.99,-297.7
+2014,2,44,Buffalo,Eric Cornel,R,0.0,0.0,0.0,310.45,-310.45
+2014,2,45,Dallas,Brett Pollock,L,0.0,0.0,0.0,325.37,-325.37
+2014,2,46,San Jose,Julius Bergman,D,0.0,0.0,0.0,200.65,-200.65
+2014,2,47,Columbus,Ryan Collins,D,0.0,0.0,0.0,347.17,-347.17
+2014,2,48,Philadelphia,Nicolas Aube-Kubel,R,308.0,81.0,493.49,40.34,453.15
+2014,2,49,Buffalo,Vaclav Karabacek,R,0.0,0.0,0.0,281.71,-281.71
+2014,2,50,Los Angeles,Roland McKeown,D,16.0,3.0,22.87,220.76,-197.89
+2014,2,51,Nashville,Jack Dougherty,D,0.0,0.0,0.0,261.75,-261.75
+2014,2,52,St. Louis,Maxim Letunov,F,3.0,1.0,5.29,208.07,-202.78
+2014,2,53,San Jose,Noah Rod,L,0.0,0.0,0.0,281.25,-281.25
+2014,2,54,Calgary,Hunter Smith,R,0.0,0.0,0.0,256.36,-256.36
+2014,2,55,Anaheim,Brandon Montour,D,658.0,324.0,757.43,412.84,344.59
+2014,2,56,Boston,Ryan Donato,C,560.0,255.0,727.23,193.32,533.91
+2014,2,57,Tampa Bay,Johnathan MacLeod,D,0.0,0.0,0.0,232.7,-232.7
+2014,2,58,Arizona,Christian Dvorak,C,609.0,296.0,752.24,427.19,325.05
+2014,2,60,Los Angeles,Alex Lintuniemi,D,0.0,0.0,0.0,264.35,-264.35
+2014,3,62,Nashville,Justin Kirkland,C,50.0,10.0,72.9,164.38,-91.48
+2014,3,63,Detroit,Dominic Turgeon,C,9.0,0.0,9.0,184.98,-175.98
+2014,3,64,Calgary,Brandon Hickey,D,0.0,0.0,0.0,173.7,-173.7
+2014,3,65,Florida,Juho Lammikko,C,183.0,28.0,247.12,146.07,101.05
+2014,3,66,Vancouver,Nikita Tryamkin,D,79.0,11.0,104.19,323.29,-219.1
+2014,3,67,Carolina,Warren Foegele,L,575.0,225.0,675.01,194.54,480.47
+2014,3,68,Toronto,Rinat Valiev,D,12.0,0.0,12.0,87.6,-75.6
+2014,3,69,Winnipeg,Jack Glover,D,0.0,0.0,0.0,258.45,-258.45
+2014,3,70,Ottawa,Miles Gendron,D,0.0,0.0,0.0,55.14,-55.14
+2014,3,71,New Jersey,Connor Chatham,R,0.0,0.0,0.0,207.72,-207.72
+2014,3,72,San Jose,Alex Schoenborn,R,0.0,0.0,0.0,187.62,-187.62
+2014,3,73,Montreal,Brett Lernout,D,21.0,1.0,23.29,68.89,-45.6
+2014,3,74,Buffalo,Brycen Martin,D,0.0,0.0,0.0,127.04,-127.04
+2014,3,75,Dallas,Alex Peters,D,0.0,0.0,0.0,243.26,-243.26
+2014,3,77,Columbus,Blake Siebenaler,D,0.0,0.0,0.0,321.95,-321.95
+2014,3,79,Tampa Bay,Brayden Point,C,715.0,682.0,1133.61,190.33,943.28
+2014,3,80,Minnesota,Louie Belpedio,D,16.0,6.0,29.74,196.47,-166.73
+2014,3,81,San Jose,Dylan Sadowy,L,0.0,0.0,0.0,69.86,-69.86
+2014,3,82,St. Louis,Jake Walman,D,315.0,111.0,569.19,185.65,383.54
+2014,3,83,Chicago,Matteson Iacopelli,F,0.0,0.0,0.0,74.99,-74.99
+2014,3,84,Colorado,Kyle Wood,D,0.0,0.0,0.0,75.03,-75.03
+2014,3,85,NY Rangers,Keegan Iverson,C,0.0,0.0,0.0,266.81,-266.81
+2014,3,86,Philadelphia,Mark Friedman,D,93.0,13.0,122.77,186.61,-63.84
+2014,3,87,Arizona,Anton Karlsson,L,0.0,0.0,0.0,26.31,-26.31
+2014,3,88,Chicago,Beau Starrett,F,0.0,0.0,0.0,71.24,-71.24
+2014,3,89,Washington,Nathan Walker,L,272.0,67.0,425.43,135.25,290.18
+2014,3,90,Los Angeles,Mike Amadio,R,517.0,171.0,625.64,56.75,568.89
+2014,4,91,Edmonton,William Lagesson,D,107.0,12.0,134.48,46.54,87.94
+2014,4,92,Florida,Joe Wegwerth,L,0.0,0.0,0.0,133.62,-133.62
+2014,4,93,Colorado,Nick Magyar,R,0.0,0.0,0.0,108.48,-108.48
+2014,4,96,Carolina,Josh Wesley,D,0.0,0.0,0.0,233.28,-233.28
+2014,4,97,Carolina,Lucas Wallmark,C,187.0,59.0,322.11,83.54,238.57
+2014,4,98,Chicago,Fredrik Olofsson,L,85.0,13.0,114.77,122.27,-7.5
+2014,4,99,Winnipeg,Chase De Leo,L,7.0,0.0,7.0,189.68,-182.68
+2014,4,100,Ottawa,Shane Eiserman,F,0.0,0.0,0.0,128.5,-128.5
+2014,4,101,Winnipeg,Nelson Nogier,D,11.0,0.0,11.0,146.03,-135.03
+2014,4,102,San Jose,Alexis Vanier,D,0.0,0.0,0.0,139.04,-139.04
+2014,4,103,Toronto,J.J. Piccinich,R,0.0,0.0,0.0,55.35,-55.35
+2014,4,104,NY Rangers,Ryan Mantha,D,0.0,0.0,0.0,282.17,-282.17
+2014,4,105,Dallas,Michael Prapavessis,D,0.0,0.0,0.0,156.76,-156.76
+2014,4,106,Detroit,Christoffer Ehn,C,114.0,13.0,143.77,243.77,-100.0
+2014,4,107,Columbus,Julien Pelletier,L,0.0,0.0,0.0,71.46,-71.46
+2014,4,108,NY Islanders,Devon Toews,D,535.0,300.0,813.14,71.11,742.03
+2014,4,110,St. Louis,Austin Poganski,R,22.0,0.0,22.0,217.28,-195.28
+2014,4,112,Nashville,Viktor Arvidsson,L,678.0,440.0,885.06,167.22,717.84
+2014,4,113,Pittsburgh,Sam Lafferty,C,376.0,92.0,555.47,47.27,508.2
+2014,4,114,Colorado,Alexis Pepin,L,0.0,0.0,0.0,154.84,-154.84
+2014,4,116,Boston,Danton Heinen,L,607.0,249.0,690.42,28.92,661.5
+2014,4,117,Arizona,Michael Bunting,L,416.0,252.0,849.85,166.25,683.6
+2014,4,119,Tampa Bay,Ben Thomas,D,5.0,0.0,5.0,83.89,-78.89
+2014,4,120,Los Angeles,Steven Johnson,D,0.0,0.0,0.0,171.69,-171.69
+2014,5,121,Buffalo,Max Willman,C,68.0,10.0,90.9,98.38,-7.48
+2014,5,122,NY Rangers,Richard Nejezchleb,R,0.0,0.0,0.0,98.64,-98.64
+2014,5,123,Anaheim,Matthew Berkovitz,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,124,St. Louis,Jaedon Descheneau,R,0.0,0.0,0.0,98.64,-98.64
+2014,5,125,Montreal,Nikolas Koberstein,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,126,Vancouver,Gustav Forsling,D,552.0,218.0,677.96,96.71,581.25
+2014,5,127,Carolina,Clark Bishop,C,53.0,9.0,73.61,98.43,-24.82
+2014,5,128,Toronto,Dakota Joshua,C,295.0,96.0,514.84,97.18,417.66
+2014,5,129,Winnipeg,C.J. Suess,L,5.0,0.0,5.0,98.63,-93.63
+2014,5,130,Edmonton,Liam Coughlin,F,0.0,0.0,0.0,98.64,-98.64
+2014,5,131,New Jersey,Ryan Rehill,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,132,Nashville,Joonas Lyytinen,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,133,Arizona,Dysin Mayo,D,85.0,13.0,114.77,98.31,16.46
+2014,5,134,Washington,Shane Gersich,L,3.0,1.0,5.29,98.62,-93.33
+2014,5,135,Dallas,Miro Karjalainen,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,137,Columbus,Tyler Bird,R,0.0,0.0,0.0,98.64,-98.64
+2014,5,138,Philadelphia,Oskar Lindblom,L,337.0,112.0,593.48,96.95,496.53
+2014,5,139,Minnesota,Tanner Faith,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,140,NY Rangers,Daniel Walcott,L,1.0,0.0,1.0,98.64,-97.64
+2014,5,141,Chicago,Luc Snuggerud,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,142,NY Rangers,Tyler Nanne,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,143,Florida,Miguel Fidler,L,0.0,0.0,0.0,98.64,-98.64
+2014,5,144,Colorado,Anton Lindholm,D,66.0,5.0,77.45,98.42,-20.97
+2014,5,145,Pittsburgh,Anthony Angello,C,31.0,5.0,42.45,98.52,-56.07
+2014,5,146,Boston,Anders Bjork,L,225.0,61.0,364.69,97.6,267.09
+2014,5,147,Montreal,Daniel Audette,C,0.0,0.0,0.0,98.64,-98.64
+2014,5,148,Chicago,Andreas Soderberg,D,0.0,0.0,0.0,98.64,-98.64
+2014,5,149,San Jose,Rourke Chartier,C,56.0,4.0,65.16,98.45,-33.29
+2014,6,151,Buffalo,Christopher Brown,F,0.0,0.0,0.0,83.45,-83.45
+2014,6,152,New Jersey,J.D. Dudek,F,0.0,0.0,0.0,83.45,-83.45
+2014,6,153,Edmonton,Tyler Vesel,R,0.0,0.0,0.0,83.45,-83.45
+2014,6,154,Dallas,Aaron Haydon,D,0.0,0.0,0.0,83.45,-83.45
+2014,6,155,NY Islanders,Kyle Schempp,F,0.0,0.0,0.0,83.45,-83.45
+2014,6,156,Vancouver,Kyle Pettit,C,0.0,0.0,0.0,83.45,-83.45
+2014,6,157,Los Angeles,Jake Marchment,C,0.0,0.0,0.0,83.45,-83.45
+2014,6,158,Toronto,Nolan Vesey,F,0.0,0.0,0.0,83.45,-83.45
+2014,6,159,Washington,Steven Spinner,F,0.0,0.0,0.0,83.45,-83.45
+2014,6,160,Minnesota,Pontus Sjalin,D,0.0,0.0,0.0,83.45,-83.45
+2014,6,161,New Jersey,Brandon Baddock,L,1.0,0.0,1.0,83.45,-82.45
+2014,6,162,Nashville,Aaron Irving,D,0.0,0.0,0.0,83.45,-83.45
+2014,6,163,Arizona,David Westlund,D,0.0,0.0,0.0,83.45,-83.45
+2014,6,164,Winnipeg,Pavel Kraskovsky,C,0.0,0.0,0.0,83.45,-83.45
+2014,6,165,Dallas,John Nyberg,D,0.0,0.0,0.0,83.45,-83.45
+2014,6,166,Detroit,Julius Vahatalo,F,0.0,0.0,0.0,83.45,-83.45
+2014,6,167,Minnesota,Chase Lang,R,0.0,0.0,0.0,83.45,-83.45
+2014,6,168,Philadelphia,Radel Fazleev,C,0.0,0.0,0.0,83.45,-83.45
+2014,6,169,Minnesota,Reid Duke,C,0.0,0.0,0.0,83.45,-83.45
+2014,6,170,Tampa Bay,Cristiano DiGiacinto,L,0.0,0.0,0.0,83.45,-83.45
+2014,6,171,San Jose,Kevin Labanc,R,512.0,237.0,733.37,81.3,652.07
+2014,6,172,St. Louis,Chandler Yakimowicz,R,0.0,0.0,0.0,83.45,-83.45
+2014,6,173,Pittsburgh,Jaden Lindo,R,0.0,0.0,0.0,83.45,-83.45
+2014,6,175,Calgary,Adam Ollas Mattsson,D,0.0,0.0,0.0,83.45,-83.45
+2014,6,176,St. Louis,Sammy Blais,L,278.0,79.0,458.91,82.11,376.8
+2014,6,178,Chicago,Dylan Sikura,R,58.0,17.0,96.93,83.17,13.76
+2014,6,180,Los Angeles,Matthew Mistele,L,0.0,0.0,0.0,83.45,-83.45
+2014,7,181,Buffalo,Victor Olofsson,L,444.0,242.0,800.34,58.36,741.98
+2014,7,184,Calgary,Austin Carroll,R,0.0,0.0,0.0,60.62,-60.62
+2014,7,185,Tampa Bay,Cameron Darcy,C,0.0,0.0,0.0,60.62,-60.62
+2014,7,186,Vancouver,Mackenze Stewart,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,187,Carolina,Kyle Jenkins,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,188,Toronto,Pierre Engvall,L,380.0,135.0,645.62,58.79,586.83
+2014,7,189,Ottawa,Kelly Summers,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,190,Ottawa,Francis Perron,L,0.0,0.0,0.0,60.62,-60.62
+2014,7,191,Arizona,Jared Fiegl,F,0.0,0.0,0.0,60.62,-60.62
+2014,7,192,Winnipeg,Matt Ustaski,F,0.0,0.0,0.0,60.62,-60.62
+2014,7,193,Arizona,Edgars Kulda,L,0.0,0.0,0.0,60.62,-60.62
+2014,7,194,Washington,Kevin Elgestal,F,0.0,0.0,0.0,60.62,-60.62
+2014,7,195,Dallas,Patrick Sanvido,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,196,Detroit,Axel Holmstrom,F,0.0,0.0,0.0,60.62,-60.62
+2014,7,197,Columbus,Olivier Leblanc,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,198,Philadelphia,Jesper Pettersson,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,199,Minnesota,Pavel Jenys,R,0.0,0.0,0.0,60.62,-60.62
+2014,7,200,NY Islanders,Lukas Sutter,C,0.0,0.0,0.0,60.62,-60.62
+2014,7,201,Detroit,Alexander Kadeykin,C,0.0,0.0,0.0,60.62,-60.62
+2014,7,202,St. Louis,Dwyer Tschantz,F,0.0,0.0,0.0,60.62,-60.62
+2014,7,203,Pittsburgh,Jeff Taylor,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,204,Colorado,Julien Nantel,L,0.0,0.0,0.0,60.62,-60.62
+2014,7,205,Anaheim,Ondrej Kase,R,258.0,124.0,541.96,59.09,482.87
+2014,7,206,Boston,Emil Johansson,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,207,Montreal,Jake Evans,C,412.0,150.0,652.81,58.77,594.04
+2014,7,208,Chicago,Jack Ramsey,D,0.0,0.0,0.0,60.62,-60.62
+2014,7,209,Los Angeles,Spencer Watson,R,0.0,0.0,0.0,60.62,-60.62
+2014,7,210,Los Angeles,Jacob Middleton,D,375.0,93.0,558.18,59.04,499.14
+2015,1,1,Edmonton,Connor McDavid,C,789.0,1208.0,1604.17,1044.9,559.27
+2015,1,2,Buffalo,Jack Eichel,C,685.0,690.0,1177.19,868.06,309.13
+2015,1,3,Arizona,Dylan Strome,C,593.0,439.0,959.53,854.72,104.81
+2015,1,4,Toronto,Mitch Marner,R,733.0,818.0,1265.78,749.97,515.81
+2015,1,5,Carolina,Noah Hanifin,D,824.0,350.0,702.28,683.39,18.89
+2015,1,6,New Jersey,Pavel Zacha,C,702.0,403.0,824.01,707.7,116.31
+2015,1,7,Philadelphia,Ivan Provorov,D,773.0,312.0,685.05,750.15,-65.1
+2015,1,8,Columbus,Zach Werenski,D,637.0,462.0,947.27,565.99,381.28
+2015,1,9,San Jose,Timo Meier,R,692.0,476.0,916.77,730.99,185.78
+2015,1,10,Colorado,Mikko Rantanen,R,711.0,778.0,1248.06,512.39,735.67
+2015,1,11,Florida,Lawson Crouse,L,660.0,255.0,670.98,561.73,109.25
+2015,1,12,Dallas,Denis Gurianov,R,298.0,113.0,556.77,624.14,-67.37
+2015,1,13,Boston,Jakub Zboril,D,76.0,16.0,112.64,532.35,-419.71
+2015,1,14,Boston,Jake DeBrusk,L,622.0,352.0,817.36,510.45,306.91
+2015,1,15,Boston,Zachary Senyshyn,R,16.0,3.0,22.87,579.04,-556.17
+2015,1,16,NY Islanders,Mathew Barzal,C,607.0,532.0,1070.51,526.34,544.17
+2015,1,17,Winnipeg,Kyle Connor,L,689.0,669.0,1147.58,493.42,654.16
+2015,1,18,Ottawa,Thomas Chabot,D,567.0,335.0,837.67,442.82,394.85
+2015,1,19,Detroit,Evgeny Svechnikov,L,172.0,45.0,275.05,461.31,-186.26
+2015,1,20,Minnesota,Joel Eriksson Ek,C,611.0,346.0,817.66,487.55,330.11
+2015,1,21,Ottawa,Colin White,C,323.0,113.0,581.77,454.93,126.84
+2015,1,23,Vancouver,Brock Boeser,R,623.0,478.0,981.5,310.64,670.86
+2015,1,24,Philadelphia,Travis Konecny,R,718.0,542.0,971.4,457.29,514.11
+2015,1,25,Winnipeg,Jack Roslovic,C,590.0,294.0,762.24,358.44,403.8
+2015,1,26,Montreal,Noah Juulsen,D,208.0,27.0,269.83,648.56,-378.73
+2015,1,27,Anaheim,Jacob Larsson,D,172.0,24.0,226.96,364.49,-137.53
+2015,1,28,NY Islanders,Anthony Beauvillier,L,708.0,297.0,697.99,278.5,419.49
+2015,1,29,Columbus,Gabriel Carlsson,D,81.0,18.0,122.22,339.03,-216.81
+2015,1,30,Arizona,Nick Merkley,R,41.0,15.0,75.35,455.64,-380.29
+2015,2,31,San Jose,Jeremy Roy,D,0.0,0.0,0.0,186.58,-186.58
+2015,2,32,Arizona,Christian Fischer,R,523.0,137.0,569.55,114.24,455.31
+2015,2,33,Tampa Bay,Mitchell Stephens,C,123.0,19.0,166.51,324.52,-158.01
+2015,2,34,Toronto,Travis Dermott,D,348.0,62.0,489.98,222.42,267.56
+2015,2,35,Carolina,Sebastian Aho,C,753.0,709.0,1123.6,265.78,857.82
+2015,2,36,Ottawa,Gabriel Gagne,R,0.0,0.0,0.0,230.38,-230.38
+2015,2,37,Boston,Brandon Carlo,D,691.0,119.0,496.4,201.07,295.33
+2015,2,38,Columbus,Paul Bittner,L,0.0,0.0,0.0,345.77,-345.77
+2015,2,39,Colorado,A.J. Greer,L,320.0,77.0,496.33,351.3,145.03
+2015,2,40,Colorado,Nicolas Meloche,D,57.0,8.0,75.32,93.75,-18.43
+2015,2,41,NY Rangers,Ryan Gropp,L,0.0,0.0,0.0,211.46,-211.46
+2015,2,43,Los Angeles,Erik Cernak,D,496.0,119.0,551.59,283.46,268.13
+2015,2,44,Tampa Bay,Matthew Spencer,D,0.0,0.0,0.0,310.45,-310.45
+2015,2,45,Boston,Jakob Forsbacka-Karlsson,C,29.0,9.0,49.61,320.86,-271.25
+2015,2,46,Pittsburgh,Daniel Sprong,R,374.0,166.0,717.84,128.87,588.97
+2015,2,47,Winnipeg,Jansen Harkins,C,305.0,45.0,408.05,313.17,94.88
+2015,2,48,Ottawa,Filip Chlapik,C,57.0,11.0,82.19,81.47,0.72
+2015,2,49,Dallas,Roope Hintz,C,521.0,421.0,1014.76,168.96,845.8
+2015,2,50,Minnesota,Jordan Greenway,L,471.0,165.0,641.59,169.2,472.39
+2015,2,51,Buffalo,Brendan Guhle,D,65.0,14.0,97.06,253.66,-156.6
+2015,2,52,Boston,Jeremy Lauzon,D,379.0,58.0,480.76,168.45,312.31
+2015,2,53,Calgary,Rasmus Andersson,D,612.0,274.0,720.99,221.17,499.82
+2015,2,54,Chicago,Graham Knott,C,0.0,0.0,0.0,256.36,-256.36
+2015,2,55,Nashville,Yakov Trenin,C,451.0,118.0,569.3,429.94,139.36
+2015,2,56,St. Louis,Vince Dunn,D,616.0,327.0,788.77,188.19,600.58
+2015,2,57,Washington,Jonas Siegenthaler,D,443.0,79.0,501.38,190.92,310.46
+2015,2,58,Columbus,Kevin Stenlund,C,362.0,90.0,558.68,444.78,113.9
+2015,2,59,Anaheim,Julius Nattinen,L,0.0,0.0,0.0,211.93,-211.93
+2015,2,60,Calgary,Oliver Kylington,D,220.0,60.0,357.4,234.56,122.84
+2015,2,61,Toronto,Jeremy Bracco,R,0.0,0.0,0.0,216.97,-216.97
+2015,3,62,NY Rangers,Robin Kovacs,R,0.0,0.0,0.0,173.49,-173.49
+2015,3,63,Arizona,Kyle Capobianco,D,106.0,17.0,144.93,172.63,-27.7
+2015,3,64,Tampa Bay,Dennis Yan,L,0.0,0.0,0.0,173.7,-173.7
+2015,3,65,Toronto,Andrew Nielsen,D,0.0,0.0,0.0,168.53,-168.53
+2015,3,66,Vancouver,Guillaume Brisebois,D,30.0,3.0,36.87,328.9,-292.03
+2015,3,67,New Jersey,Blake Speers,C,5.0,0.0,5.0,250.37,-245.37
+2015,3,68,Toronto,Martins Dzierkals,R,0.0,0.0,0.0,88.6,-88.6
+2015,3,69,Columbus,Keegan Kolesar,R,434.0,120.0,581.41,193.85,387.56
+2015,3,71,Colorado,Jean-Christophe Beaudin,C,22.0,1.0,24.29,205.51,-181.22
+2015,3,72,Tampa Bay,Anthony Cirelli,C,579.0,344.0,840.36,103.59,736.77
+2015,3,73,Detroit,Vili Saarijarvi,D,0.0,0.0,0.0,70.83,-70.83
+2015,3,74,Los Angeles,Alexander Dergachyov,C,0.0,0.0,0.0,127.04,-127.04
+2015,3,78,Winnipeg,Erik Foley,L,0.0,0.0,0.0,209.4,-209.4
+2015,3,79,NY Rangers,Sergey Zborovskiy,D,0.0,0.0,0.0,284.79,-284.79
+2015,3,80,Anaheim,Brent Gates,C,0.0,0.0,0.0,199.44,-199.44
+2015,3,81,Arizona,Brendan Warren,L,0.0,0.0,0.0,69.86,-69.86
+2015,3,82,NY Islanders,Mitchell Vande Sompel,D,0.0,0.0,0.0,233.08,-233.08
+2015,3,83,Arizona,Jens Looke,R,0.0,0.0,0.0,74.99,-74.99
+2015,3,84,Anaheim,Deven Sideroff,R,0.0,0.0,0.0,75.03,-75.03
+2015,3,85,Nashville,Thomas Novak,C,280.0,156.0,637.24,208.88,428.36
+2015,3,87,Montreal,Lukas Vejdemo,C,13.0,2.0,17.58,24.71,-7.13
+2015,3,88,Florida,Thomas Schemitsch,D,0.0,0.0,0.0,71.24,-71.24
+2015,3,89,NY Rangers,Aleksi Saarela,C,9.0,4.0,18.16,169.19,-151.03
+2015,3,91,Chicago,Dennis Gilbert,D,117.0,21.0,165.09,43.48,121.61
+2015,4,92,Buffalo,Will Borgen,D,368.0,83.0,539.87,73.63,466.24
+2015,4,94,St. Louis,Adam Musil,C,0.0,0.0,0.0,55.6,-55.6
+2015,4,95,Toronto,Jesper Lindgren,D,0.0,0.0,0.0,153.51,-153.51
+2015,4,96,Carolina,Nicolas Roy,C,437.0,189.0,708.59,162.42,546.17
+2015,4,97,New Jersey,Colton White,D,107.0,14.0,139.06,98.79,40.27
+2015,4,98,Philadelphia,Samuel Dove-McFalls,C,0.0,0.0,0.0,132.71,-132.71
+2015,4,99,Los Angeles,Austin Wagner,L,178.0,42.0,274.18,162.96,111.22
+2015,4,100,Nashville,Anthony Richard,C,39.0,14.0,71.06,122.58,-51.52
+2015,4,101,Colorado,Andrei Mironov,D,10.0,3.0,16.87,145.54,-128.67
+2015,4,102,Florida,Denis Malgin,C,257.0,81.0,442.49,98.82,343.67
+2015,4,103,Dallas,Chris Martenet,D,0.0,0.0,0.0,55.35,-55.35
+2015,4,104,Philadelphia,Mikhail Vorobyov,C,35.0,5.0,46.45,277.95,-231.5
+2015,4,105,Boston,Jesse Gabrielle,L,0.0,0.0,0.0,156.76,-156.76
+2015,4,106,San Jose,Adam Helewka,L,0.0,0.0,0.0,259.74,-259.74
+2015,4,107,Ottawa,Christian Wolanin,D,86.0,23.0,138.67,58.85,79.82
+2015,4,108,Winnipeg,Michael Spacek,C,0.0,0.0,0.0,145.03,-145.03
+2015,4,109,Ottawa,Filip Ahl,L,0.0,0.0,0.0,86.99,-86.99
+2015,4,112,NY Islanders,Parker Wotherspoon,D,185.0,45.0,288.05,226.92,61.13
+2015,4,113,NY Rangers,Brad Morrison,C,0.0,0.0,0.0,102.82,-102.82
+2015,4,114,Vancouver,Dmitry Zhukenov,C,0.0,0.0,0.0,154.84,-154.84
+2015,4,115,Nashville,Alexandre Carrier,D,369.0,109.0,596.82,2.08,594.74
+2015,4,116,St. Louis,Glenn Gawdin,C,13.0,1.0,15.29,90.29,-75.0
+2015,4,117,Edmonton,Caleb Jones,D,255.0,56.0,383.24,218.1,165.14
+2015,4,118,Tampa Bay,Jonne Tammela,C,0.0,0.0,0.0,99.56,-99.56
+2015,4,119,NY Rangers,Daniel Bernhardt,R,0.0,0.0,0.0,84.34,-84.34
+2015,4,120,Tampa Bay,Mathieu Joseph,R,467.0,160.0,635.31,113.93,521.38
+2015,4,121,Chicago,Ryan Shea,D,146.0,37.0,230.73,271.45,-40.72
+2015,5,122,Buffalo,Devante Stephens,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,123,Arizona,Conor Garland,R,551.0,324.0,835.38,96.27,739.11
+2015,5,124,Edmonton,Ethan Bear,D,275.0,67.0,428.43,97.42,331.01
+2015,5,125,Toronto,Dmytro Timashov,L,45.0,9.0,65.61,98.45,-32.84
+2015,5,126,Carolina,Luke Stevens,L,0.0,0.0,0.0,98.64,-98.64
+2015,5,127,St. Louis,Niko Mikkola,D,396.0,73.0,506.28,97.2,409.08
+2015,5,128,Philadelphia,David Kase,R,7.0,1.0,9.29,98.61,-89.32
+2015,5,129,Columbus,Sam Ruopp,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,130,San Jose,Karlis Cukste,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,131,Montreal,Matt Bradley,C,0.0,0.0,0.0,98.64,-98.64
+2015,5,132,Florida,Karch Bachman,L,0.0,0.0,0.0,98.64,-98.64
+2015,5,133,Dallas,Joseph Cecconi,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,134,Los Angeles,Matt Schmalz,R,0.0,0.0,0.0,98.64,-98.64
+2015,5,135,Minnesota,Kirill Kaprizov,L,393.0,470.0,1330.97,94.86,1236.11
+2015,5,136,Calgary,Pavel Karnaukhov,L,0.0,0.0,0.0,98.64,-98.64
+2015,5,137,Pittsburgh,Dominik Simon,C,256.0,77.0,432.33,97.41,334.92
+2015,5,138,Carolina,Spencer Smallman,R,0.0,0.0,0.0,98.64,-98.64
+2015,5,139,Ottawa,Christian Jaros,D,94.0,14.0,126.06,98.28,27.78
+2015,5,140,Detroit,Chase Pearson,C,3.0,0.0,3.0,98.63,-95.63
+2015,5,141,Columbus,Veeti Vainio,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,142,San Jose,Rudolfs Balcers,L,170.0,62.0,311.98,97.75,214.23
+2015,5,143,Washington,Connor Hobbs,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,144,Vancouver,Carl Neill,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,147,NY Islanders,Ryan Pilon,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,148,Anaheim,Troy Terry,R,483.0,339.0,928.19,96.0,832.19
+2015,5,149,Vancouver,Adam Gaudette,R,363.0,121.0,627.75,96.86,530.89
+2015,5,150,Tampa Bay,Ryan Zuhlsdorf,D,0.0,0.0,0.0,98.64,-98.64
+2015,5,151,Chicago,Radovan Bondra,R,0.0,0.0,0.0,98.64,-98.64
+2015,6,152,Buffalo,Giorgio Estephan,C,0.0,0.0,0.0,83.45,-83.45
+2015,6,154,Edmonton,John Marino,D,439.0,155.0,643.84,81.56,562.28
+2015,6,155,Toronto,Stephen Desrocher,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,156,Carolina,Jake Massie,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,157,New Jersey,Brett Seney,L,66.0,14.0,98.06,83.16,14.9
+2015,6,158,Philadelphia,Cooper Marody,C,7.0,1.0,9.29,83.43,-74.14
+2015,6,159,Columbus,Vladislav Gavrikov,D,512.0,168.0,623.5,81.62,541.88
+2015,6,160,San Jose,Adam Parsells,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,161,Colorado,Sergei Boikov,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,162,Florida,Chris Wilkie,R,0.0,0.0,0.0,83.45,-83.45
+2015,6,164,Chicago,Roy Radke,R,0.0,0.0,0.0,83.45,-83.45
+2015,6,165,Boston,Cameron Hughes,C,3.0,0.0,3.0,83.44,-80.44
+2015,6,166,Calgary,Andrew Mangiapane,L,557.0,259.0,735.08,81.3,653.78
+2015,6,167,Pittsburgh,Frederik Tiffels,F,0.0,0.0,0.0,83.45,-83.45
+2015,6,168,Winnipeg,Mason Appleton,C,465.0,152.0,622.49,81.63,540.86
+2015,6,169,Carolina,David Cotton,C,0.0,0.0,0.0,83.45,-83.45
+2015,6,170,Detroit,Patrick Holway,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,171,Minnesota,Nick Boka,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,172,NY Islanders,AnDong Song,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,173,Washington,Colby Williams,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,174,Vancouver,Lukas Jasek,C,0.0,0.0,0.0,83.45,-83.45
+2015,6,175,Nashville,Tyler Moy,F,0.0,0.0,0.0,83.45,-83.45
+2015,6,176,St. Louis,Liam Dunda,R,0.0,0.0,0.0,83.45,-83.45
+2015,6,177,Montreal,Simon Bourque,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,178,Anaheim,Steven Ruggiero,D,0.0,0.0,0.0,83.45,-83.45
+2015,6,180,Tampa Bay,Bokondji Imama,L,33.0,2.0,37.58,83.34,-45.76
+2015,6,181,Chicago,Joni Tuulola,D,0.0,0.0,0.0,83.45,-83.45
+2015,7,182,Buffalo,Ivan Chukarov,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,185,Toronto,Nikita Korostelev,R,0.0,0.0,0.0,60.62,-60.62
+2015,7,186,Carolina,Steven Lorentz,C,376.0,78.0,525.12,59.14,465.98
+2015,7,187,Los Angeles,Chaz Reddekopp,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,189,Columbus,Markus Nutivaara,D,275.0,71.0,437.59,59.38,378.21
+2015,7,190,San Jose,Marcus Vela,C,0.0,0.0,0.0,60.62,-60.62
+2015,7,191,Colorado,Gustav Olhaver,C,0.0,0.0,0.0,60.62,-60.62
+2015,7,192,Florida,Patrick Shea,C,0.0,0.0,0.0,60.62,-60.62
+2015,7,194,Los Angeles,Matt Roy,D,512.0,149.0,593.25,58.94,534.31
+2015,7,195,Boston,Jack Becker,C,0.0,0.0,0.0,60.62,-60.62
+2015,7,196,Calgary,Riley Bruce,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,197,Pittsburgh,Nikita Pavlychev,C,0.0,0.0,0.0,60.62,-60.62
+2015,7,198,Winnipeg,Sami Niku,D,67.0,16.0,103.64,60.33,43.31
+2015,7,200,Detroit,Adam Marsh,L,0.0,0.0,0.0,60.62,-60.62
+2015,7,201,Minnesota,Gustav Bouramman,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,202,NY Islanders,Petter Hansson,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,203,Winnipeg,Matteo Gennaro,C,0.0,0.0,0.0,60.62,-60.62
+2015,7,204,Minnesota,Jack Sadek,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,207,Montreal,Jeremiah Addison,L,0.0,0.0,0.0,60.62,-60.62
+2015,7,209,Edmonton,Ziyat Paigin,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,210,Vancouver,Tate Olson,D,0.0,0.0,0.0,60.62,-60.62
+2015,7,211,Chicago,John Dahlstrom,R,0.0,0.0,0.0,60.62,-60.62
+2016,1,1,Toronto,Auston Matthews,C,689.0,780.0,1278.91,1072.0,206.91
+2016,1,2,Winnipeg,Patrik Laine,L,537.0,422.0,996.65,883.1,113.55
+2016,1,3,Columbus,Pierre-Luc Dubois,L,623.0,425.0,912.14,858.67,53.47
+2016,1,4,Edmonton,Jesse Puljujarvi,R,387.0,128.0,625.64,803.32,-177.67
+2016,1,5,Vancouver,Olli Juolevi,D,41.0,3.0,47.87,742.88,-695.01
+2016,1,6,Calgary,Matthew Tkachuk,L,671.0,668.0,1167.6,679.07,488.53
+2016,1,7,Arizona,Clayton Keller,R,677.0,586.0,1061.66,718.76,342.9
+2016,1,8,Buffalo,Alex Nylander,L,126.0,49.0,238.21,625.08,-386.87
+2016,1,9,Montreal,Mikhail Sergachev,D,624.0,365.0,832.86,737.98,94.88
+2016,1,10,Colorado,Tyson Jost,C,558.0,164.0,595.6,566.76,28.84
+2016,1,11,Ottawa,Logan Brown,C,99.0,26.0,158.54,612.98,-454.44
+2016,1,12,New Jersey,Michael McLeod,C,287.0,85.0,481.65,630.4,-148.75
+2016,1,13,Carolina,Jake Bean,D,277.0,65.0,425.85,506.25,-80.4
+2016,1,14,Boston,Charlie McAvoy,D,569.0,358.0,868.93,506.15,362.78
+2016,1,15,Minnesota,Luke Kunin,C,491.0,147.0,600.07,526.57,73.5
+2016,1,16,Arizona,Jakob Chychrun,D,616.0,322.0,782.15,550.38,231.77
+2016,1,17,Nashville,Dante Fabbro,D,446.0,108.0,553.41,542.94,10.47
+2016,1,18,Winnipeg,Logan Stanley,D,274.0,59.0,409.11,481.78,-72.67
+2016,1,19,NY Islanders,Kieffer Bellows,L,114.0,32.0,187.28,469.29,-282.01
+2016,1,20,Detroit,Dennis Cholowski,D,171.0,41.0,264.89,533.61,-268.72
+2016,1,21,Carolina,Julien Gauthier,R,181.0,41.0,274.89,482.82,-207.93
+2016,1,22,Philadelphia,German Rubtsov,C,4.0,0.0,4.0,505.15,-501.15
+2016,1,23,Florida,Henrik Borgstrom,C,111.0,26.0,170.54,384.37,-213.83
+2016,1,24,Anaheim,Max Jones,L,302.0,69.0,460.01,503.78,-43.77
+2016,1,25,Dallas,Riley Tufte,L,28.0,4.0,37.16,418.87,-381.71
+2016,1,26,St. Louis,Tage Thompson,C,525.0,403.0,981.79,577.36,404.43
+2016,1,27,Tampa Bay,Brett Howden,C,484.0,162.0,628.87,327.95,300.92
+2016,1,28,Washington,Lucas Johansen,D,9.0,2.0,13.58,335.53,-321.95
+2016,1,29,Boston,Trent Frederic,C,407.0,115.0,586.35,300.35,286.0
+2016,1,30,Anaheim,Sam Steel,C,490.0,175.0,647.16,403.66,243.5
+2016,2,31,Toronto,Egor Korshkov,L,1.0,1.0,3.29,186.21,-182.92
+2016,2,32,Edmonton,Tyler Benson,L,38.0,3.0,44.87,161.94,-117.07
+2016,2,33,Buffalo,Rasmus Asplund,C,189.0,49.0,301.21,313.3,-12.09
+2016,2,34,Columbus,Andrew Peeke,D,381.0,75.0,516.48,219.48,297.0
+2016,2,35,St. Louis,Jordan Kyrou,R,481.0,373.0,988.19,277.06,711.13
+2016,2,36,Philadelphia,Pascal Laberge,C,0.0,0.0,0.0,230.38,-230.38
+2016,2,37,Tampa Bay,Libor Hajek,D,110.0,12.0,137.48,233.7,-96.22
+2016,2,38,Florida,Adam Mascherin,L,0.0,0.0,0.0,345.77,-345.77
+2016,2,39,Chicago,Alex DeBrincat,R,690.0,590.0,1053.09,295.62,757.46
+2016,2,40,Colorado,Cameron Morrison,L,0.0,0.0,0.0,100.03,-100.03
+2016,2,41,New Jersey,Nathan Bastian,R,312.0,75.0,483.75,167.48,316.27
+2016,2,42,Ottawa,Jonathan Dahlen,C,61.0,22.0,111.38,315.87,-204.49
+2016,2,43,Carolina,Janne Kuokkanen,C,119.0,42.0,215.18,311.5,-96.32
+2016,2,44,Tampa Bay,Boris Katchouk,L,179.0,36.0,261.44,286.68,-25.24
+2016,2,45,Chicago,Chad Krys,D,0.0,0.0,0.0,325.37,-325.37
+2016,2,46,Detroit,Givani Smith,R,168.0,22.0,218.38,178.81,39.57
+2016,2,47,Nashville,Samuel Girard,D,604.0,241.0,681.29,290.4,390.89
+2016,2,49,Boston,Ryan Lindgren,D,476.0,111.0,546.11,221.03,325.08
+2016,2,50,Chicago,Artur Kayumov,L,0.0,0.0,0.0,222.67,-222.67
+2016,2,51,Los Angeles,Kale Clague,D,94.0,21.0,142.09,249.91,-107.82
+2016,2,52,Philadelphia,Wade Allison,R,75.0,22.0,125.38,198.07,-72.69
+2016,2,53,Detroit,Filip Hronek,D,527.0,284.0,795.33,214.97,580.36
+2016,2,56,Calgary,Dillon Dube,C,325.0,127.0,615.83,202.6,413.23
+2016,2,57,Toronto,Carl Grundstrom,R,337.0,89.0,540.81,187.64,353.17
+2016,2,58,Tampa Bay,Taylor Raddysh,R,372.0,119.0,616.79,439.5,177.29
+2016,2,60,San Jose,Dylan Gambrell,C,233.0,40.0,324.6,237.3,87.3
+2016,2,61,Pittsburgh,Kasper Bjorkqvist,R,6.0,1.0,8.29,216.14,-207.85
+2016,3,63,Edmonton,Markus Niemelainen,D,43.0,1.0,45.29,181.68,-136.39
+2016,3,64,Vancouver,William Lockwood,R,54.0,2.0,58.58,168.37,-109.79
+2016,3,65,Columbus,Vitaly Abramov,L,5.0,1.0,7.29,167.87,-160.58
+2016,3,66,Calgary,Adam Fox,D,481.0,416.0,1061.07,243.55,817.52
+2016,3,67,Carolina,Matt Filipe,L,0.0,0.0,0.0,250.79,-250.79
+2016,3,68,Arizona,Cam Dineen,D,38.0,7.0,54.03,84.1,-30.07
+2016,3,69,Buffalo,Cliff Pu,R,0.0,0.0,0.0,258.45,-258.45
+2016,3,70,Montreal,Will Bitten,C,4.0,1.0,6.29,54.51,-48.22
+2016,3,71,Colorado,Josh Anderson,D,0.0,0.0,0.0,207.72,-207.72
+2016,3,72,Toronto,J.D. Greenway,D,0.0,0.0,0.0,187.62,-187.62
+2016,3,73,New Jersey,Joey Anderson,R,169.0,40.0,260.6,49.11,211.49
+2016,3,74,Carolina,Hudson Elynuik,C,0.0,0.0,0.0,127.04,-127.04
+2016,3,76,Nashville,Rem Pitlick,C,132.0,54.0,255.66,40.16,215.5
+2016,3,77,Pittsburgh,Connor Hall,D,0.0,0.0,0.0,321.95,-321.95
+2016,3,78,Nashville,Frederic Allard,D,4.0,0.0,4.0,208.95,-204.95
+2016,3,79,Winnipeg,Luke Green,D,0.0,0.0,0.0,284.79,-284.79
+2016,3,80,New Jersey,Brandon Gignac,C,8.0,1.0,10.29,198.41,-188.12
+2016,3,81,NY Rangers,Sean Day,D,2.0,0.0,2.0,69.68,-67.68
+2016,3,82,Philadelphia,Carsen Twarynski,L,22.0,1.0,24.29,231.06,-206.77
+2016,3,84,Edmonton,Matthew Cairns,D,0.0,0.0,0.0,75.03,-75.03
+2016,3,85,Anaheim,Josh Mahura,D,276.0,57.0,406.53,229.85,176.68
+2016,3,86,Buffalo,Casey Fitzgerald,D,63.0,9.0,83.61,190.97,-107.36
+2016,3,87,Washington,Garrett Pilon,C,3.0,1.0,5.29,25.83,-20.54
+2016,3,89,Florida,Linus Nassen,D,0.0,0.0,0.0,170.7,-170.7
+2016,3,90,Dallas,Fredrik Karlstrom,C,8.0,1.0,10.29,112.69,-102.4
+2016,3,91,Edmonton,Filip Berglund,D,0.0,0.0,0.0,59.98,-59.98
+2016,4,92,Toronto,Adam Brooks,C,43.0,11.0,68.19,126.04,-57.85
+2016,4,93,Anaheim,Jack Kopacka,L,0.0,0.0,0.0,108.48,-108.48
+2016,4,94,Florida,Jonathan Ang,C,0.0,0.0,0.0,55.6,-55.6
+2016,4,95,NY Islanders,Anatoly Golyshev,L,0.0,0.0,0.0,153.51,-153.51
+2016,4,96,Calgary,Linus Lindstrom,C,0.0,0.0,0.0,233.28,-233.28
+2016,4,97,Winnipeg,Jacob Cederholm,D,0.0,0.0,0.0,110.38,-110.38
+2016,4,98,NY Rangers,Tarmo Reunanen,D,4.0,1.0,6.29,132.13,-125.84
+2016,4,99,Buffalo,Brett Murray,L,26.0,6.0,39.74,186.4,-146.66
+2016,4,100,Montreal,Victor Mete,D,248.0,45.0,351.05,99.25,251.8
+2016,4,101,Toronto,Keaton Middleton,D,47.0,3.0,53.87,142.45,-88.58
+2016,4,102,New Jersey,Mikhail Maltsev,L,56.0,9.0,76.61,132.08,-55.47
+2016,4,103,Ottawa,Todd Burgess,R,0.0,0.0,0.0,55.35,-55.35
+2016,4,104,Carolina,Max Zimmer,L,0.0,0.0,0.0,282.17,-282.17
+2016,4,106,Minnesota,Brandon Duhaime,R,370.0,70.0,510.23,203.05,307.18
+2016,4,107,Detroit,Alfons Malmstrom,D,0.0,0.0,0.0,71.46,-71.46
+2016,4,108,Nashville,Hardy Haman Aktell,D,6.0,1.0,8.29,144.27,-135.98
+2016,4,109,Philadelphia,Connor Bunnaman,C,54.0,3.0,60.87,80.91,-20.04
+2016,4,110,Chicago,Lucas Carlsson,D,73.0,15.0,107.35,208.74,-101.39
+2016,4,111,San Jose,Noah Gregor,L,324.0,77.0,500.33,112.39,387.94
+2016,4,112,Los Angeles,Jacob Moverare,D,109.0,11.0,134.19,242.3,-108.11
+2016,4,113,Chicago,Nathan Noel,C,0.0,0.0,0.0,102.82,-102.82
+2016,4,114,Florida,Riley Stillman,D,167.0,26.0,226.54,132.18,94.36
+2016,4,115,Anaheim,Alex Dostie,C,0.0,0.0,0.0,56.34,-56.34
+2016,4,116,Dallas,Rhett Gardner,C,41.0,2.0,45.58,87.54,-41.96
+2016,4,117,Washington,Damien Riat,R,0.0,0.0,0.0,260.68,-260.68
+2016,4,118,Tampa Bay,Ross Colton,C,397.0,176.0,717.42,27.82,689.6
+2016,4,119,St. Louis,Tanner Kaspick,C,0.0,0.0,0.0,84.34,-84.34
+2016,4,120,NY Islanders,Otto Koivula,L,28.0,4.0,37.16,168.31,-131.15
+2016,4,121,Pittsburgh,Ryan Jones,D,0.0,0.0,0.0,297.09,-297.09
+2016,5,122,Toronto,Vladimir Bobylev,L,0.0,0.0,0.0,98.64,-98.64
+2016,5,124,Montreal,Casey Staum,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,125,St. Louis,Nolan Stevens,C,0.0,0.0,0.0,98.64,-98.64
+2016,5,126,Calgary,Mitchell Mattson,C,0.0,0.0,0.0,98.64,-98.64
+2016,5,127,Winnipeg,Jordan Stallard,C,0.0,0.0,0.0,98.64,-98.64
+2016,5,129,Buffalo,Philip Nyberg,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,130,Buffalo,Vojtech Budik,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,132,New Jersey,Yegor Rykov,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,133,Ottawa,Max Lajoie,D,77.0,16.0,113.64,98.32,15.32
+2016,5,135,Boston,Joona Koppanen,L,30.0,3.0,36.87,98.54,-61.67
+2016,5,136,Boston,Cameron Clarke,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,137,Detroit,Jordan Sambrook,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,138,Nashville,Patrick Harper,L,0.0,0.0,0.0,98.64,-98.64
+2016,5,139,Philadelphia,Linus Hogberg,D,5.0,2.0,9.58,98.61,-89.03
+2016,5,140,Vancouver,Cole Candella,D,0.0,0.0,0.0,98.64,-98.64
+2016,5,141,NY Rangers,Tim Gettinger,L,16.0,1.0,18.29,98.59,-80.3
+2016,5,142,Los Angeles,Michael Eyssimont,C,266.0,74.0,435.46,97.4,338.06
+2016,5,143,Chicago,Mathias From,L,0.0,0.0,0.0,98.64,-98.64
+2016,5,144,St. Louis,Conner Bleackley,C,0.0,0.0,0.0,98.64,-98.64
+2016,5,145,Washington,Beck Malenstyn,L,257.0,48.0,366.92,97.6,269.32
+2016,5,146,Dallas,Nicholas Caamano,R,36.0,3.0,42.87,98.52,-55.65
+2016,5,147,Washington,Axel Jonsson-Fjallby,L,99.0,23.0,151.67,98.21,53.46
+2016,5,148,Tampa Bay,Christopher Paquette,C,0.0,0.0,0.0,98.64,-98.64
+2016,5,149,Edmonton,Graham McPhee,L,0.0,0.0,0.0,98.64,-98.64
+2016,5,150,San Jose,Manuel Wiederer,R,0.0,0.0,0.0,98.64,-98.64
+2016,5,151,Pittsburgh,Niclas Almari,D,0.0,0.0,0.0,98.64,-98.64
+2016,6,152,Toronto,Jack Walker,L,0.0,0.0,0.0,83.45,-83.45
+2016,6,153,Edmonton,Aapeli Rasanen,C,0.0,0.0,0.0,83.45,-83.45
+2016,6,154,Vancouver,Jakob Stukel,L,0.0,0.0,0.0,83.45,-83.45
+2016,6,156,Calgary,Eetu Tuulola,R,0.0,0.0,0.0,83.45,-83.45
+2016,6,158,Arizona,Patrick Kudla,D,0.0,0.0,0.0,83.45,-83.45
+2016,6,159,Buffalo,Brandon Hagel,L,444.0,370.0,1035.37,80.42,954.95
+2016,6,160,Montreal,Michael Pezzetta,L,206.0,38.0,293.02,82.59,210.43
+2016,6,161,Colorado,Nathan Clurman,D,1.0,0.0,1.0,83.45,-82.45
+2016,6,162,New Jersey,Jesper Bratt,L,628.0,514.0,1023.25,80.45,942.8
+2016,6,163,Ottawa,Markus Nurmi,R,0.0,0.0,0.0,83.45,-83.45
+2016,6,164,Carolina,Noah Carroll,D,0.0,0.0,0.0,83.45,-83.45
+2016,6,165,Boston,Oskar Steen,C,60.0,8.0,78.32,83.22,-4.9
+2016,6,166,Calgary,Matthew Phillips,R,34.0,5.0,45.45,83.32,-37.87
+2016,6,169,Philadelphia,Tanner Laczynski,C,56.0,10.0,78.9,83.22,-4.32
+2016,6,170,NY Islanders,Collin Adams,L,0.0,0.0,0.0,83.45,-83.45
+2016,6,171,NY Rangers,Gabriel Fontaine,C,0.0,0.0,0.0,83.45,-83.45
+2016,6,172,Philadelphia,Anthony Salinitri,L,0.0,0.0,0.0,83.45,-83.45
+2016,6,173,Chicago,Blake Hillman,D,4.0,1.0,6.29,83.43,-77.14
+2016,6,175,Florida,Maxim Mamin,C,73.0,18.0,114.22,83.12,31.1
+2016,6,176,Dallas,Jakob Stenqvist,D,0.0,0.0,0.0,83.45,-83.45
+2016,6,177,Washington,Chase Priskie,D,4.0,0.0,4.0,83.44,-79.44
+2016,6,178,Tampa Bay,Oleg Sosunov,D,0.0,0.0,0.0,83.45,-83.45
+2016,6,179,Toronto,Nicolas Mattinen,D,0.0,0.0,0.0,83.45,-83.45
+2016,6,180,San Jose,Mark Shoemaker,D,0.0,0.0,0.0,83.45,-83.45
+2016,6,181,Pittsburgh,Joe Masonius,D,0.0,0.0,0.0,83.45,-83.45
+2016,7,182,Toronto,Nikolai Chebykin,L,0.0,0.0,0.0,60.62,-60.62
+2016,7,183,Edmonton,Vincent Desharnais,D,212.0,26.0,271.54,59.85,211.69
+2016,7,184,Vancouver,Rodrigo Abols,C,64.0,15.0,98.35,60.34,38.01
+2016,7,185,Columbus,Calvin Thurkauf,C,3.0,0.0,3.0,60.61,-57.61
+2016,7,186,Calgary,Stepan Falkovsky,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,187,Montreal,Arvid Henrikson,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,188,Arizona,Dean Stewart,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,189,Buffalo,Austin Osmanski,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,190,Buffalo,Vasili Glotov,C,0.0,0.0,0.0,60.62,-60.62
+2016,7,191,Colorado,Travis Barron,L,0.0,0.0,0.0,60.62,-60.62
+2016,7,192,New Jersey,Jeremy Davies,D,23.0,3.0,29.87,60.53,-30.66
+2016,7,193,NY Islanders,Nick Pastujov,L,0.0,0.0,0.0,60.62,-60.62
+2016,7,194,Vancouver,Brett McKenzie,L,0.0,0.0,0.0,60.62,-60.62
+2016,7,195,Florida,Benjamin Finkelstein,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,196,Minnesota,Dmitry Sokolov,R,0.0,0.0,0.0,60.62,-60.62
+2016,7,197,Detroit,Mattias Elfstrom,L,0.0,0.0,0.0,60.62,-60.62
+2016,7,198,Nashville,Adam Smith,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,199,Philadelphia,David Bernhardt,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,200,NY Islanders,David Quenneville,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,201,NY Rangers,Ty Ronning,R,0.0,0.0,0.0,60.62,-60.62
+2016,7,202,Los Angeles,Jacob Friend,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,203,Chicago,Jake Ryczek,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,204,Minnesota,Braydyn Chizen,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,205,Anaheim,Tyler Soy,C,0.0,0.0,0.0,60.62,-60.62
+2016,7,206,Tampa Bay,Otto Somppi,C,0.0,0.0,0.0,60.62,-60.62
+2016,7,207,Washington,Dmitriy Zaitsev,D,0.0,0.0,0.0,60.62,-60.62
+2016,7,208,Tampa Bay,Ryan Lohin,C,0.0,0.0,0.0,60.62,-60.62
+2016,7,209,St. Louis,Nikolaj Krag-Christensen,C,0.0,0.0,0.0,60.62,-60.62
+2016,7,210,San Jose,Joachim Blichfeld,L,8.0,1.0,10.29,60.59,-50.3
+2016,7,211,St. Louis,Filip Helt,L,0.0,0.0,0.0,60.62,-60.62
+2017,1,1,New Jersey,Nico Hischier,C,603.0,484.0,1010.36,1094.38,-84.02
+2017,1,2,Philadelphia,Nolan Patrick,C,222.0,77.0,398.33,932.96,-534.63
+2017,1,3,Dallas,Miro Heiskanen,D,550.0,345.0,867.38,862.4,4.98
+2017,1,4,Colorado,Cale Makar,D,468.0,503.0,1232.21,752.77,479.44
+2017,1,5,Vancouver,Elias Pettersson,C,539.0,505.0,1119.81,645.43,474.38
+2017,1,6,Vegas,Cody Glass,C,316.0,116.0,581.64,727.9,-146.26
+2017,1,7,NY Rangers,Lias Andersson,C,110.0,17.0,148.93,794.82,-645.9
+2017,1,8,Buffalo,Casey Mittelstadt,C,505.0,277.0,803.17,578.0,225.17
+2017,1,9,Detroit,Michael Rasmussen,C,452.0,154.0,633.76,754.58,-120.82
+2017,1,10,Florida,Owen Tippett,R,423.0,235.0,808.91,548.99,259.92
+2017,1,11,Los Angeles,Gabriel Vilardi,C,346.0,237.0,888.73,539.96,348.77
+2017,1,12,Carolina,Martin Necas,C,513.0,420.0,1023.45,585.25,438.2
+2017,1,13,Vegas,Nick Suzuki,C,531.0,470.0,1077.59,451.94,625.65
+2017,1,14,Tampa Bay,Cal Foote,D,145.0,20.0,190.8,562.66,-371.86
+2017,1,15,Vegas,Erik Brannstrom,D,294.0,77.0,470.33,538.36,-68.03
+2017,1,16,Calgary,Juuso Valimaki,D,271.0,72.0,435.88,579.23,-143.35
+2017,1,17,Toronto,Timothy Liljegren,D,310.0,93.0,522.97,545.48,-22.51
+2017,1,18,Boston,Urho Vaakanainen,D,220.0,46.0,325.34,489.4,-164.06
+2017,1,19,San Jose,Josh Norris,C,278.0,186.0,703.94,422.32,281.62
+2017,1,20,St. Louis,Robert Thomas,C,523.0,449.0,1055.89,467.69,588.2
+2017,1,21,NY Rangers,Filip Chytil,C,405.0,173.0,704.24,443.79,260.45
+2017,1,22,Edmonton,Kailer Yamamoto,R,368.0,158.0,706.02,441.33,264.69
+2017,1,23,Arizona,Pierre-Olivier Joseph,D,224.0,46.0,329.34,369.93,-40.59
+2017,1,24,Winnipeg,Kristian Vesalainen,L,70.0,5.0,81.45,538.2,-456.75
+2017,1,25,Montreal,Ryan Poehling,C,353.0,129.0,648.41,367.93,280.48
+2017,1,27,Philadelphia,Morgan Frost,C,386.0,188.0,753.06,316.66,436.4
+2017,1,28,Ottawa,Shane Bowers,C,13.0,0.0,13.0,335.58,-322.58
+2017,1,29,Chicago,Henri Jokiharju,D,447.0,110.0,556.62,302.83,253.79
+2017,1,30,Nashville,Eeli Tolvanen,R,417.0,190.0,727.45,396.36,331.09
+2017,1,31,St. Louis,Klim Kostin,C,190.0,53.0,311.37,151.98,159.39
+2017,2,32,Colorado,Conor Timmins,D,195.0,53.0,316.37,137.26,179.11
+2017,2,33,Vancouver,Kole Lind,R,31.0,8.0,49.32,334.29,-284.97
+2017,2,34,Vegas,Nicolas Hague,D,426.0,98.0,543.54,216.47,327.07
+2017,2,35,Philadelphia,Isaac Ratcliffe,L,10.0,4.0,19.16,357.81,-338.65
+2017,2,36,New Jersey,Jesper Boqvist,C,381.0,103.0,576.39,166.33,410.06
+2017,2,37,Buffalo,Marcus Davidsson,C,0.0,0.0,0.0,246.2,-246.2
+2017,2,38,Detroit,Gustav Lindstrom,D,174.0,35.0,254.15,320.36,-66.21
+2017,2,39,Dallas,Jason Robertson,L,451.0,483.0,1229.08,278.03,951.05
+2017,2,40,Florida,Aleksi Heponiemi,C,25.0,6.0,38.74,96.8,-58.06
+2017,2,41,Los Angeles,Jaret Anderson-Dolan,C,134.0,29.0,200.41,193.24,7.17
+2017,2,42,Carolina,Eetu Luostarinen,C,441.0,156.0,644.38,267.41,376.97
+2017,2,43,Winnipeg,Dylan Samberg,D,276.0,65.0,424.85,294.02,130.83
+2017,2,44,Arizona,Filip Westerlund,D,0.0,0.0,0.0,310.45,-310.45
+2017,2,45,Columbus,Alexandre Texier,L,278.0,110.0,529.9,277.2,252.7
+2017,2,46,NY Islanders,Robin Salo,D,32.0,9.0,52.61,195.39,-142.78
+2017,2,47,Ottawa,Alex Formenton,L,109.0,39.0,198.31,330.64,-132.33
+2017,2,48,Tampa Bay,Alexander Volkov,R,46.0,14.0,78.06,81.88,-3.82
+2017,2,49,San Jose,Mario Ferraro,D,483.0,112.0,545.04,221.15,323.89
+2017,2,50,Anaheim,Maxime Comtois,L,211.0,87.0,410.23,188.48,221.75
+2017,2,51,Pittsburgh,Zachary Lauzon,D,0.0,0.0,0.0,261.75,-261.75
+2017,2,52,Carolina,Luke Martin,D,0.0,0.0,0.0,208.52,-208.52
+2017,2,53,Boston,Jack Studnicka,C,126.0,16.0,162.64,267.7,-105.06
+2017,2,55,Vancouver,Jonah Gadjovich,L,170.0,21.0,218.09,461.87,-243.78
+2017,2,56,Montreal,Josh Brook,D,0.0,0.0,0.0,253.92,-253.92
+2017,2,57,Chicago,Ian Mitchell,D,110.0,19.0,153.51,219.91,-66.4
+2017,2,58,Montreal,Joni Ikonen,C,0.0,0.0,0.0,495.57,-495.57
+2017,2,59,Toronto,Eemeli Rasanen,D,0.0,0.0,0.0,211.93,-211.93
+2017,2,60,Anaheim,Antoine Morand,C,0.0,0.0,0.0,264.35,-264.35
+2017,2,61,Nashville,Grant Mismash,L,0.0,0.0,0.0,216.97,-216.97
+2017,2,62,Vegas,Jake Leschyshyn,C,77.0,6.0,90.74,162.15,-71.41
+2017,3,63,New Jersey,Fabian Zetterlund,L,323.0,143.0,650.47,126.67,523.8
+2017,3,65,Vegas,Jonas Rondbjerg,R,80.0,11.0,105.19,158.97,-53.78
+2017,3,66,Florida,Max Gildon,D,0.0,0.0,0.0,331.97,-331.97
+2017,3,67,Carolina,Morgan Geekie,C,409.0,222.0,798.5,184.24,614.26
+2017,3,68,Montreal,Scott Walford,D,0.0,0.0,0.0,88.6,-88.6
+2017,3,69,Arizona,MacKenzie Entwistle,R,193.0,35.0,273.15,228.1,45.05
+2017,3,70,Chicago,Andrei Altybarmakyan,R,0.0,0.0,0.0,55.14,-55.14
+2017,3,71,Detroit,Kasper Kotkansalo,D,0.0,0.0,0.0,207.72,-207.72
+2017,3,73,Carolina,Stelio Mattheos,R,0.0,0.0,0.0,70.83,-70.83
+2017,3,74,Winnipeg,Johnathan Kovacevic,D,252.0,52.0,371.08,93.3,277.78
+2017,3,75,Arizona,Nate Schnarr,C,0.0,0.0,0.0,243.26,-243.26
+2017,3,76,Tampa Bay,Alexei Lipanov,C,0.0,0.0,0.0,72.12,-72.12
+2017,3,77,NY Islanders,Ben Mirageas,D,0.0,0.0,0.0,321.95,-321.95
+2017,3,79,Detroit,Lane Zablocki,R,0.0,0.0,0.0,284.79,-284.79
+2017,3,81,New Jersey,Reilly Walsh,D,1.0,1.0,3.29,69.57,-66.28
+2017,3,82,Arizona,Cameron Crotty,D,4.0,0.0,4.0,232.75,-228.75
+2017,3,83,Detroit,Zachary Gallant,C,0.0,0.0,0.0,74.99,-74.99
+2017,3,84,Edmonton,Dmitri Samorukov,D,3.0,0.0,3.0,74.73,-71.73
+2017,3,85,Minnesota,Ivan Lodnia,R,0.0,0.0,0.0,266.81,-266.81
+2017,3,87,Montreal,Cale Fleury,D,98.0,6.0,111.74,16.15,95.59
+2017,3,89,Buffalo,Oskari Laaksonen,D,0.0,0.0,0.0,170.7,-170.7
+2017,3,90,Chicago,Evan Barratt,C,0.0,0.0,0.0,113.62,-113.62
+2017,3,91,Anaheim,Jack Badini,F,0.0,0.0,0.0,59.98,-59.98
+2017,3,92,Nashville,David Farrance,D,2.0,0.0,2.0,133.4,-131.4
+2017,3,93,Pittsburgh,Clayton Phillips,D,0.0,0.0,0.0,108.48,-108.48
+2017,4,94,Colorado,Nick Henry,R,0.0,0.0,0.0,55.6,-55.6
+2017,4,95,Vancouver,Jack Rathbone,D,28.0,5.0,39.45,149.56,-110.11
+2017,4,97,Minnesota,Mason Shaw,C,82.0,20.0,127.8,99.73,28.07
+2017,4,98,New Jersey,Nikita Popugaev,L,0.0,0.0,0.0,132.71,-132.71
+2017,4,99,Buffalo,Jacob Bryson,D,299.0,50.0,413.5,149.03,264.47
+2017,4,100,Detroit,Malte Setkov,D,0.0,0.0,0.0,128.5,-128.5
+2017,4,101,Dallas,Liam Hawel,C,0.0,0.0,0.0,146.94,-146.94
+2017,4,102,San Jose,Scott Reedy,C,35.0,9.0,55.61,133.99,-78.38
+2017,4,103,Los Angeles,Michael Anderson,D,419.0,101.0,552.51,9.3,543.21
+2017,4,105,Winnipeg,Santeri Virtanen,C,0.0,0.0,0.0,156.76,-156.76
+2017,4,106,Philadelphia,Matthew Strome,L,0.0,0.0,0.0,259.74,-259.74
+2017,4,107,Philadelphia,Maksim Sushko,R,2.0,0.0,2.0,71.27,-69.27
+2017,4,108,Arizona,Noel Hoefenmayer,D,0.0,0.0,0.0,145.03,-145.03
+2017,4,109,Calgary,Adam Ruzicka,C,117.0,40.0,208.6,66.13,142.47
+2017,4,112,Chicago,Tim Soderlund,L,0.0,0.0,0.0,255.72,-255.72
+2017,4,113,St. Louis,Alexei Toropchenko,R,317.0,68.0,472.72,55.55,417.17
+2017,4,115,Edmonton,Ostap Safin,R,0.0,0.0,0.0,56.34,-56.34
+2017,4,116,Minnesota,Bryce Misley,C,0.0,0.0,0.0,91.68,-91.68
+2017,4,117,Columbus,Emil Bemstrom,C,242.0,75.0,413.75,214.71,199.04
+2017,4,118,Los Angeles,Markus Phillips,D,0.0,0.0,0.0,99.56,-99.56
+2017,4,119,Chicago,Roope Laavainen,D,0.0,0.0,0.0,84.34,-84.34
+2017,4,120,Washington,Tobias Geisser,D,0.0,0.0,0.0,171.69,-171.69
+2017,4,121,Ottawa,Drake Batherson,R,464.0,358.0,985.0,187.64,797.36
+2017,4,122,Anaheim,Kyle Olson,R,0.0,0.0,0.0,0.0,0.0
+2017,4,123,NY Rangers,Brandon Crawley,D,0.0,0.0,0.0,0.0,0.0
+2017,4,124,Toronto,Vladislav Kara,L,0.0,0.0,0.0,10.29,-10.29
+2017,5,125,Colorado,Igor Shvyrev,C,0.0,0.0,0.0,98.64,-98.64
+2017,5,126,Arizona,Michael Karow,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,127,Vegas,Lucas Elvenes,C,0.0,0.0,0.0,98.64,-98.64
+2017,5,128,Arizona,Tyler Steenbergen,C,0.0,0.0,0.0,98.64,-98.64
+2017,5,130,St. Louis,David Noel,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,131,Detroit,Cole Fraser,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,132,Dallas,Jacob Peterson,C,83.0,25.0,140.25,98.24,42.01
+2017,5,133,Florida,Tyler Inamoto,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,134,Los Angeles,Cole Hults,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,135,Vancouver,Kristoffer Gunnarsson,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,136,Winnipeg,Leon Gawanke,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,137,Philadelphia,Noah Cates,L,311.0,145.0,643.05,96.81,546.24
+2017,5,138,Los Angeles,Drake Rymsha,C,1.0,0.0,1.0,98.64,-97.64
+2017,5,139,NY Islanders,Sebastian Aho,D,190.0,50.0,304.5,97.77,206.73
+2017,5,140,Calgary,Zach Fischer,R,0.0,0.0,0.0,98.64,-98.64
+2017,5,141,Toronto,Fedor Gordeev,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,142,Vegas,Jack Dugan,L,0.0,0.0,0.0,98.64,-98.64
+2017,5,143,New Jersey,Marian Studenic,R,46.0,6.0,59.74,98.47,-38.73
+2017,5,144,Chicago,Parker Foo,L,0.0,0.0,0.0,98.64,-98.64
+2017,5,145,NY Rangers,Calle Sjalin,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,146,Edmonton,Kirill Maksimov,R,0.0,0.0,0.0,98.64,-98.64
+2017,5,147,Minnesota,Jacob Golden,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,148,Columbus,Kale Howarth,L,0.0,0.0,0.0,98.64,-98.64
+2017,5,149,Montreal,Jarret Tyszka,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,150,Chicago,Jakub Galvas,D,6.0,0.0,6.0,98.62,-92.62
+2017,5,151,Washington,Sebastian Walfridsson,D,0.0,0.0,0.0,98.64,-98.64
+2017,5,152,Pittsburgh,Jan Drozg,R,0.0,0.0,0.0,98.64,-98.64
+2017,5,155,Pittsburgh,Linus Olund,C,0.0,0.0,0.0,98.64,-98.64
+2017,6,156,Colorado,Denis Smirnov,R,0.0,0.0,0.0,83.45,-83.45
+2017,6,157,NY Rangers,Dominik Lakatos,R,0.0,0.0,0.0,83.45,-83.45
+2017,6,158,Vegas,Nick Campoli,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,159,San Jose,Jake McGrew,L,0.0,0.0,0.0,83.45,-83.45
+2017,6,160,New Jersey,Aarne Talvitie,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,162,Detroit,Jack Adams,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,163,Dallas,Brett Davis,R,0.0,0.0,0.0,83.45,-83.45
+2017,6,164,Detroit,Reilly Webb,D,0.0,0.0,0.0,83.45,-83.45
+2017,6,165,NY Islanders,Arnaud Durandeau,L,4.0,0.0,4.0,83.44,-79.44
+2017,6,166,Carolina,Brendan De Jong,D,0.0,0.0,0.0,83.45,-83.45
+2017,6,168,Philadelphia,Olle Lycksell,R,52.0,13.0,81.77,83.21,-1.44
+2017,6,169,Tampa Bay,Nick Perbix,D,293.0,73.0,460.17,82.1,378.07
+2017,6,170,Columbus,Jonathan Davidsson,R,6.0,1.0,8.29,83.43,-75.14
+2017,6,171,Calgary,D'Artagnan Joly,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,172,Toronto,Ryan McGregor,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,173,Boston,Cedric Pare,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,174,NY Rangers,Morgan Barron,C,321.0,83.0,511.07,81.95,429.12
+2017,6,175,St. Louis,Trenton Bourque,D,0.0,0.0,0.0,83.45,-83.45
+2017,6,176,Nashville,Pavel Koltygin,L,0.0,0.0,0.0,83.45,-83.45
+2017,6,177,Edmonton,Skyler Brind'Amour,C,2.0,1.0,4.29,83.44,-79.15
+2017,6,178,Minnesota,Andrei Svetlakov,C,0.0,0.0,0.0,83.45,-83.45
+2017,6,179,Columbus,Carson Meyer,R,41.0,6.0,54.74,83.29,-28.55
+2017,6,180,Tampa Bay,Cole Guttman,C,41.0,14.0,73.06,83.24,-10.18
+2017,6,181,Vancouver,Petrus Palmu,R,0.0,0.0,0.0,83.45,-83.45
+2017,6,182,Washington,Benton Maass,D,0.0,0.0,0.0,83.45,-83.45
+2017,6,184,Florida,Sebastian Repo,R,0.0,0.0,0.0,83.45,-83.45
+2017,6,185,San Jose,Sasha Chmelevski,C,24.0,10.0,46.9,83.31,-36.41
+2017,6,186,Pittsburgh,Antti Palojarvi,D,0.0,0.0,0.0,83.45,-83.45
+2017,7,187,Colorado,Nick Leivermann,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,188,Vancouver,Matt Brassard,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,189,Vegas,Ben Jones,C,54.0,2.0,58.58,60.45,-1.87
+2017,7,190,Arizona,Erik Walli Walterholm,R,0.0,0.0,0.0,60.62,-60.62
+2017,7,191,New Jersey,Jocktan Chainey,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,192,Buffalo,Linus Weissbach,L,0.0,0.0,0.0,60.62,-60.62
+2017,7,193,Detroit,Brady Gilmour,C,0.0,0.0,0.0,60.62,-60.62
+2017,7,195,Boston,Victor Berglund,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,196,Philadelphia,Wyatt Kalynuk,D,26.0,9.0,46.61,60.49,-13.88
+2017,7,197,Carolina,Ville Rasanen,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,198,Winnipeg,Skyler McKenzie,L,0.0,0.0,0.0,60.62,-60.62
+2017,7,200,Tampa Bay,Samuel Walker,C,13.0,2.0,17.58,60.57,-42.99
+2017,7,201,NY Islanders,Logan Cockerill,R,0.0,0.0,0.0,60.62,-60.62
+2017,7,202,Calgary,Filip Sveningsson,L,0.0,0.0,0.0,60.62,-60.62
+2017,7,203,Toronto,Ryan O'Connell,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,204,Boston,Daniel Bukac,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,205,New Jersey,Yegor Zaitsev,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,206,St. Louis,Anton Andersson,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,207,NY Rangers,Patrik Virta,C,0.0,0.0,0.0,60.62,-60.62
+2017,7,208,Edmonton,Philip Kemp,D,1.0,0.0,1.0,60.62,-59.62
+2017,7,209,Minnesota,Nick Swaney,R,1.0,0.0,1.0,60.62,-59.62
+2017,7,210,Columbus,Robbie Stucker,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,211,Winnipeg,Croix Evingson,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,212,San Jose,Ivan Chekhovich,L,4.0,1.0,6.29,60.6,-54.31
+2017,7,213,Washington,Kristian Marthinsen,L,0.0,0.0,0.0,60.62,-60.62
+2017,7,214,New Jersey,Matthew Hellickson,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,215,Chicago,Josh Ess,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,216,Nashville,Jacob Paquette,D,0.0,0.0,0.0,60.62,-60.62
+2017,7,217,Pittsburgh,Will Reilly,D,0.0,0.0,0.0,60.62,-60.62

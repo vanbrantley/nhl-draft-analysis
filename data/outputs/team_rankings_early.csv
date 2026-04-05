@@ -1,32 +1,32 @@
-team,total_plus_minus,total_picks,avg_plus_minus_per_pick,team_color
-Vegas,-17,6,-2.83,#B4975A
-Los Angeles,-129,35,-3.69,#111111
-Detroit,-133,37,-3.59,#CE1126
-Nashville,-135,36,-3.75,#FFB81C
-New Jersey,-170,37,-4.59,#CE1126
-Pittsburgh,-205,28,-7.32,#FCB514
-Philadelphia,-251,33,-7.61,#F74902
-Washington,-279,29,-9.62,#CF0A2C
-Carolina,-299,38,-7.87,#CC0000
-Minnesota,-331,27,-12.26,#154734
-NY Rangers,-368,33,-11.15,#0038A8
-Tampa Bay,-373,38,-9.82,#002868
-Dallas,-385,34,-11.32,#006847
-St. Louis,-390,42,-9.29,#002F87
-Ottawa,-416,31,-13.42,#C8102E
-San Jose,-439,27,-16.26,#006D75
-Boston,-501,35,-14.31,#FFB81C
-Columbus,-542,36,-15.06,#002654
-Anaheim,-549,43,-12.77,#F47A38
-Calgary,-552,32,-17.25,#D2001C
-Montreal,-556,37,-15.03,#AF1E2D
-Edmonton,-597,40,-14.92,#041E42
-Winnipeg,-623,37,-16.84,#004C97
-Toronto,-625,33,-18.94,#003E7E
-Vancouver,-628,28,-22.43,#00205B
-Colorado,-637,36,-17.69,#6F263D
-Florida,-673,41,-16.41,#C9082A
-Chicago,-705,46,-15.33,#CF0A2C
-Buffalo,-723,44,-16.43,#003087
-NY Islanders,-725,38,-19.08,#F47D30
-Arizona,-804,45,-17.87,#8C2633
+team,total_draft_value,total_picks,avg_draft_value_per_pick
+St. Louis,3309.5,42,78.8
+Los Angeles,2582.49,35,73.79
+Detroit,2228.75,37,60.24
+Pittsburgh,2049.07,28,73.18
+Dallas,1623.64,34,47.75
+Washington,1548.75,29,53.41
+Nashville,1491.27,36,41.42
+Carolina,1465.29,38,38.56
+Boston,1432.75,35,40.94
+Tampa Bay,961.83,38,25.31
+Vegas,613.24,6,102.21
+Edmonton,537.58,40,13.44
+Colorado,472.63,36,13.13
+Philadelphia,156.35,33,4.74
+Minnesota,85.27,27,3.16
+San Jose,69.44,27,2.57
+Toronto,-22.33,33,-0.68
+Ottawa,-116.72,31,-3.77
+Anaheim,-651.4,43,-15.15
+Calgary,-725.87,32,-22.68
+Chicago,-754.28,46,-16.4
+NY Rangers,-877.67,33,-26.6
+Florida,-1052.94,41,-25.68
+New Jersey,-1056.87,37,-28.56
+Columbus,-1194.61,36,-33.18
+Winnipeg,-1873.79,37,-50.64
+Buffalo,-2184.66,44,-49.65
+Montreal,-2237.61,37,-60.48
+NY Islanders,-2609.68,38,-68.68
+Arizona,-2641.58,45,-58.7
+Vancouver,-3004.2,28,-107.29
