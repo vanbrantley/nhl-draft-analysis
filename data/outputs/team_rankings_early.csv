@@ -1,32 +1,32 @@
-team,total_draft_value,total_picks,avg_draft_value_per_pick
-St. Louis,3309.5,42,78.8
-Los Angeles,2582.49,35,73.79
-Detroit,2228.75,37,60.24
-Pittsburgh,2049.07,28,73.18
-Dallas,1623.64,34,47.75
-Washington,1548.75,29,53.41
-Nashville,1491.27,36,41.42
-Carolina,1465.29,38,38.56
-Boston,1432.75,35,40.94
-Tampa Bay,961.83,38,25.31
-Vegas,613.24,6,102.21
-Edmonton,537.58,40,13.44
-Colorado,472.63,36,13.13
-Philadelphia,156.35,33,4.74
-Minnesota,85.27,27,3.16
-San Jose,69.44,27,2.57
-Toronto,-22.33,33,-0.68
-Ottawa,-116.72,31,-3.77
-Anaheim,-651.4,43,-15.15
-Calgary,-725.87,32,-22.68
-Chicago,-754.28,46,-16.4
-NY Rangers,-877.67,33,-26.6
-Florida,-1052.94,41,-25.68
-New Jersey,-1056.87,37,-28.56
-Columbus,-1194.61,36,-33.18
-Winnipeg,-1873.79,37,-50.64
-Buffalo,-2184.66,44,-49.65
-Montreal,-2237.61,37,-60.48
-NY Islanders,-2609.68,38,-68.68
-Arizona,-2641.58,45,-58.7
-Vancouver,-3004.2,28,-107.29
+team,total_draft_value,total_picks,avg_draft_value_per_pick,early_round_rank
+Vegas,613.24,6,102.21,1
+St. Louis,3309.5,42,78.8,2
+Los Angeles,2582.49,35,73.79,3
+Pittsburgh,2049.07,28,73.18,4
+Detroit,2228.75,37,60.24,5
+Washington,1548.75,29,53.41,6
+Dallas,1623.64,34,47.75,7
+Nashville,1491.27,36,41.42,8
+Boston,1432.75,35,40.94,9
+Carolina,1465.29,38,38.56,10
+Tampa Bay,961.83,38,25.31,11
+Edmonton,537.58,40,13.44,12
+Colorado,472.63,36,13.13,13
+Philadelphia,156.35,33,4.74,14
+Minnesota,85.27,27,3.16,15
+San Jose,69.44,27,2.57,16
+Toronto,-22.33,33,-0.68,17
+Ottawa,-116.72,31,-3.77,18
+Anaheim,-651.4,43,-15.15,19
+Chicago,-754.28,46,-16.4,20
+Calgary,-725.87,32,-22.68,21
+Florida,-1052.94,41,-25.68,22
+NY Rangers,-877.67,33,-26.6,23
+New Jersey,-1056.87,37,-28.56,24
+Columbus,-1194.61,36,-33.18,25
+Buffalo,-2184.66,44,-49.65,26
+Winnipeg,-1873.79,37,-50.64,27
+Arizona,-2641.58,45,-58.7,28
+Montreal,-2237.61,37,-60.48,29
+NY Islanders,-2609.68,38,-68.68,30
+Vancouver,-3004.2,28,-107.29,31
