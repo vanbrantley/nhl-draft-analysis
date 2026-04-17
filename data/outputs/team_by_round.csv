@@ -1,217 +1,217 @@
 team,round,total_draft_value,total_picks,avg_draft_value_per_pick
-Anaheim,1,388.39,15,25.89
-Anaheim,2,-183.05,16,-11.44
-Anaheim,3,-856.74,12,-71.4
-Anaheim,4,586.64,10,58.66
-Anaheim,5,420.94,12,35.08
-Anaheim,6,12.64,7,1.81
-Anaheim,7,439.33,6,73.22
-Arizona,1,-961.68,18,-53.43
-Arizona,2,-935.94,13,-72.0
-Arizona,3,-743.96,14,-53.14
-Arizona,4,518.21,9,57.58
-Arizona,5,382.63,11,34.78
-Arizona,6,-500.7,6,-83.45
-Arizona,7,-515.72,11,-46.88
-Boston,1,142.08,14,10.15
-Boston,2,296.54,15,19.77
-Boston,3,994.13,6,165.69
-Boston,4,-16.8,9,-1.87
-Boston,5,-458.59,11,-41.69
-Boston,6,-140.01,11,-12.73
-Boston,7,-604.32,12,-50.36
-Buffalo,1,-371.45,15,-24.76
-Buffalo,2,-517.54,15,-34.5
-Buffalo,3,-1295.67,14,-92.55
-Buffalo,4,465.48,10,46.55
-Buffalo,5,-308.85,14,-22.06
-Buffalo,6,1058.57,8,132.32
-Buffalo,7,-162.3,16,-10.14
-Calgary,1,-1007.71,12,-83.98
-Calgary,2,475.63,8,59.45
-Calgary,3,-193.79,12,-16.15
-Calgary,4,1215.68,12,101.31
-Calgary,5,-244.08,9,-27.12
-Calgary,6,31.45,10,3.14
-Calgary,7,-795.07,14,-56.79
-Carolina,1,-1099.0,12,-91.58
-Carolina,2,2427.44,13,186.73
-Carolina,3,136.85,13,10.53
-Carolina,4,181.0,14,12.93
-Carolina,5,-665.86,10,-66.59
-Carolina,6,-652.17,10,-65.22
-Carolina,7,-6.94,9,-0.77
-Chicago,1,820.03,12,68.34
-Chicago,2,-1021.18,19,-53.75
-Chicago,3,-553.13,15,-36.88
-Chicago,4,-691.51,15,-46.1
-Chicago,5,-59.65,14,-4.26
-Chicago,6,-292.58,17,-17.21
-Chicago,7,-724.43,12,-60.37
-Colorado,1,731.56,11,66.51
-Colorado,2,-422.18,17,-24.83
-Colorado,3,163.25,8,20.41
-Colorado,4,-1053.82,11,-95.8
-Colorado,5,-10.75,9,-1.19
-Colorado,6,-677.95,11,-61.63
-Colorado,7,-506.67,12,-42.22
-Columbus,1,-667.64,14,-47.69
-Columbus,2,-1123.28,14,-80.23
-Columbus,3,596.31,8,74.54
-Columbus,4,1647.09,12,137.26
-Columbus,5,-603.85,13,-46.45
-Columbus,6,1163.4,12,96.95
-Columbus,7,300.97,12,25.08
-Dallas,1,-853.14,11,-77.56
-Dallas,2,2721.29,12,226.77
-Dallas,3,-244.51,11,-22.23
-Dallas,4,223.49,9,24.83
-Dallas,5,900.3,19,47.38
-Dallas,6,-349.69,8,-43.71
-Dallas,7,-88.37,5,-17.67
-Detroit,1,703.6,8,87.95
-Detroit,2,2206.45,16,137.9
-Detroit,3,-681.3,13,-52.41
-Detroit,4,804.9,9,89.43
-Detroit,5,-98.42,13,-7.57
-Detroit,6,-1024.52,13,-78.81
-Detroit,7,-735.43,15,-49.03
-Edmonton,1,1135.02,15,75.67
-Edmonton,2,392.52,10,39.25
-Edmonton,3,-989.96,15,-66.0
-Edmonton,4,624.17,16,39.01
-Edmonton,5,-650.09,11,-59.1
-Edmonton,6,47.44,11,4.31
-Edmonton,7,-211.65,8,-26.46
-Florida,1,-393.12,14,-28.08
-Florida,2,-1053.22,12,-87.77
-Florida,3,393.4,15,26.23
-Florida,4,-431.46,16,-26.97
-Florida,5,137.43,9,15.27
-Florida,6,-395.78,11,-35.98
-Florida,7,727.78,9,80.86
-Los Angeles,1,1172.13,10,117.21
-Los Angeles,2,612.24,14,43.73
-Los Angeles,3,798.12,11,72.56
-Los Angeles,4,994.35,13,76.49
-Los Angeles,5,527.24,14,37.66
-Los Angeles,6,-734.02,11,-66.73
-Los Angeles,7,2077.34,15,138.49
-Minnesota,1,-317.79,12,-26.48
-Minnesota,2,476.01,10,47.6
-Minnesota,3,-72.95,5,-14.59
-Minnesota,4,-350.85,12,-29.24
-Minnesota,5,1503.92,9,167.1
-Minnesota,6,-823.18,10,-82.32
-Minnesota,7,-41.83,15,-2.79
-Montreal,1,-1155.32,12,-96.28
-Montreal,2,-676.47,11,-61.5
-Montreal,3,-405.82,14,-28.99
-Montreal,4,-997.95,10,-99.79
-Montreal,5,-222.86,14,-15.92
-Montreal,6,196.98,8,24.62
-Montreal,7,746.02,11,67.82
-NY Islanders,1,-493.89,15,-32.93
-NY Islanders,2,-432.24,9,-48.03
-NY Islanders,3,-1683.55,14,-120.25
-NY Islanders,4,170.49,13,13.11
-NY Islanders,5,-358.54,12,-29.88
-NY Islanders,6,1237.96,13,95.23
-NY Islanders,7,-471.34,12,-39.28
-NY Rangers,1,-442.68,10,-44.27
-NY Rangers,2,524.26,8,65.53
-NY Rangers,3,-959.25,15,-63.95
-NY Rangers,4,24.84,12,2.07
-NY Rangers,5,-1233.75,14,-88.12
-NY Rangers,6,1020.02,10,102.0
-NY Rangers,7,-439.25,8,-54.91
-Nashville,1,405.4,9,45.04
-Nashville,2,481.77,13,37.06
-Nashville,3,604.1,14,43.15
-Nashville,4,971.06,15,64.74
-Nashville,5,4.03,10,0.4
-Nashville,6,-808.06,13,-62.16
-Nashville,7,187.2,11,17.02
-New Jersey,1,-1791.18,10,-179.12
-New Jersey,2,85.52,11,7.77
-New Jersey,3,648.79,16,40.55
-New Jersey,4,-259.46,12,-21.62
-New Jersey,5,379.54,10,37.95
-New Jersey,6,40.75,13,3.13
-New Jersey,7,-697.48,12,-58.12
-Ottawa,1,-274.51,14,-19.61
-Ottawa,2,-95.2,9,-10.58
-Ottawa,3,252.99,8,31.62
-Ottawa,4,1242.87,18,69.05
-Ottawa,5,935.83,9,103.98
-Ottawa,6,483.28,9,53.7
-Ottawa,7,1166.26,11,106.02
-Philadelphia,1,964.09,13,74.16
-Philadelphia,2,-983.46,9,-109.27
-Philadelphia,3,175.72,11,15.97
-Philadelphia,4,-1345.96,11,-122.36
-Philadelphia,5,377.64,10,37.76
-Philadelphia,6,290.54,13,22.35
-Philadelphia,7,-596.14,11,-54.19
-Pittsburgh,1,-727.34,9,-80.82
-Pittsburgh,2,-60.59,9,-6.73
-Pittsburgh,3,2837.0,10,283.7
-Pittsburgh,4,-1070.64,10,-107.06
-Pittsburgh,5,158.53,12,13.21
-Pittsburgh,6,-381.16,13,-29.32
-Pittsburgh,7,161.42,8,20.18
-San Jose,1,532.98,10,53.3
-San Jose,2,209.37,12,17.45
-San Jose,3,-672.91,5,-134.58
-San Jose,4,-442.54,7,-63.22
-San Jose,5,-203.26,16,-12.7
-San Jose,6,1492.59,14,106.61
-San Jose,7,1163.97,17,68.47
-St. Louis,1,2456.65,15,163.78
-St. Louis,2,373.47,17,21.97
-St. Louis,3,479.38,10,47.94
-St. Louis,4,-952.57,14,-68.04
-St. Louis,5,95.95,9,10.66
-St. Louis,6,-457.1,14,-32.65
-St. Louis,7,-606.2,10,-60.62
-Tampa Bay,1,-324.27,11,-29.48
-Tampa Bay,2,264.68,14,18.91
-Tampa Bay,3,1021.42,13,78.57
-Tampa Bay,4,791.64,12,65.97
-Tampa Bay,5,-336.39,6,-56.06
-Tampa Bay,6,224.32,13,17.26
-Tampa Bay,7,200.5,17,11.79
-Toronto,1,481.63,11,43.78
-Toronto,2,-587.01,11,-53.36
-Toronto,3,83.05,11,7.55
-Toronto,4,-770.66,11,-70.06
-Toronto,5,315.76,15,21.05
-Toronto,6,841.71,15,56.11
-Toronto,7,1573.12,13,121.01
-Vancouver,1,-1260.72,14,-90.05
-Vancouver,2,-1048.18,7,-149.74
-Vancouver,3,-695.3,7,-99.33
-Vancouver,4,-774.93,7,-110.7
-Vancouver,5,578.38,14,41.31
-Vancouver,6,-1070.52,13,-82.35
-Vancouver,7,-681.12,13,-52.39
-Vegas,1,411.36,3,137.12
-Vegas,2,255.66,2,127.83
-Vegas,3,-53.78,1,-53.78
-Vegas,5,-197.28,2,-98.64
-Vegas,6,-83.45,1,-83.45
-Vegas,7,-1.87,1,-1.87
-Washington,1,1296.39,13,99.72
-Washington,2,-814.22,10,-81.42
-Washington,3,1066.58,6,177.76
-Washington,4,-1107.9,10,-110.79
-Washington,5,-399.44,13,-30.73
-Washington,6,442.38,14,31.6
-Washington,7,-458.79,12,-38.23
-Winnipeg,1,659.64,15,43.98
-Winnipeg,2,-1567.99,9,-174.22
-Winnipeg,3,-965.44,13,-74.26
-Winnipeg,4,-392.48,13,-30.19
-Winnipeg,5,-666.47,9,-74.05
-Winnipeg,6,-192.56,10,-19.26
-Winnipeg,7,-399.37,17,-23.49
+Anaheim Ducks,1,388.39,15,25.89
+Anaheim Ducks,2,-183.05,16,-11.44
+Anaheim Ducks,3,-856.74,12,-71.4
+Anaheim Ducks,4,586.64,10,58.66
+Anaheim Ducks,5,420.94,12,35.08
+Anaheim Ducks,6,12.64,7,1.81
+Anaheim Ducks,7,439.33,6,73.22
+Arizona Coyotes,1,-961.68,18,-53.43
+Arizona Coyotes,2,-935.94,13,-72.0
+Arizona Coyotes,3,-743.96,14,-53.14
+Arizona Coyotes,4,518.21,9,57.58
+Arizona Coyotes,5,382.63,11,34.78
+Arizona Coyotes,6,-500.7,6,-83.45
+Arizona Coyotes,7,-515.72,11,-46.88
+Boston Bruins,1,142.08,14,10.15
+Boston Bruins,2,296.54,15,19.77
+Boston Bruins,3,994.13,6,165.69
+Boston Bruins,4,-16.8,9,-1.87
+Boston Bruins,5,-458.59,11,-41.69
+Boston Bruins,6,-140.01,11,-12.73
+Boston Bruins,7,-604.32,12,-50.36
+Buffalo Sabres,1,-371.45,15,-24.76
+Buffalo Sabres,2,-517.54,15,-34.5
+Buffalo Sabres,3,-1295.67,14,-92.55
+Buffalo Sabres,4,465.48,10,46.55
+Buffalo Sabres,5,-308.85,14,-22.06
+Buffalo Sabres,6,1058.57,8,132.32
+Buffalo Sabres,7,-162.3,16,-10.14
+Calgary Flames,1,-1007.71,12,-83.98
+Calgary Flames,2,475.63,8,59.45
+Calgary Flames,3,-193.79,12,-16.15
+Calgary Flames,4,1215.68,12,101.31
+Calgary Flames,5,-244.08,9,-27.12
+Calgary Flames,6,31.45,10,3.14
+Calgary Flames,7,-795.07,14,-56.79
+Carolina Hurricanes,1,-1099.0,12,-91.58
+Carolina Hurricanes,2,2427.44,13,186.73
+Carolina Hurricanes,3,136.85,13,10.53
+Carolina Hurricanes,4,181.0,14,12.93
+Carolina Hurricanes,5,-665.86,10,-66.59
+Carolina Hurricanes,6,-652.17,10,-65.22
+Carolina Hurricanes,7,-6.94,9,-0.77
+Chicago Blackhawks,1,820.03,12,68.34
+Chicago Blackhawks,2,-1021.18,19,-53.75
+Chicago Blackhawks,3,-553.13,15,-36.88
+Chicago Blackhawks,4,-691.51,15,-46.1
+Chicago Blackhawks,5,-59.65,14,-4.26
+Chicago Blackhawks,6,-292.58,17,-17.21
+Chicago Blackhawks,7,-724.43,12,-60.37
+Colorado Avalanche,1,731.56,11,66.51
+Colorado Avalanche,2,-422.18,17,-24.83
+Colorado Avalanche,3,163.25,8,20.41
+Colorado Avalanche,4,-1053.82,11,-95.8
+Colorado Avalanche,5,-10.75,9,-1.19
+Colorado Avalanche,6,-677.95,11,-61.63
+Colorado Avalanche,7,-506.67,12,-42.22
+Columbus Blue Jackets,1,-667.64,14,-47.69
+Columbus Blue Jackets,2,-1123.28,14,-80.23
+Columbus Blue Jackets,3,596.31,8,74.54
+Columbus Blue Jackets,4,1647.09,12,137.26
+Columbus Blue Jackets,5,-603.85,13,-46.45
+Columbus Blue Jackets,6,1163.4,12,96.95
+Columbus Blue Jackets,7,300.97,12,25.08
+Dallas Stars,1,-853.14,11,-77.56
+Dallas Stars,2,2721.29,12,226.77
+Dallas Stars,3,-244.51,11,-22.23
+Dallas Stars,4,223.49,9,24.83
+Dallas Stars,5,900.3,19,47.38
+Dallas Stars,6,-349.69,8,-43.71
+Dallas Stars,7,-88.37,5,-17.67
+Detroit Red Wings,1,703.6,8,87.95
+Detroit Red Wings,2,2206.45,16,137.9
+Detroit Red Wings,3,-681.3,13,-52.41
+Detroit Red Wings,4,804.9,9,89.43
+Detroit Red Wings,5,-98.42,13,-7.57
+Detroit Red Wings,6,-1024.52,13,-78.81
+Detroit Red Wings,7,-735.43,15,-49.03
+Edmonton Oilers,1,1135.02,15,75.67
+Edmonton Oilers,2,392.52,10,39.25
+Edmonton Oilers,3,-989.96,15,-66.0
+Edmonton Oilers,4,624.17,16,39.01
+Edmonton Oilers,5,-650.09,11,-59.1
+Edmonton Oilers,6,47.44,11,4.31
+Edmonton Oilers,7,-211.65,8,-26.46
+Florida Panthers,1,-393.12,14,-28.08
+Florida Panthers,2,-1053.22,12,-87.77
+Florida Panthers,3,393.4,15,26.23
+Florida Panthers,4,-431.46,16,-26.97
+Florida Panthers,5,137.43,9,15.27
+Florida Panthers,6,-395.78,11,-35.98
+Florida Panthers,7,727.78,9,80.86
+Los Angeles Kings,1,1172.13,10,117.21
+Los Angeles Kings,2,612.24,14,43.73
+Los Angeles Kings,3,798.12,11,72.56
+Los Angeles Kings,4,994.35,13,76.49
+Los Angeles Kings,5,527.24,14,37.66
+Los Angeles Kings,6,-734.02,11,-66.73
+Los Angeles Kings,7,2077.34,15,138.49
+Minnesota Wild,1,-317.79,12,-26.48
+Minnesota Wild,2,476.01,10,47.6
+Minnesota Wild,3,-72.95,5,-14.59
+Minnesota Wild,4,-350.85,12,-29.24
+Minnesota Wild,5,1503.92,9,167.1
+Minnesota Wild,6,-823.18,10,-82.32
+Minnesota Wild,7,-41.83,15,-2.79
+Montreal Canadiens,1,-1155.32,12,-96.28
+Montreal Canadiens,2,-676.47,11,-61.5
+Montreal Canadiens,3,-405.82,14,-28.99
+Montreal Canadiens,4,-997.95,10,-99.79
+Montreal Canadiens,5,-222.86,14,-15.92
+Montreal Canadiens,6,196.98,8,24.62
+Montreal Canadiens,7,746.02,11,67.82
+Nashville Predators,1,405.4,9,45.04
+Nashville Predators,2,481.77,13,37.06
+Nashville Predators,3,604.1,14,43.15
+Nashville Predators,4,971.06,15,64.74
+Nashville Predators,5,4.03,10,0.4
+Nashville Predators,6,-808.06,13,-62.16
+Nashville Predators,7,187.2,11,17.02
+New Jersey Devils,1,-1791.18,10,-179.12
+New Jersey Devils,2,85.52,11,7.77
+New Jersey Devils,3,648.79,16,40.55
+New Jersey Devils,4,-259.46,12,-21.62
+New Jersey Devils,5,379.54,10,37.95
+New Jersey Devils,6,40.75,13,3.13
+New Jersey Devils,7,-697.48,12,-58.12
+New York Islanders,1,-493.89,15,-32.93
+New York Islanders,2,-432.24,9,-48.03
+New York Islanders,3,-1683.55,14,-120.25
+New York Islanders,4,170.49,13,13.11
+New York Islanders,5,-358.54,12,-29.88
+New York Islanders,6,1237.96,13,95.23
+New York Islanders,7,-471.34,12,-39.28
+New York Rangers,1,-442.68,10,-44.27
+New York Rangers,2,524.26,8,65.53
+New York Rangers,3,-959.25,15,-63.95
+New York Rangers,4,24.84,12,2.07
+New York Rangers,5,-1233.75,14,-88.12
+New York Rangers,6,1020.02,10,102.0
+New York Rangers,7,-439.25,8,-54.91
+Ottawa Senators,1,-274.51,14,-19.61
+Ottawa Senators,2,-95.2,9,-10.58
+Ottawa Senators,3,252.99,8,31.62
+Ottawa Senators,4,1242.87,18,69.05
+Ottawa Senators,5,935.83,9,103.98
+Ottawa Senators,6,483.28,9,53.7
+Ottawa Senators,7,1166.26,11,106.02
+Philadelphia Flyers,1,964.09,13,74.16
+Philadelphia Flyers,2,-983.46,9,-109.27
+Philadelphia Flyers,3,175.72,11,15.97
+Philadelphia Flyers,4,-1345.96,11,-122.36
+Philadelphia Flyers,5,377.64,10,37.76
+Philadelphia Flyers,6,290.54,13,22.35
+Philadelphia Flyers,7,-596.14,11,-54.19
+Pittsburgh Penguins,1,-727.34,9,-80.82
+Pittsburgh Penguins,2,-60.59,9,-6.73
+Pittsburgh Penguins,3,2837.0,10,283.7
+Pittsburgh Penguins,4,-1070.64,10,-107.06
+Pittsburgh Penguins,5,158.53,12,13.21
+Pittsburgh Penguins,6,-381.16,13,-29.32
+Pittsburgh Penguins,7,161.42,8,20.18
+San Jose Sharks,1,532.98,10,53.3
+San Jose Sharks,2,209.37,12,17.45
+San Jose Sharks,3,-672.91,5,-134.58
+San Jose Sharks,4,-442.54,7,-63.22
+San Jose Sharks,5,-203.26,16,-12.7
+San Jose Sharks,6,1492.59,14,106.61
+San Jose Sharks,7,1163.97,17,68.47
+St. Louis Blues,1,2456.65,15,163.78
+St. Louis Blues,2,373.47,17,21.97
+St. Louis Blues,3,479.38,10,47.94
+St. Louis Blues,4,-952.57,14,-68.04
+St. Louis Blues,5,95.95,9,10.66
+St. Louis Blues,6,-457.1,14,-32.65
+St. Louis Blues,7,-606.2,10,-60.62
+Tampa Bay Lightning,1,-324.27,11,-29.48
+Tampa Bay Lightning,2,264.68,14,18.91
+Tampa Bay Lightning,3,1021.42,13,78.57
+Tampa Bay Lightning,4,791.64,12,65.97
+Tampa Bay Lightning,5,-336.39,6,-56.06
+Tampa Bay Lightning,6,224.32,13,17.26
+Tampa Bay Lightning,7,200.5,17,11.79
+Toronto Maple Leafs,1,481.63,11,43.78
+Toronto Maple Leafs,2,-587.01,11,-53.36
+Toronto Maple Leafs,3,83.05,11,7.55
+Toronto Maple Leafs,4,-770.66,11,-70.06
+Toronto Maple Leafs,5,315.76,15,21.05
+Toronto Maple Leafs,6,841.71,15,56.11
+Toronto Maple Leafs,7,1573.12,13,121.01
+Vancouver Canucks,1,-1260.72,14,-90.05
+Vancouver Canucks,2,-1048.18,7,-149.74
+Vancouver Canucks,3,-695.3,7,-99.33
+Vancouver Canucks,4,-774.93,7,-110.7
+Vancouver Canucks,5,578.38,14,41.31
+Vancouver Canucks,6,-1070.52,13,-82.35
+Vancouver Canucks,7,-681.12,13,-52.39
+Vegas Golden Knights,1,411.36,3,137.12
+Vegas Golden Knights,2,255.66,2,127.83
+Vegas Golden Knights,3,-53.78,1,-53.78
+Vegas Golden Knights,5,-197.28,2,-98.64
+Vegas Golden Knights,6,-83.45,1,-83.45
+Vegas Golden Knights,7,-1.87,1,-1.87
+Washington Capitals,1,1296.39,13,99.72
+Washington Capitals,2,-814.22,10,-81.42
+Washington Capitals,3,1066.58,6,177.76
+Washington Capitals,4,-1107.9,10,-110.79
+Washington Capitals,5,-399.44,13,-30.73
+Washington Capitals,6,442.38,14,31.6
+Washington Capitals,7,-458.79,12,-38.23
+Winnipeg Jets,1,659.64,15,43.98
+Winnipeg Jets,2,-1567.99,9,-174.22
+Winnipeg Jets,3,-965.44,13,-74.26
+Winnipeg Jets,4,-392.48,13,-30.19
+Winnipeg Jets,5,-666.47,9,-74.05
+Winnipeg Jets,6,-192.56,10,-19.26
+Winnipeg Jets,7,-399.37,17,-23.49
