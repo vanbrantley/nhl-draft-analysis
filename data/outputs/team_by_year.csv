@@ -1,392 +1,392 @@
-team,draft_year,total_draft_value,total_picks,avg_draft_value_per_pick
-Anaheim Ducks,2005,-394.56,5,-78.91
-Anaheim Ducks,2006,-552.31,5,-110.46
-Anaheim Ducks,2007,-741.27,6,-123.54
-Anaheim Ducks,2008,-535.74,9,-59.53
-Anaheim Ducks,2009,268.69,6,44.78
-Anaheim Ducks,2010,607.03,8,75.88
-Anaheim Ducks,2011,1493.73,6,248.96
-Anaheim Ducks,2012,-425.01,7,-60.72
-Anaheim Ducks,2013,-239.48,5,-47.9
-Anaheim Ducks,2014,1153.87,5,230.77
-Anaheim Ducks,2015,124.81,6,20.8
-Anaheim Ducks,2016,150.97,6,25.16
-Anaheim Ducks,2017,-102.58,4,-25.65
-Arizona Coyotes,2005,808.91,4,202.23
-Arizona Coyotes,2006,-415.96,7,-59.42
-Arizona Coyotes,2007,-815.69,5,-163.14
-Arizona Coyotes,2008,-324.77,8,-40.6
-Arizona Coyotes,2009,-447.21,5,-89.44
-Arizona Coyotes,2010,-438.74,3,-146.25
-Arizona Coyotes,2011,-920.07,8,-115.01
-Arizona Coyotes,2012,-651.58,7,-93.08
-Arizona Coyotes,2013,171.31,5,34.26
-Arizona Coyotes,2014,310.65,9,34.52
-Arizona Coyotes,2015,746.39,7,106.63
-Arizona Coyotes,2016,400.53,5,80.11
-Arizona Coyotes,2017,-1180.93,9,-131.21
-Boston Bruins,2005,-785.46,8,-98.18
-Boston Bruins,2006,1531.79,6,255.3
-Boston Bruins,2007,-1293.18,6,-215.53
-Boston Bruins,2008,-612.62,5,-122.52
-Boston Bruins,2009,-706.43,5,-141.29
-Boston Bruins,2010,305.42,7,43.63
-Boston Bruins,2011,-404.79,5,-80.96
-Boston Bruins,2012,719.51,5,143.9
-Boston Bruins,2013,-602.14,6,-100.36
-Boston Bruins,2014,2356.49,5,471.3
-Boston Bruins,2015,-630.4,9,-70.04
-Boston Bruins,2016,808.65,6,134.78
-Boston Bruins,2017,-473.81,5,-94.76
-Buffalo Sabres,2005,157.6,8,19.7
-Buffalo Sabres,2006,-346.37,5,-69.27
-Buffalo Sabres,2007,191.91,6,31.98
-Buffalo Sabres,2008,-638.51,8,-79.81
-Buffalo Sabres,2009,626.87,5,125.37
-Buffalo Sabres,2010,-676.86,9,-75.21
-Buffalo Sabres,2011,-455.27,5,-91.05
-Buffalo Sabres,2012,-143.25,7,-20.46
-Buffalo Sabres,2013,-371.04,10,-37.1
-Buffalo Sabres,2014,409.98,8,51.25
-Buffalo Sabres,2015,376.06,6,62.68
-Buffalo Sabres,2016,-275.0,10,-27.5
-Buffalo Sabres,2017,12.12,5,2.42
-Calgary Flames,2005,-1265.57,6,-210.93
-Calgary Flames,2006,-599.9,7,-85.7
-Calgary Flames,2007,230.03,5,46.01
-Calgary Flames,2008,167.45,7,23.92
-Calgary Flames,2009,-717.72,5,-143.54
-Calgary Flames,2010,85.37,6,14.23
-Calgary Flames,2011,1193.78,4,298.44
-Calgary Flames,2012,-0.24,6,-0.04
-Calgary Flames,2013,-1101.64,8,-137.71
-Calgary Flames,2014,-588.46,5,-117.69
-Calgary Flames,2015,1117.18,5,223.44
-Calgary Flames,2016,1205.42,8,150.68
-Calgary Flames,2017,-243.59,5,-48.72
-Carolina Hurricanes,2005,-1360.24,9,-151.14
-Carolina Hurricanes,2006,117.44,6,19.57
-Carolina Hurricanes,2007,277.61,5,55.52
-Carolina Hurricanes,2008,-542.42,4,-135.6
-Carolina Hurricanes,2009,-350.03,6,-58.34
-Carolina Hurricanes,2010,-294.83,7,-42.12
-Carolina Hurricanes,2011,-47.01,5,-9.4
-Carolina Hurricanes,2012,662.95,7,94.71
-Carolina Hurricanes,2013,379.72,4,94.93
-Carolina Hurricanes,2014,75.54,6,12.59
-Carolina Hurricanes,2015,1524.68,8,190.58
-Carolina Hurricanes,2016,-1128.1,7,-161.16
-Carolina Hurricanes,2017,1006.01,7,143.72
-Chicago Blackhawks,2005,-957.37,11,-87.03
-Chicago Blackhawks,2006,-854.94,8,-106.87
-Chicago Blackhawks,2007,-912.21,6,-152.04
-Chicago Blackhawks,2008,-764.24,7,-109.18
-Chicago Blackhawks,2009,468.24,8,58.53
-Chicago Blackhawks,2010,422.66,8,52.83
-Chicago Blackhawks,2011,446.95,10,44.7
-Chicago Blackhawks,2012,471.16,6,78.53
-Chicago Blackhawks,2013,378.24,8,47.28
-Chicago Blackhawks,2014,85.19,8,10.65
-Chicago Blackhawks,2015,-501.63,7,-71.66
-Chicago Blackhawks,2016,-231.19,8,-28.9
-Chicago Blackhawks,2017,-573.31,9,-63.7
-Colorado Avalanche,2005,112.14,9,12.46
-Colorado Avalanche,2006,-464.93,5,-92.99
-Colorado Avalanche,2007,119.04,7,17.01
-Colorado Avalanche,2008,-528.28,6,-88.05
-Colorado Avalanche,2009,1413.47,5,282.69
-Colorado Avalanche,2010,-1010.91,6,-168.48
-Colorado Avalanche,2011,-859.94,6,-143.32
-Colorado Avalanche,2012,-468.3,5,-93.66
-Colorado Avalanche,2013,384.39,6,64.06
-Colorado Avalanche,2014,-819.81,6,-136.64
-Colorado Avalanche,2015,408.31,7,58.33
-Colorado Avalanche,2016,-421.98,5,-84.4
-Colorado Avalanche,2017,360.24,6,60.04
-Columbus Blue Jackets,2005,309.43,7,44.2
-Columbus Blue Jackets,2006,-6.72,9,-0.75
-Columbus Blue Jackets,2007,-449.53,6,-74.92
-Columbus Blue Jackets,2008,253.25,9,28.14
-Columbus Blue Jackets,2009,156.99,6,26.16
-Columbus Blue Jackets,2010,-540.55,6,-90.09
-Columbus Blue Jackets,2011,917.61,5,183.52
-Columbus Blue Jackets,2012,130.65,4,32.66
-Columbus Blue Jackets,2013,-39.16,8,-4.9
-Columbus Blue Jackets,2014,-783.01,6,-130.5
-Columbus Blue Jackets,2015,1042.97,9,115.89
-Columbus Blue Jackets,2016,132.28,4,33.07
-Columbus Blue Jackets,2017,188.79,6,31.46
-Dallas Stars,2005,884.55,6,147.42
-Dallas Stars,2006,-673.96,4,-168.49
-Dallas Stars,2007,695.51,8,86.94
-Dallas Stars,2008,-177.01,4,-44.25
-Dallas Stars,2009,492.62,5,98.52
-Dallas Stars,2010,665.22,4,166.3
-Dallas Stars,2011,80.11,6,13.35
-Dallas Stars,2012,228.2,8,28.52
-Dallas Stars,2013,890.82,8,111.35
-Dallas Stars,2014,-1503.61,8,-187.95
-Dallas Stars,2015,624.44,4,156.11
-Dallas Stars,2016,-665.17,5,-133.03
-Dallas Stars,2017,767.65,5,153.53
-Detroit Red Wings,2005,420.67,9,46.74
-Detroit Red Wings,2006,-12.83,6,-2.14
-Detroit Red Wings,2007,183.91,5,36.78
-Detroit Red Wings,2008,333.92,5,66.78
-Detroit Red Wings,2009,775.55,7,110.79
-Detroit Red Wings,2010,404.06,6,67.34
-Detroit Red Wings,2011,-524.93,9,-58.33
-Detroit Red Wings,2012,335.47,5,67.09
-Detroit Red Wings,2013,816.2,8,102.02
-Detroit Red Wings,2014,28.75,6,4.79
-Detroit Red Wings,2015,-496.79,5,-99.36
-Detroit Red Wings,2016,120.49,6,20.08
-Detroit Red Wings,2017,-1209.19,10,-120.92
-Edmonton Oilers,2005,81.09,8,10.14
-Edmonton Oilers,2006,194.97,4,48.74
-Edmonton Oilers,2007,-504.69,6,-84.12
-Edmonton Oilers,2008,284.45,5,56.89
-Edmonton Oilers,2009,-554.62,6,-92.44
-Edmonton Oilers,2010,54.04,10,5.4
-Edmonton Oilers,2011,141.45,7,20.21
-Edmonton Oilers,2012,211.0,7,30.14
-Edmonton Oilers,2013,-924.52,10,-92.45
-Edmonton Oilers,2014,444.53,4,111.13
-Edmonton Oilers,2015,1557.08,5,311.42
-Edmonton Oilers,2016,-536.54,8,-67.07
-Edmonton Oilers,2017,-100.79,6,-16.8
-Florida Panthers,2005,-1151.08,6,-191.85
-Florida Panthers,2006,-134.61,5,-26.92
-Florida Panthers,2007,1.88,7,0.27
-Florida Panthers,2008,-160.47,4,-40.12
-Florida Panthers,2009,-484.18,7,-69.17
-Florida Panthers,2010,365.36,12,30.45
-Florida Panthers,2011,1122.89,10,112.29
-Florida Panthers,2012,-1.75,5,-0.35
-Florida Panthers,2013,791.08,7,113.01
-Florida Panthers,2014,-469.8,5,-93.96
-Florida Panthers,2015,138.97,6,23.16
-Florida Panthers,2016,-721.06,7,-103.01
-Florida Panthers,2017,-312.2,5,-62.44
-Los Angeles Kings,2005,-249.79,7,-35.68
-Los Angeles Kings,2006,-725.36,7,-103.62
-Los Angeles Kings,2007,994.76,9,110.53
-Los Angeles Kings,2008,-669.25,9,-74.36
-Los Angeles Kings,2009,1616.3,9,179.59
-Los Angeles Kings,2010,936.19,5,187.24
-Los Angeles Kings,2011,-39.9,5,-7.98
-Los Angeles Kings,2012,524.83,6,87.47
-Los Angeles Kings,2013,935.62,6,155.94
-Los Angeles Kings,2014,831.82,9,92.42
-Los Angeles Kings,2015,627.36,6,104.56
-Los Angeles Kings,2016,61.51,4,15.38
-Los Angeles Kings,2017,603.31,6,100.55
-Minnesota Wild,2005,-614.86,6,-102.48
-Minnesota Wild,2006,-149.95,6,-24.99
-Minnesota Wild,2007,-419.04,5,-83.81
-Minnesota Wild,2008,-454.25,4,-113.56
-Minnesota Wild,2009,488.88,6,81.48
-Minnesota Wild,2010,824.9,5,164.98
-Minnesota Wild,2011,-118.43,5,-23.69
-Minnesota Wild,2012,-766.75,7,-109.54
-Minnesota Wild,2013,122.68,6,20.45
-Minnesota Wild,2014,-61.08,7,-8.73
-Minnesota Wild,2015,1833.92,6,305.65
-Minnesota Wild,2016,259.44,4,64.86
-Minnesota Wild,2017,-572.13,6,-95.36
-Montreal Canadiens,2005,1142.32,6,190.39
-Montreal Canadiens,2006,-1043.63,6,-173.94
-Montreal Canadiens,2007,1132.44,9,125.83
-Montreal Canadiens,2008,-613.44,4,-153.36
-Montreal Canadiens,2009,-1110.46,7,-158.64
-Montreal Canadiens,2010,67.77,5,13.55
-Montreal Canadiens,2011,-596.04,7,-85.15
-Montreal Canadiens,2012,-853.96,7,-121.99
-Montreal Canadiens,2013,462.71,7,66.1
-Montreal Canadiens,2014,-263.53,5,-52.71
-Montreal Canadiens,2015,-628.57,5,-125.71
-Montreal Canadiens,2016,349.63,6,58.27
-Montreal Canadiens,2017,-560.66,6,-93.44
-Nashville Predators,2005,669.27,7,95.61
-Nashville Predators,2006,-462.92,4,-115.73
-Nashville Predators,2007,-532.84,7,-76.12
-Nashville Predators,2008,458.59,5,91.72
-Nashville Predators,2009,1208.21,10,120.82
-Nashville Predators,2010,-166.45,6,-27.74
-Nashville Predators,2011,-506.63,6,-84.44
-Nashville Predators,2012,427.03,8,53.38
-Nashville Predators,2013,-625.06,8,-78.13
-Nashville Predators,2014,393.49,7,56.21
-Nashville Predators,2015,1027.49,5,205.5
-Nashville Predators,2016,116.67,7,16.67
-Nashville Predators,2017,-161.35,5,-32.27
-New Jersey Devils,2005,290.45,6,48.41
-New Jersey Devils,2006,-1615.98,8,-202.0
-New Jersey Devils,2007,-290.33,6,-48.39
-New Jersey Devils,2008,-660.8,9,-73.42
-New Jersey Devils,2009,-314.25,7,-44.89
-New Jersey Devils,2010,-18.42,3,-6.14
-New Jersey Devils,2011,205.19,6,34.2
-New Jersey Devils,2012,381.27,7,54.47
-New Jersey Devils,2013,292.14,4,73.03
-New Jersey Devils,2014,-1084.63,6,-180.77
-New Jersey Devils,2015,-73.89,4,-18.47
-New Jersey Devils,2016,948.92,8,118.62
-New Jersey Devils,2017,346.81,10,34.68
-New York Islanders,2005,-1068.45,7,-152.64
-New York Islanders,2006,-129.53,11,-11.78
-New York Islanders,2007,-634.47,5,-126.89
-New York Islanders,2008,374.64,12,31.22
-New York Islanders,2009,1129.67,5,225.93
-New York Islanders,2010,80.23,5,16.05
-New York Islanders,2011,-304.6,8,-38.08
-New York Islanders,2012,-916.16,7,-130.88
-New York Islanders,2013,252.32,5,50.46
-New York Islanders,2014,-194.34,5,-38.87
-New York Islanders,2015,549.0,7,78.43
-New York Islanders,2016,-771.36,6,-128.56
-New York Islanders,2017,-398.06,5,-79.61
-New York Rangers,2005,-438.84,9,-48.76
-New York Rangers,2006,-452.24,7,-64.61
-New York Rangers,2007,-195.92,5,-39.18
-New York Rangers,2008,786.85,7,112.41
-New York Rangers,2009,-171.93,6,-28.66
-New York Rangers,2010,-270.46,6,-45.08
-New York Rangers,2011,-158.38,6,-26.4
-New York Rangers,2012,140.73,4,35.18
-New York Rangers,2013,1723.14,4,430.78
-New York Rangers,2014,-843.9,5,-168.78
-New York Rangers,2015,-1007.93,6,-167.99
-New York Rangers,2016,-417.89,5,-83.58
-New York Rangers,2017,-199.04,7,-28.43
-Ottawa Senators,2005,-498.92,8,-62.36
-Ottawa Senators,2006,1011.03,6,168.51
-Ottawa Senators,2007,-783.2,4,-195.8
-Ottawa Senators,2008,1840.84,7,262.98
-Ottawa Senators,2009,844.79,8,105.6
-Ottawa Senators,2010,1048.23,4,262.06
-Ottawa Senators,2011,1416.08,10,141.61
-Ottawa Senators,2012,-615.69,5,-123.14
-Ottawa Senators,2013,-285.7,6,-47.62
-Ottawa Senators,2014,-138.62,5,-27.72
-Ottawa Senators,2015,312.64,7,44.66
-Ottawa Senators,2016,-782.41,5,-156.48
-Ottawa Senators,2017,342.45,3,114.15
-Philadelphia Flyers,2005,227.89,5,45.58
-Philadelphia Flyers,2006,-829.17,8,-103.65
-Philadelphia Flyers,2007,-41.8,6,-6.97
-Philadelphia Flyers,2008,265.84,3,88.61
-Philadelphia Flyers,2009,-176.83,4,-44.21
-Philadelphia Flyers,2010,-166.07,6,-27.68
-Philadelphia Flyers,2011,506.03,6,84.34
-Philadelphia Flyers,2012,412.75,6,68.79
-Philadelphia Flyers,2013,-606.9,5,-121.38
-Philadelphia Flyers,2014,872.77,6,145.46
-Philadelphia Flyers,2015,-78.66,6,-13.11
-Philadelphia Flyers,2016,-1268.45,9,-140.94
-Philadelphia Flyers,2017,-234.97,8,-29.37
-Pittsburgh Penguins,2005,430.13,7,61.45
-Pittsburgh Penguins,2006,-226.62,4,-56.66
-Pittsburgh Penguins,2007,-170.4,8,-21.3
-Pittsburgh Penguins,2008,-232.31,2,-116.16
-Pittsburgh Penguins,2009,-1085.86,7,-155.12
-Pittsburgh Penguins,2010,706.21,6,117.7
-Pittsburgh Penguins,2011,580.04,5,116.01
-Pittsburgh Penguins,2012,650.48,7,92.93
-Pittsburgh Penguins,2013,639.42,5,127.88
-Pittsburgh Penguins,2014,566.87,5,113.37
-Pittsburgh Penguins,2015,779.82,4,194.96
-Pittsburgh Penguins,2016,-1008.98,5,-201.8
-Pittsburgh Penguins,2017,-711.58,6,-118.6
-San Jose Sharks,2005,255.61,6,42.6
-San Jose Sharks,2006,-334.89,6,-55.82
-San Jose Sharks,2007,990.17,6,165.03
-San Jose Sharks,2008,614.52,6,102.42
-San Jose Sharks,2009,-645.69,5,-129.14
-San Jose Sharks,2010,31.38,8,3.92
-San Jose Sharks,2011,1530.86,6,255.14
-San Jose Sharks,2012,572.37,6,95.4
-San Jose Sharks,2013,-847.44,6,-141.24
-San Jose Sharks,2014,-393.48,8,-49.18
-San Jose Sharks,2015,-289.02,7,-41.29
-San Jose Sharks,2016,242.85,5,48.57
-San Jose Sharks,2017,352.96,6,58.83
-St. Louis Blues,2005,371.49,6,61.92
-St. Louis Blues,2006,-764.68,8,-95.58
-St. Louis Blues,2007,-629.72,10,-62.97
-St. Louis Blues,2008,-152.11,8,-19.01
-St. Louis Blues,2009,-992.81,6,-165.47
-St. Louis Blues,2010,363.52,7,51.93
-St. Louis Blues,2011,431.25,6,71.88
-St. Louis Blues,2012,-294.19,7,-42.03
-St. Louis Blues,2013,-309.61,4,-77.4
-St. Louis Blues,2014,936.08,9,104.01
-St. Louis Blues,2015,795.61,5,159.12
-St. Louis Blues,2016,712.7,7,101.81
-St. Louis Blues,2017,922.05,6,153.68
-Tampa Bay Lightning,2005,-998.99,8,-124.87
-Tampa Bay Lightning,2006,-344.26,3,-114.75
-Tampa Bay Lightning,2007,-167.04,8,-20.88
-Tampa Bay Lightning,2008,206.33,7,29.48
-Tampa Bay Lightning,2009,90.19,5,18.04
-Tampa Bay Lightning,2010,-655.23,8,-81.9
-Tampa Bay Lightning,2011,2398.63,5,479.73
-Tampa Bay Lightning,2012,-256.95,7,-36.71
-Tampa Bay Lightning,2013,59.34,5,11.87
-Tampa Bay Lightning,2014,517.73,7,73.96
-Tampa Bay Lightning,2015,372.03,8,46.5
-Tampa Bay Lightning,2016,743.02,9,82.56
-Tampa Bay Lightning,2017,-122.9,6,-20.48
-Toronto Maple Leafs,2005,105.38,5,21.08
-Toronto Maple Leafs,2006,1794.51,6,299.08
-Toronto Maple Leafs,2007,-19.22,6,-3.2
-Toronto Maple Leafs,2008,96.62,7,13.8
-Toronto Maple Leafs,2009,-796.67,7,-113.81
-Toronto Maple Leafs,2010,-178.45,7,-25.49
-Toronto Maple Leafs,2011,-1023.57,8,-127.95
-Toronto Maple Leafs,2012,478.07,6,79.68
-Toronto Maple Leafs,2013,929.7,4,232.42
-Toronto Maple Leafs,2014,1342.87,6,223.81
-Toronto Maple Leafs,2015,-21.15,9,-2.35
-Toronto Maple Leafs,2016,-283.05,10,-28.3
-Toronto Maple Leafs,2017,-487.44,6,-81.24
-Vancouver Canucks,2005,-273.91,5,-54.78
-Vancouver Canucks,2006,-262.31,5,-52.46
-Vancouver Canucks,2007,-1101.71,6,-183.62
-Vancouver Canucks,2008,-293.61,4,-73.4
-Vancouver Canucks,2009,-228.87,6,-38.14
-Vancouver Canucks,2010,-298.05,4,-74.51
-Vancouver Canucks,2011,-847.15,7,-121.02
-Vancouver Canucks,2012,-272.06,5,-54.41
-Vancouver Canucks,2013,-886.49,7,-126.64
-Vancouver Canucks,2014,416.29,6,69.38
-Vancouver Canucks,2015,512.17,7,73.17
-Vancouver Canucks,2016,-1009.5,6,-168.25
-Vancouver Canucks,2017,-407.19,7,-58.17
-Vegas Golden Knights,2017,330.64,10,33.06
-Washington Capitals,2005,-1016.85,6,-169.48
-Washington Capitals,2006,179.94,8,22.49
-Washington Capitals,2007,-1191.24,9,-132.36
-Washington Capitals,2008,-867.4,7,-123.91
-Washington Capitals,2009,730.97,7,104.42
-Washington Capitals,2010,66.78,4,16.7
-Washington Capitals,2011,328.18,3,109.39
-Washington Capitals,2012,1465.21,9,162.8
-Washington Capitals,2013,654.09,6,109.01
-Washington Capitals,2014,381.8,5,76.36
-Washington Capitals,2015,128.37,3,42.79
-Washington Capitals,2016,-420.45,7,-60.06
-Washington Capitals,2017,-414.4,4,-103.6
-Winnipeg Jets,2005,-1497.23,7,-213.89
-Winnipeg Jets,2006,-512.58,7,-73.23
-Winnipeg Jets,2007,-104.51,4,-26.13
-Winnipeg Jets,2008,-839.44,6,-139.91
-Winnipeg Jets,2009,-224.08,8,-28.01
-Winnipeg Jets,2010,-562.51,8,-70.31
-Winnipeg Jets,2011,399.2,6,66.53
-Winnipeg Jets,2012,-594.94,4,-148.73
-Winnipeg Jets,2013,515.05,9,57.23
-Winnipeg Jets,2014,-547.88,7,-78.27
-Winnipeg Jets,2015,1321.96,8,165.24
-Winnipeg Jets,2016,-452.93,5,-90.59
-Winnipeg Jets,2017,-424.78,7,-60.68
+team,draft_year,total_draft_value,total_picks,avg_draft_value_per_pick,year_rank
+Anaheim Ducks,2005,-394.56,5,-78.91,20
+Anaheim Ducks,2006,-552.31,5,-110.46,25
+Anaheim Ducks,2007,-741.27,6,-123.54,23
+Anaheim Ducks,2008,-535.74,9,-59.53,17
+Anaheim Ducks,2009,268.69,6,44.78,12
+Anaheim Ducks,2010,607.03,8,75.88,6
+Anaheim Ducks,2011,1493.73,6,248.96,4
+Anaheim Ducks,2012,-425.01,7,-60.72,23
+Anaheim Ducks,2013,-239.48,5,-47.9,22
+Anaheim Ducks,2014,1153.87,5,230.77,2
+Anaheim Ducks,2015,124.81,6,20.8,21
+Anaheim Ducks,2016,150.97,6,25.16,11
+Anaheim Ducks,2017,-102.58,4,-25.65,14
+Arizona Coyotes,2005,808.91,4,202.23,1
+Arizona Coyotes,2006,-415.96,7,-59.42,15
+Arizona Coyotes,2007,-815.69,5,-163.14,27
+Arizona Coyotes,2008,-324.77,8,-40.6,15
+Arizona Coyotes,2009,-447.21,5,-89.44,22
+Arizona Coyotes,2010,-438.74,3,-146.25,29
+Arizona Coyotes,2011,-920.07,8,-115.01,27
+Arizona Coyotes,2012,-651.58,7,-93.08,24
+Arizona Coyotes,2013,171.31,5,34.26,16
+Arizona Coyotes,2014,310.65,9,34.52,14
+Arizona Coyotes,2015,746.39,7,106.63,11
+Arizona Coyotes,2016,400.53,5,80.11,6
+Arizona Coyotes,2017,-1180.93,9,-131.21,31
+Boston Bruins,2005,-785.46,8,-98.18,22
+Boston Bruins,2006,1531.79,6,255.3,2
+Boston Bruins,2007,-1293.18,6,-215.53,30
+Boston Bruins,2008,-612.62,5,-122.52,26
+Boston Bruins,2009,-706.43,5,-141.29,26
+Boston Bruins,2010,305.42,7,43.63,10
+Boston Bruins,2011,-404.79,5,-80.96,23
+Boston Bruins,2012,719.51,5,143.9,2
+Boston Bruins,2013,-602.14,6,-100.36,26
+Boston Bruins,2014,2356.49,5,471.3,1
+Boston Bruins,2015,-630.4,9,-70.04,26
+Boston Bruins,2016,808.65,6,134.78,2
+Boston Bruins,2017,-473.81,5,-94.76,26
+Buffalo Sabres,2005,157.6,8,19.7,13
+Buffalo Sabres,2006,-346.37,5,-69.27,17
+Buffalo Sabres,2007,191.91,6,31.98,8
+Buffalo Sabres,2008,-638.51,8,-79.81,21
+Buffalo Sabres,2009,626.87,5,125.37,4
+Buffalo Sabres,2010,-676.86,9,-75.21,26
+Buffalo Sabres,2011,-455.27,5,-91.05,26
+Buffalo Sabres,2012,-143.25,7,-20.46,19
+Buffalo Sabres,2013,-371.04,10,-37.1,20
+Buffalo Sabres,2014,409.98,8,51.25,13
+Buffalo Sabres,2015,376.06,6,62.68,15
+Buffalo Sabres,2016,-275.0,10,-27.5,15
+Buffalo Sabres,2017,12.12,5,2.42,11
+Calgary Flames,2005,-1265.57,6,-210.93,29
+Calgary Flames,2006,-599.9,7,-85.7,19
+Calgary Flames,2007,230.03,5,46.01,6
+Calgary Flames,2008,167.45,7,23.92,11
+Calgary Flames,2009,-717.72,5,-143.54,27
+Calgary Flames,2010,85.37,6,14.23,14
+Calgary Flames,2011,1193.78,4,298.44,2
+Calgary Flames,2012,-0.24,6,-0.04,17
+Calgary Flames,2013,-1101.64,8,-137.71,29
+Calgary Flames,2014,-588.46,5,-117.69,25
+Calgary Flames,2015,1117.18,5,223.44,3
+Calgary Flames,2016,1205.42,8,150.68,1
+Calgary Flames,2017,-243.59,5,-48.72,18
+Carolina Hurricanes,2005,-1360.24,9,-151.14,25
+Carolina Hurricanes,2006,117.44,6,19.57,6
+Carolina Hurricanes,2007,277.61,5,55.52,5
+Carolina Hurricanes,2008,-542.42,4,-135.6,28
+Carolina Hurricanes,2009,-350.03,6,-58.34,20
+Carolina Hurricanes,2010,-294.83,7,-42.12,22
+Carolina Hurricanes,2011,-47.01,5,-9.4,18
+Carolina Hurricanes,2012,662.95,7,94.71,4
+Carolina Hurricanes,2013,379.72,4,94.93,9
+Carolina Hurricanes,2014,75.54,6,12.59,15
+Carolina Hurricanes,2015,1524.68,8,190.58,6
+Carolina Hurricanes,2016,-1128.1,7,-161.16,28
+Carolina Hurricanes,2017,1006.01,7,143.72,3
+Chicago Blackhawks,2005,-957.37,11,-87.03,21
+Chicago Blackhawks,2006,-854.94,8,-106.87,24
+Chicago Blackhawks,2007,-912.21,6,-152.04,26
+Chicago Blackhawks,2008,-764.24,7,-109.18,23
+Chicago Blackhawks,2009,468.24,8,58.53,11
+Chicago Blackhawks,2010,422.66,8,52.83,8
+Chicago Blackhawks,2011,446.95,10,44.7,13
+Chicago Blackhawks,2012,471.16,6,78.53,8
+Chicago Blackhawks,2013,378.24,8,47.28,15
+Chicago Blackhawks,2014,85.19,8,10.65,16
+Chicago Blackhawks,2015,-501.63,7,-71.66,27
+Chicago Blackhawks,2016,-231.19,8,-28.9,17
+Chicago Blackhawks,2017,-573.31,9,-63.7,22
+Colorado Avalanche,2005,112.14,9,12.46,14
+Colorado Avalanche,2006,-464.93,5,-92.99,20
+Colorado Avalanche,2007,119.04,7,17.01,9
+Colorado Avalanche,2008,-528.28,6,-88.05,22
+Colorado Avalanche,2009,1413.47,5,282.69,1
+Colorado Avalanche,2010,-1010.91,6,-168.48,30
+Colorado Avalanche,2011,-859.94,6,-143.32,30
+Colorado Avalanche,2012,-468.3,5,-93.66,25
+Colorado Avalanche,2013,384.39,6,64.06,12
+Colorado Avalanche,2014,-819.81,6,-136.64,27
+Colorado Avalanche,2015,408.31,7,58.33,16
+Colorado Avalanche,2016,-421.98,5,-84.4,21
+Colorado Avalanche,2017,360.24,6,60.04,6
+Columbus Blue Jackets,2005,309.43,7,44.2,10
+Columbus Blue Jackets,2006,-6.72,9,-0.75,7
+Columbus Blue Jackets,2007,-449.53,6,-74.92,19
+Columbus Blue Jackets,2008,253.25,9,28.14,10
+Columbus Blue Jackets,2009,156.99,6,26.16,13
+Columbus Blue Jackets,2010,-540.55,6,-90.09,28
+Columbus Blue Jackets,2011,917.61,5,183.52,5
+Columbus Blue Jackets,2012,130.65,4,32.66,14
+Columbus Blue Jackets,2013,-39.16,8,-4.9,19
+Columbus Blue Jackets,2014,-783.01,6,-130.5,26
+Columbus Blue Jackets,2015,1042.97,9,115.89,10
+Columbus Blue Jackets,2016,132.28,4,33.07,10
+Columbus Blue Jackets,2017,188.79,6,31.46,10
+Dallas Stars,2005,884.55,6,147.42,3
+Dallas Stars,2006,-673.96,4,-168.49,28
+Dallas Stars,2007,695.51,8,86.94,4
+Dallas Stars,2008,-177.01,4,-44.25,16
+Dallas Stars,2009,492.62,5,98.52,9
+Dallas Stars,2010,665.22,4,166.3,3
+Dallas Stars,2011,80.11,6,13.35,16
+Dallas Stars,2012,228.2,8,28.52,16
+Dallas Stars,2013,890.82,8,111.35,6
+Dallas Stars,2014,-1503.61,8,-187.95,30
+Dallas Stars,2015,624.44,4,156.11,9
+Dallas Stars,2016,-665.17,5,-133.03,25
+Dallas Stars,2017,767.65,5,153.53,2
+Detroit Red Wings,2005,420.67,9,46.74,8
+Detroit Red Wings,2006,-12.83,6,-2.14,8
+Detroit Red Wings,2007,183.91,5,36.78,7
+Detroit Red Wings,2008,333.92,5,66.78,6
+Detroit Red Wings,2009,775.55,7,110.79,6
+Detroit Red Wings,2010,404.06,6,67.34,7
+Detroit Red Wings,2011,-524.93,9,-58.33,22
+Detroit Red Wings,2012,335.47,5,67.09,10
+Detroit Red Wings,2013,816.2,8,102.02,8
+Detroit Red Wings,2014,28.75,6,4.79,17
+Detroit Red Wings,2015,-496.79,5,-99.36,28
+Detroit Red Wings,2016,120.49,6,20.08,12
+Detroit Red Wings,2017,-1209.19,10,-120.92,30
+Edmonton Oilers,2005,81.09,8,10.14,15
+Edmonton Oilers,2006,194.97,4,48.74,4
+Edmonton Oilers,2007,-504.69,6,-84.12,22
+Edmonton Oilers,2008,284.45,5,56.89,7
+Edmonton Oilers,2009,-554.62,6,-92.44,23
+Edmonton Oilers,2010,54.04,10,5.4,16
+Edmonton Oilers,2011,141.45,7,20.21,15
+Edmonton Oilers,2012,211.0,7,30.14,15
+Edmonton Oilers,2013,-924.52,10,-92.45,25
+Edmonton Oilers,2014,444.53,4,111.13,6
+Edmonton Oilers,2015,1557.08,5,311.42,1
+Edmonton Oilers,2016,-536.54,8,-67.07,19
+Edmonton Oilers,2017,-100.79,6,-16.8,12
+Florida Panthers,2005,-1151.08,6,-191.85,28
+Florida Panthers,2006,-134.61,5,-26.92,11
+Florida Panthers,2007,1.88,7,0.27,10
+Florida Panthers,2008,-160.47,4,-40.12,14
+Florida Panthers,2009,-484.18,7,-69.17,21
+Florida Panthers,2010,365.36,12,30.45,11
+Florida Panthers,2011,1122.89,10,112.29,8
+Florida Panthers,2012,-1.75,5,-0.35,18
+Florida Panthers,2013,791.08,7,113.01,5
+Florida Panthers,2014,-469.8,5,-93.96,24
+Florida Panthers,2015,138.97,6,23.16,20
+Florida Panthers,2016,-721.06,7,-103.01,23
+Florida Panthers,2017,-312.2,5,-62.44,21
+Los Angeles Kings,2005,-249.79,7,-35.68,16
+Los Angeles Kings,2006,-725.36,7,-103.62,22
+Los Angeles Kings,2007,994.76,9,110.53,3
+Los Angeles Kings,2008,-669.25,9,-74.36,20
+Los Angeles Kings,2009,1616.3,9,179.59,3
+Los Angeles Kings,2010,936.19,5,187.24,2
+Los Angeles Kings,2011,-39.9,5,-7.98,17
+Los Angeles Kings,2012,524.83,6,87.47,6
+Los Angeles Kings,2013,935.62,6,155.94,3
+Los Angeles Kings,2014,831.82,9,92.42,8
+Los Angeles Kings,2015,627.36,6,104.56,12
+Los Angeles Kings,2016,61.51,4,15.38,14
+Los Angeles Kings,2017,603.31,6,100.55,5
+Minnesota Wild,2005,-614.86,6,-102.48,23
+Minnesota Wild,2006,-149.95,6,-24.99,10
+Minnesota Wild,2007,-419.04,5,-83.81,21
+Minnesota Wild,2008,-454.25,4,-113.56,24
+Minnesota Wild,2009,488.88,6,81.48,10
+Minnesota Wild,2010,824.9,5,164.98,4
+Minnesota Wild,2011,-118.43,5,-23.69,19
+Minnesota Wild,2012,-766.75,7,-109.54,26
+Minnesota Wild,2013,122.68,6,20.45,17
+Minnesota Wild,2014,-61.08,7,-8.73,18
+Minnesota Wild,2015,1833.92,6,305.65,2
+Minnesota Wild,2016,259.44,4,64.86,7
+Minnesota Wild,2017,-572.13,6,-95.36,27
+Montreal Canadiens,2005,1142.32,6,190.39,2
+Montreal Canadiens,2006,-1043.63,6,-173.94,29
+Montreal Canadiens,2007,1132.44,9,125.83,2
+Montreal Canadiens,2008,-613.44,4,-153.36,30
+Montreal Canadiens,2009,-1110.46,7,-158.64,29
+Montreal Canadiens,2010,67.77,5,13.55,15
+Montreal Canadiens,2011,-596.04,7,-85.15,25
+Montreal Canadiens,2012,-853.96,7,-121.99,27
+Montreal Canadiens,2013,462.71,7,66.1,11
+Montreal Canadiens,2014,-263.53,5,-52.71,22
+Montreal Canadiens,2015,-628.57,5,-125.71,29
+Montreal Canadiens,2016,349.63,6,58.27,8
+Montreal Canadiens,2017,-560.66,6,-93.44,25
+Nashville Predators,2005,669.27,7,95.61,4
+Nashville Predators,2006,-462.92,4,-115.73,27
+Nashville Predators,2007,-532.84,7,-76.12,20
+Nashville Predators,2008,458.59,5,91.72,4
+Nashville Predators,2009,1208.21,10,120.82,5
+Nashville Predators,2010,-166.45,6,-27.74,21
+Nashville Predators,2011,-506.63,6,-84.44,24
+Nashville Predators,2012,427.03,8,53.38,12
+Nashville Predators,2013,-625.06,8,-78.13,24
+Nashville Predators,2014,393.49,7,56.21,12
+Nashville Predators,2015,1027.49,5,205.5,4
+Nashville Predators,2016,116.67,7,16.67,13
+Nashville Predators,2017,-161.35,5,-32.27,17
+New Jersey Devils,2005,290.45,6,48.41,7
+New Jersey Devils,2006,-1615.98,8,-202.0,30
+New Jersey Devils,2007,-290.33,6,-48.39,17
+New Jersey Devils,2008,-660.8,9,-73.42,19
+New Jersey Devils,2009,-314.25,7,-44.89,19
+New Jersey Devils,2010,-18.42,3,-6.14,18
+New Jersey Devils,2011,205.19,6,34.2,14
+New Jersey Devils,2012,381.27,7,54.47,11
+New Jersey Devils,2013,292.14,4,73.03,10
+New Jersey Devils,2014,-1084.63,6,-180.77,29
+New Jersey Devils,2015,-73.89,4,-18.47,24
+New Jersey Devils,2016,948.92,8,118.62,3
+New Jersey Devils,2017,346.81,10,34.68,8
+New York Islanders,2005,-1068.45,7,-152.64,26
+New York Islanders,2006,-129.53,11,-11.78,9
+New York Islanders,2007,-634.47,5,-126.89,24
+New York Islanders,2008,374.64,12,31.22,8
+New York Islanders,2009,1129.67,5,225.93,2
+New York Islanders,2010,80.23,5,16.05,13
+New York Islanders,2011,-304.6,8,-38.08,21
+New York Islanders,2012,-916.16,7,-130.88,29
+New York Islanders,2013,252.32,5,50.46,14
+New York Islanders,2014,-194.34,5,-38.87,20
+New York Islanders,2015,549.0,7,78.43,13
+New York Islanders,2016,-771.36,6,-128.56,24
+New York Islanders,2017,-398.06,5,-79.61,23
+New York Rangers,2005,-438.84,9,-48.76,17
+New York Rangers,2006,-452.24,7,-64.61,16
+New York Rangers,2007,-195.92,5,-39.18,16
+New York Rangers,2008,786.85,7,112.41,2
+New York Rangers,2009,-171.93,6,-28.66,16
+New York Rangers,2010,-270.46,6,-45.08,23
+New York Rangers,2011,-158.38,6,-26.4,20
+New York Rangers,2012,140.73,4,35.18,13
+New York Rangers,2013,1723.14,4,430.78,1
+New York Rangers,2014,-843.9,5,-168.78,28
+New York Rangers,2015,-1007.93,6,-167.99,30
+New York Rangers,2016,-417.89,5,-83.58,20
+New York Rangers,2017,-199.04,7,-28.43,15
+Ottawa Senators,2005,-498.92,8,-62.36,19
+Ottawa Senators,2006,1011.03,6,168.51,3
+Ottawa Senators,2007,-783.2,4,-195.8,29
+Ottawa Senators,2008,1840.84,7,262.98,1
+Ottawa Senators,2009,844.79,8,105.6,7
+Ottawa Senators,2010,1048.23,4,262.06,1
+Ottawa Senators,2011,1416.08,10,141.61,6
+Ottawa Senators,2012,-615.69,5,-123.14,28
+Ottawa Senators,2013,-285.7,6,-47.62,21
+Ottawa Senators,2014,-138.62,5,-27.72,19
+Ottawa Senators,2015,312.64,7,44.66,18
+Ottawa Senators,2016,-782.41,5,-156.48,27
+Ottawa Senators,2017,342.45,3,114.15,4
+Philadelphia Flyers,2005,227.89,5,45.58,9
+Philadelphia Flyers,2006,-829.17,8,-103.65,23
+Philadelphia Flyers,2007,-41.8,6,-6.97,12
+Philadelphia Flyers,2008,265.84,3,88.61,5
+Philadelphia Flyers,2009,-176.83,4,-44.21,18
+Philadelphia Flyers,2010,-166.07,6,-27.68,20
+Philadelphia Flyers,2011,506.03,6,84.34,10
+Philadelphia Flyers,2012,412.75,6,68.79,9
+Philadelphia Flyers,2013,-606.9,5,-121.38,27
+Philadelphia Flyers,2014,872.77,6,145.46,4
+Philadelphia Flyers,2015,-78.66,6,-13.11,23
+Philadelphia Flyers,2016,-1268.45,9,-140.94,26
+Philadelphia Flyers,2017,-234.97,8,-29.37,16
+Pittsburgh Penguins,2005,430.13,7,61.45,6
+Pittsburgh Penguins,2006,-226.62,4,-56.66,14
+Pittsburgh Penguins,2007,-170.4,8,-21.3,14
+Pittsburgh Penguins,2008,-232.31,2,-116.16,25
+Pittsburgh Penguins,2009,-1085.86,7,-155.12,28
+Pittsburgh Penguins,2010,706.21,6,117.7,5
+Pittsburgh Penguins,2011,580.04,5,116.01,7
+Pittsburgh Penguins,2012,650.48,7,92.93,5
+Pittsburgh Penguins,2013,639.42,5,127.88,4
+Pittsburgh Penguins,2014,566.87,5,113.37,5
+Pittsburgh Penguins,2015,779.82,4,194.96,5
+Pittsburgh Penguins,2016,-1008.98,5,-201.8,30
+Pittsburgh Penguins,2017,-711.58,6,-118.6,29
+San Jose Sharks,2005,255.61,6,42.6,11
+San Jose Sharks,2006,-334.89,6,-55.82,13
+San Jose Sharks,2007,990.17,6,165.03,1
+San Jose Sharks,2008,614.52,6,102.42,3
+San Jose Sharks,2009,-645.69,5,-129.14,25
+San Jose Sharks,2010,31.38,8,3.92,17
+San Jose Sharks,2011,1530.86,6,255.14,3
+San Jose Sharks,2012,572.37,6,95.4,3
+San Jose Sharks,2013,-847.44,6,-141.24,30
+San Jose Sharks,2014,-393.48,8,-49.18,21
+San Jose Sharks,2015,-289.02,7,-41.29,25
+San Jose Sharks,2016,242.85,5,48.57,9
+San Jose Sharks,2017,352.96,6,58.83,7
+St. Louis Blues,2005,371.49,6,61.92,5
+St. Louis Blues,2006,-764.68,8,-95.58,21
+St. Louis Blues,2007,-629.72,10,-62.97,18
+St. Louis Blues,2008,-152.11,8,-19.01,13
+St. Louis Blues,2009,-992.81,6,-165.47,30
+St. Louis Blues,2010,363.52,7,51.93,9
+St. Louis Blues,2011,431.25,6,71.88,11
+St. Louis Blues,2012,-294.19,7,-42.03,21
+St. Louis Blues,2013,-309.61,4,-77.4,23
+St. Louis Blues,2014,936.08,9,104.01,7
+St. Louis Blues,2015,795.61,5,159.12,8
+St. Louis Blues,2016,712.7,7,101.81,4
+St. Louis Blues,2017,922.05,6,153.68,1
+Tampa Bay Lightning,2005,-998.99,8,-124.87,24
+Tampa Bay Lightning,2006,-344.26,3,-114.75,26
+Tampa Bay Lightning,2007,-167.04,8,-20.88,13
+Tampa Bay Lightning,2008,206.33,7,29.48,9
+Tampa Bay Lightning,2009,90.19,5,18.04,14
+Tampa Bay Lightning,2010,-655.23,8,-81.9,27
+Tampa Bay Lightning,2011,2398.63,5,479.73,1
+Tampa Bay Lightning,2012,-256.95,7,-36.71,20
+Tampa Bay Lightning,2013,59.34,5,11.87,18
+Tampa Bay Lightning,2014,517.73,7,73.96,10
+Tampa Bay Lightning,2015,372.03,8,46.5,17
+Tampa Bay Lightning,2016,743.02,9,82.56,5
+Tampa Bay Lightning,2017,-122.9,6,-20.48,13
+Toronto Maple Leafs,2005,105.38,5,21.08,12
+Toronto Maple Leafs,2006,1794.51,6,299.08,1
+Toronto Maple Leafs,2007,-19.22,6,-3.2,11
+Toronto Maple Leafs,2008,96.62,7,13.8,12
+Toronto Maple Leafs,2009,-796.67,7,-113.81,24
+Toronto Maple Leafs,2010,-178.45,7,-25.49,19
+Toronto Maple Leafs,2011,-1023.57,8,-127.95,29
+Toronto Maple Leafs,2012,478.07,6,79.68,7
+Toronto Maple Leafs,2013,929.7,4,232.42,2
+Toronto Maple Leafs,2014,1342.87,6,223.81,3
+Toronto Maple Leafs,2015,-21.15,9,-2.35,22
+Toronto Maple Leafs,2016,-283.05,10,-28.3,16
+Toronto Maple Leafs,2017,-487.44,6,-81.24,24
+Vancouver Canucks,2005,-273.91,5,-54.78,18
+Vancouver Canucks,2006,-262.31,5,-52.46,12
+Vancouver Canucks,2007,-1101.71,6,-183.62,28
+Vancouver Canucks,2008,-293.61,4,-73.4,18
+Vancouver Canucks,2009,-228.87,6,-38.14,17
+Vancouver Canucks,2010,-298.05,4,-74.51,25
+Vancouver Canucks,2011,-847.15,7,-121.02,28
+Vancouver Canucks,2012,-272.06,5,-54.41,22
+Vancouver Canucks,2013,-886.49,7,-126.64,28
+Vancouver Canucks,2014,416.29,6,69.38,11
+Vancouver Canucks,2015,512.17,7,73.17,14
+Vancouver Canucks,2016,-1009.5,6,-168.25,29
+Vancouver Canucks,2017,-407.19,7,-58.17,19
+Vegas Golden Knights,2017,330.64,10,33.06,9
+Washington Capitals,2005,-1016.85,6,-169.48,27
+Washington Capitals,2006,179.94,8,22.49,5
+Washington Capitals,2007,-1191.24,9,-132.36,25
+Washington Capitals,2008,-867.4,7,-123.91,27
+Washington Capitals,2009,730.97,7,104.42,8
+Washington Capitals,2010,66.78,4,16.7,12
+Washington Capitals,2011,328.18,3,109.39,9
+Washington Capitals,2012,1465.21,9,162.8,1
+Washington Capitals,2013,654.09,6,109.01,7
+Washington Capitals,2014,381.8,5,76.36,9
+Washington Capitals,2015,128.37,3,42.79,19
+Washington Capitals,2016,-420.45,7,-60.06,18
+Washington Capitals,2017,-414.4,4,-103.6,28
+Winnipeg Jets,2005,-1497.23,7,-213.89,30
+Winnipeg Jets,2006,-512.58,7,-73.23,18
+Winnipeg Jets,2007,-104.51,4,-26.13,15
+Winnipeg Jets,2008,-839.44,6,-139.91,29
+Winnipeg Jets,2009,-224.08,8,-28.01,15
+Winnipeg Jets,2010,-562.51,8,-70.31,24
+Winnipeg Jets,2011,399.2,6,66.53,12
+Winnipeg Jets,2012,-594.94,4,-148.73,30
+Winnipeg Jets,2013,515.05,9,57.23,13
+Winnipeg Jets,2014,-547.88,7,-78.27,23
+Winnipeg Jets,2015,1321.96,8,165.24,7
+Winnipeg Jets,2016,-452.93,5,-90.59,22
+Winnipeg Jets,2017,-424.78,7,-60.68,20
